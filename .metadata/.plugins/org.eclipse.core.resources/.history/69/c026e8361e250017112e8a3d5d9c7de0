@@ -6,8 +6,6 @@ package stoqscreen;
  * stock terminal. 
  * 
  * 
- * This section needs to start first when stoqscreen is launched. 
- * 		--Q Should we have a sign in section or will stoqscreen be for guest users?
  * 
  * 
  * 
