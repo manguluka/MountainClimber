@@ -1,6 +1,3 @@
-Functionality Document
-<Last Updated: 4/20/2017>
-
 ### Sign In Functionality
 ---
 
