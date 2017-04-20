@@ -2,9 +2,10 @@ Functionality Document
 <Last Updated: 4/20/2017>
 
 ### Sign In Functionality
-Amazon Web Services -- MySQL Database
+---
 
-Need to explore PHP integration in Java
+
+Stoqscreen will implement PHP into Java using an Amazon Web Services MySQL DB
 
 User with either have the functionality of signing in or signing up with:
 -  Username
