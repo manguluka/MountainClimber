@@ -1,10 +1,12 @@
 Functionality Document
 <Last Updated: 4/20/2017>
 
-
+### Sign In Functionality
 Amazon Web Services -- MySQL Database
-  Need to explore PHP integration in Java 
-  User with either have the functionality of signing in or signing up with:
+
+Need to explore PHP integration in Java
+
+User with either have the functionality of signing in or signing up with:
 -  Username
 -  Password
 -  Name
