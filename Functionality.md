@@ -1,8 +1,3 @@
-
-Amazon Web Services -- MySQL Database
-  User with either have the functionality of signing in or signing up with  
-===
-
 ### Sign In Functionality
 ---
 
