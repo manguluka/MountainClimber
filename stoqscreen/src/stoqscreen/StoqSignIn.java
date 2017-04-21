@@ -5,6 +5,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
+import javafx.scene.layout.Pane;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
@@ -38,7 +39,7 @@ public class StoqSignIn extends Application {
 
 	@Override
 	public void start(Stage stage) throws Exception {
-		StackPane pane = new StackPane();
+		Pane pane = new Pane();
 		Scene scene = new Scene(pane, 400, 500);
 		stage.setTitle("stoqscreen Sign In");
 		stage.setScene(scene); // Place the scene in the stage
@@ -53,12 +54,11 @@ public class StoqSignIn extends Application {
 	    signInImage.setPreserveRatio(true);
 	    
 	    Button signIn = new Button("", signInImage);
+	    signIn.setLayoutX(scene.getWidth()/2-62.5);
+	    signIn.setLayoutY(300);
+	    
 	    signIn.setStyle("-fx-background-color: transparent;");
-	    //signIn.setMaxSize(signInImage.getWidth()/2, signInImage.getHeight()/4);
-	    pane.getChildren().add(signIn);
-	    
-	    
-	    
+	    pane.getChildren().add(signIn);    
 	    
 	    
 	}
