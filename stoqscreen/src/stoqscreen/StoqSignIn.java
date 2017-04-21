@@ -1,10 +1,18 @@
 package stoqscreen;
 
+
+import com.sun.glass.events.MouseEvent;
+
 import javafx.application.Application;
+import javafx.event.Event;
+import javafx.event.EventHandler;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
+import javafx.scene.control.PasswordField;
+import javafx.scene.control.TextField;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
+import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
@@ -27,15 +35,12 @@ import javafx.stage.Stage;
  *			reads the file and retrieves the data from this master "user" file.
  * 
  */
-
-
-
 public class StoqSignIn extends Application {
 
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		launch(args);
 		
-	}
+	}*/
 
 	@Override
 	public void start(Stage stage) throws Exception {
@@ -60,7 +65,30 @@ public class StoqSignIn extends Application {
 	    signIn.setLayoutY(300);
 	    
 	    signIn.setStyle("-fx-background-color: transparent;");
-	    pane.getChildren().add(signIn);    
+	    TextField userInputField = new TextField("username");
+	    userInputField.setMinWidth(300);
+	    userInputField.setMinHeight(40);
+	    userInputField.setLayoutX(scene.getWidth()/2-150);
+	    userInputField.setLayoutY(170);
+	    userInputField.setStyle("-fx-focus-color: #e67e22");
+	    
+	    //TODO: Need to make lamda listener that makes text in text field go away when hovered on
+	    
+	    PasswordField passwordInputField = new PasswordField();
+	    passwordInputField.setMinWidth(300);
+	    passwordInputField.setMinHeight(40);
+	    passwordInputField.setLayoutX(scene.getWidth()/2-150);
+	    passwordInputField.setLayoutY(240);
+	    passwordInputField.setStyle("-fx-focus-color: #e67e22");
+	        
+	    //TODO: Need to make lamda listener that makes text in text field go away when hovered on
+	    //TODO: Find a way to display the word "password" before user types in input
+	    
+	    
+	    
+	    pane.getChildren().add(signIn);   
+	    pane.getChildren().add(userInputField);
+	    pane.getChildren().add(passwordInputField);
 	    
 	    
 	}
