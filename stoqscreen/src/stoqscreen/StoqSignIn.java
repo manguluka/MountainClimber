@@ -3,6 +3,8 @@ package stoqscreen;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
+import javafx.scene.image.Image;
+import javafx.scene.image.ImageView;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
@@ -26,6 +28,7 @@ import javafx.stage.Stage;
  */
 
 
+
 public class StoqSignIn extends Application {
 
 	public static void main(String[] args) {
@@ -40,6 +43,24 @@ public class StoqSignIn extends Application {
 		stage.setTitle("stoqscreen Sign In");
 		stage.setScene(scene); // Place the scene in the stage
 	    stage.show(); // Display the stage
+	    
+	    
+	    
+	    Image signIne = new Image(getClass().getResourceAsStream("signin.png"));
+	    ImageView signInImage = new ImageView(signIne);
+	    signInImage.setFitHeight(125);
+	    signInImage.setFitWidth(125);
+	    signInImage.setPreserveRatio(true);
+	    
+	    Button signIn = new Button("", signInImage);
+	    signIn.setStyle("-fx-background-color: transparent;");
+	    //signIn.setMaxSize(signInImage.getWidth()/2, signInImage.getHeight()/4);
+	    pane.getChildren().add(signIn);
+	    
+	    
+	    
+	    
+	    
 	}
 
 }
