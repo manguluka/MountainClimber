@@ -46,6 +46,8 @@ public class StoqSignIn extends Application {
 	    stage.show(); // Display the stage
 	    
 	    
+	    stage.setResizable(false); //This is important for positioning purposes!
+	    
 	    
 	    Image signIne = new Image(getClass().getResourceAsStream("signin.png"));
 	    ImageView signInImage = new ImageView(signIne);
