@@ -101,7 +101,6 @@ public class StoqSignIn extends Application {
 	            {
 	    			username = userInputField.getText();
 	    			password = passwordInputField.getText();
-	    			System.out.println(password);
 	            }	   
 	    });
 	    

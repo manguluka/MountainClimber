@@ -12,7 +12,6 @@ import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
-import javafx.scene.input.KeyCode;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.StackPane;
@@ -37,7 +36,6 @@ import javafx.stage.Stage;
  * 
  */
 public class StoqSignIn extends Application {
-	String username, password;
 
 	/*public static void main(String[] args) {
 		launch(args);
@@ -46,7 +44,6 @@ public class StoqSignIn extends Application {
 
 	@Override
 	public void start(Stage stage) throws Exception {
-		
 		Pane pane = new Pane();
 		Scene scene = new Scene(pane, 400, 500);
 		stage.setTitle("stoqscreen Sign In");
@@ -68,8 +65,7 @@ public class StoqSignIn extends Application {
 	    signIn.setLayoutY(300);
 	    
 	    signIn.setStyle("-fx-background-color: transparent;");
-	    TextField userInputField = new TextField();
-	    userInputField.setPromptText("username");
+	    TextField userInputField = new TextField("username");
 	    userInputField.setMinWidth(300);
 	    userInputField.setMinHeight(40);
 	    userInputField.setLayoutX(scene.getWidth()/2-150);
@@ -79,7 +75,6 @@ public class StoqSignIn extends Application {
 	    //TODO: Need to make lamda listener that makes text in text field go away when hovered on
 	    
 	    PasswordField passwordInputField = new PasswordField();
-	    passwordInputField.setPromptText("password");
 	    passwordInputField.setMinWidth(300);
 	    passwordInputField.setMinHeight(40);
 	    passwordInputField.setLayoutX(scene.getWidth()/2-150);
@@ -88,25 +83,6 @@ public class StoqSignIn extends Application {
 	        
 	    //TODO: Need to make lamda listener that makes text in text field go away when hovered on
 	    //TODO: Find a way to display the word "password" before user types in input
-	    
-	    signIn.setOnMouseClicked(evt ->
-	    {
-	    	username = userInputField.getText();
-	    	password = passwordInputField.getText();
-	    });
-	    
-	    passwordInputField.setOnKeyPressed(evt -> 
-	    {
-	    	if (evt.getCode().equals(KeyCode.ENTER))
-	            {
-	    			username = userInputField.getText();
-	    			password = passwordInputField.getText();
-	    			System.out.println(password);
-	            }	   
-	    });
-	    
-	    
-	    
 	    
 	    
 	    
