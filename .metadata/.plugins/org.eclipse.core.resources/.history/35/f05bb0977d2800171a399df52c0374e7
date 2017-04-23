@@ -49,6 +49,7 @@ public class StoqSignIn extends Application {
 	    Text or = new Text("OR");
 	    or.setLayoutX(scene.getWidth()/2);
 	    or.setLayoutY(375);
+	    or
 	    
 	    signIn.setStyle("-fx-background-color: transparent;");
 	    TextField userInputField = new TextField();

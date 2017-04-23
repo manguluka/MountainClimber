@@ -16,13 +16,34 @@ import javafx.scene.input.KeyCode;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.StackPane;
-import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-
+/* Welcome to stoqscreen; the free stock screener
+ * 
+ * This project is dedicated to creating a free, sleek, and intuitive 
+ * stock terminal. 
+ * 
+ * [KEY]
+ * 		--Q Question from developer
+ * 		--S Suggestion from developer
+ * 
+ * 
+ * This section needs to start first when stoqscreen is launched. 
+ * 		--Q Should we have a sign in section or will stoqscreen be for guest users?
+ *		--Q What the hell should we name it?
+ *		--S I have this idea of whenever a user adds a stock to "track" the ticker
+ *			is written to a file inside of the program directory. Stoqscreen then 
+ *			reads the file and retrieves the data from this master "user" file.
+ * 
+ */
 public class StoqSignIn extends Application {
 	String username, password;
-	
+
+	/*public static void main(String[] args) {
+		launch(args);
+		
+	}*/
+
 	@Override
 	public void start(Stage stage) throws Exception {
 		
@@ -45,10 +66,6 @@ public class StoqSignIn extends Application {
 	    Button signIn = new Button("", signInImage);
 	    signIn.setLayoutX(scene.getWidth()/2-62.5);
 	    signIn.setLayoutY(300);
-	    
-	    Text or = new Text("OR");
-	    or.setLayoutX(scene.getWidth()/2);
-	    or.setLayoutY(375);
 	    
 	    signIn.setStyle("-fx-background-color: transparent;");
 	    TextField userInputField = new TextField();
@@ -75,34 +92,22 @@ public class StoqSignIn extends Application {
 	    	password = passwordInputField.getText();
 	    });
 	    
-	    scene.setOnKeyPressed(evt -> 
+	    passwordInputField.setOnKeyPressed(evt -> 
 	    {
 	    	if (evt.getCode().equals(KeyCode.ENTER))
 	            {
 	    			username = userInputField.getText();
-	    			if (username.isEmpty())
-	    			{
-	    				userInputField.requestFocus();
-	    				userInputField.setStyle("-fx-focus-color: red");
-	    				
-	    			}
-	    			
 	    			password = passwordInputField.getText();
-	    			if (password.isEmpty())
-	    			{
-	    				passwordInputField.requestFocus();
-	    				passwordInputField.setStyle("-fx-focus-color: red");
-	    				System.out.println("Focus");
-	    				
-	    			}
+	    			System.out.println(password);
 	            }	   
 	    });
-	    	    
+	    
+	    
 	    pane.getChildren().add(signIn);   
 	    pane.getChildren().add(userInputField);
 	    pane.getChildren().add(passwordInputField);
-	    pane.getChildren().add(or);
-	    	    
+	    
+	    
 	}
 
 }

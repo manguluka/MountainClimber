@@ -16,7 +16,6 @@ import javafx.scene.input.KeyCode;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.StackPane;
-import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
 
@@ -46,10 +45,6 @@ public class StoqSignIn extends Application {
 	    signIn.setLayoutX(scene.getWidth()/2-62.5);
 	    signIn.setLayoutY(300);
 	    
-	    Text or = new Text("OR");
-	    or.setLayoutX(scene.getWidth()/2);
-	    or.setLayoutY(375);
-	    
 	    signIn.setStyle("-fx-background-color: transparent;");
 	    TextField userInputField = new TextField();
 	    userInputField.setPromptText("username");
@@ -75,7 +70,7 @@ public class StoqSignIn extends Application {
 	    	password = passwordInputField.getText();
 	    });
 	    
-	    scene.setOnKeyPressed(evt -> 
+	    passwordInputField.setOnKeyPressed(evt -> 
 	    {
 	    	if (evt.getCode().equals(KeyCode.ENTER))
 	            {
@@ -101,7 +96,6 @@ public class StoqSignIn extends Application {
 	    pane.getChildren().add(signIn);   
 	    pane.getChildren().add(userInputField);
 	    pane.getChildren().add(passwordInputField);
-	    pane.getChildren().add(or);
 	    	    
 	}
 
