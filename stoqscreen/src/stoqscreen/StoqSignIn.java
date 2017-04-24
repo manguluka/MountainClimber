@@ -24,12 +24,13 @@ import java.util.regex.*;
 
 public class StoqSignIn extends Application {
 	String username, password;
+	Pane pane = new Pane();
+	Scene scene = new Scene(pane, 400, 500);
 	
 	@Override
 	public void start(Stage stage) throws Exception {
 		
-		Pane pane = new Pane();
-		Scene scene = new Scene(pane, 400, 500);
+		
 		stage.setTitle("stoqscreen Sign In");
 		stage.setScene(scene); // Place the scene in the stage
 	    stage.show(); // Display the stage
@@ -116,7 +117,7 @@ public class StoqSignIn extends Application {
 	    signUp.setOnMouseClicked(evt ->
 	    {
 	    	pane.getChildren().clear();
-	    	displaySignUpPage(pane);
+	    	displaySignUpPage();
 	    });
 	    
 	    scene.setOnKeyPressed(evt -> 
@@ -171,9 +172,28 @@ public class StoqSignIn extends Application {
 		return true;
 	}
 	
-	public void displaySignUpPage(Pane pane)
+	public void displaySignUpPage()
 	{
-		//TODO: MAKE SIGN UP PAGE HERE FOR NEW USERS USING PANE VARIABLE!
+		TextField firstName = new TextField();
+		firstName.setPromptText("First Name");
+		firstName.setMinWidth(100);
+	    firstName.setMinHeight(40);
+	    firstName.setLayoutX(scene.getWidth()*.10);
+	    firstName.setLayoutY(20);
+	    firstName.setStyle("-fx-focus-color: #e67e22");
+	    firstName.setFont(Font.font("Arial", 16));
+		
+	    TextField lastName = new TextField();
+		lastName.setPromptText("Last Name");
+	    lastName.setMinHeight(40);
+	    lastName.setPrefWidth(200);
+	    lastName.setMinWidth(300);
+	    lastName.setLayoutX(scene.getWidth()*.10);
+	    lastName.setLayoutY(80);
+	    lastName.setStyle("-fx-focus-color: #e67e22");
+	    lastName.setFont(Font.font("Arial", 16));
+		
+		pane.getChildren().addAll(firstName, lastName);
 	}
 
 }
