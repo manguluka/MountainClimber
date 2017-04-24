@@ -19,6 +19,7 @@ import javafx.scene.layout.StackPane;
 import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
+import java.util.regex.*;
 
 
 public class StoqSignIn extends Application {
@@ -58,7 +59,7 @@ public class StoqSignIn extends Application {
 	    signUp.setLayoutY(388);
 	    signUp.setStyle("-fx-background-color: transparent;");
 	    
-	    Text or = new Text("or");
+	    Text or = new Text("or"); 
 	    or.setLayoutX(scene.getWidth()/2);
 	    or.setLayoutY(375);
 	    or.setFont(Font.font ("Arial", 18));
@@ -71,6 +72,7 @@ public class StoqSignIn extends Application {
 	    userInputField.setLayoutX(scene.getWidth()/2-150);
 	    userInputField.setLayoutY(170);
 	    userInputField.setStyle("-fx-focus-color: #e67e22");
+	    userInputField.setFont(Font.font ("Arial", 16));
 	    
 		    
 	    PasswordField passwordInputField = new PasswordField();
@@ -80,12 +82,32 @@ public class StoqSignIn extends Application {
 	    passwordInputField.setLayoutX(scene.getWidth()/2-150);
 	    passwordInputField.setLayoutY(240);
 	    passwordInputField.setStyle("-fx-focus-color: #e67e22");
+	    passwordInputField.setFont(Font.font ("Arial", 16));
 	        
 	        
 	    signIn.setOnMouseClicked(evt ->
 	    {
 	    	username = userInputField.getText();
-	    	password = passwordInputField.getText();
+			if (username.isEmpty())
+			{
+				userInputField.requestFocus();
+				userInputField.setStyle("-fx-focus-color: red");    				
+			}
+			
+			password = passwordInputField.getText();
+			if (password.isEmpty())
+			{
+				passwordInputField.requestFocus();
+				passwordInputField.setStyle("-fx-focus-color: red");
+				System.out.println("Focus");
+				
+			}
+			
+			if (!username.isEmpty() && !password.isEmpty() && usernameRegexChecker(username) && passwordRegexChecker(password))
+	    	{
+	    		pane.getChildren().clear();
+	    		//TODO: Play animation for SQL Connect!
+	    	}
 	    });
 	    
 	    scene.setOnKeyPressed(evt -> 
@@ -96,8 +118,7 @@ public class StoqSignIn extends Application {
 	    			if (username.isEmpty())
 	    			{
 	    				userInputField.requestFocus();
-	    				userInputField.setStyle("-fx-focus-color: red");
-	    				
+	    				userInputField.setStyle("-fx-focus-color: red");    				
 	    			}
 	    			
 	    			password = passwordInputField.getText();
@@ -108,6 +129,12 @@ public class StoqSignIn extends Application {
 	    				System.out.println("Focus");
 	    				
 	    			}
+	    			
+	    			if (!username.isEmpty() && !password.isEmpty() && usernameRegexChecker(username) && passwordRegexChecker(password))
+	    	    	{
+	    	    		pane.getChildren().clear();
+	    	    		//TODO: Play animation for SQL Connect!
+	    	    	}
 	            }	   
 	    });
 	    	    
@@ -118,6 +145,21 @@ public class StoqSignIn extends Application {
 	    pane.getChildren().add(or);
 	    
 	    	    
+	}
+
+	public boolean usernameRegexChecker(String username)
+	{
+		boolean b = username.matches("^(?=.{8,20}$)(?![_.])(?!.*[_.]{2})[a-zA-Z0-9._]+(?<![_.])$"); //Definitely need to discuss this regex
+		return b;
+	}
+	
+	public boolean passwordRegexChecker(String password)
+	{
+		boolean b = password.matches("^(?=.*[a-zA-Z])(?=.*[0-9])(?=.*[^a-zA-Z0-9\\s]).{8,}"); 
+		// Regex for this field is ok, I figure it's another way of sanitizing input in case we find a hacker in our midst.
+		// Please discuss if disagree
+		
+		return b;
 	}
 
 }
