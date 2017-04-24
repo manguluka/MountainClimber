@@ -16,6 +16,7 @@ import javafx.scene.input.KeyCode;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.StackPane;
+import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
@@ -57,9 +58,10 @@ public class StoqSignIn extends Application {
 	    signUp.setLayoutY(388);
 	    signUp.setStyle("-fx-background-color: transparent;");
 	    
-	    Text or = new Text("OR");
+	    Text or = new Text("or");
 	    or.setLayoutX(scene.getWidth()/2);
 	    or.setLayoutY(375);
+	    or.setFont(Font.font ("Arial", 18));
 	    
 	    signIn.setStyle("-fx-background-color: transparent;");
 	    TextField userInputField = new TextField();
