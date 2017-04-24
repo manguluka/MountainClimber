@@ -42,9 +42,20 @@ public class StoqSignIn extends Application {
 	    signInImage.setFitWidth(125);
 	    signInImage.setPreserveRatio(true);
 	    
+	    Image signUpe = new Image(getClass().getResourceAsStream("signup.png"));
+	    ImageView signUpImage = new ImageView(signUpe);
+	    signUpImage.setFitHeight(125);
+	    signUpImage.setFitWidth(125);
+	    signUpImage.setPreserveRatio(true);
+	    
 	    Button signIn = new Button("", signInImage);
 	    signIn.setLayoutX(scene.getWidth()/2-62.5);
 	    signIn.setLayoutY(300);
+	    
+	    Button signUp = new Button("", signUpImage);
+	    signUp.setLayoutX(scene.getWidth()/2-62.5);
+	    signUp.setLayoutY(388);
+	    signUp.setStyle("-fx-background-color: transparent;");
 	    
 	    Text or = new Text("OR");
 	    or.setLayoutX(scene.getWidth()/2);
@@ -98,10 +109,12 @@ public class StoqSignIn extends Application {
 	            }	   
 	    });
 	    	    
-	    pane.getChildren().add(signIn);   
+	    pane.getChildren().add(signIn); 
+	    pane.getChildren().add(signUp);
 	    pane.getChildren().add(userInputField);
 	    pane.getChildren().add(passwordInputField);
 	    pane.getChildren().add(or);
+	    
 	    	    
 	}
 
