@@ -99,7 +99,6 @@ public class StoqSignIn extends Application {
 			{
 				passwordInputField.requestFocus();
 				passwordInputField.setStyle("-fx-focus-color: red");
-				System.out.println("Focus");
 				
 			}
 			
@@ -108,6 +107,16 @@ public class StoqSignIn extends Application {
 	    		pane.getChildren().clear();
 	    		//TODO: Play animation for SQL Connect!
 	    	}
+			
+			else {
+				
+			}
+	    });
+	    
+	    signUp.setOnMouseClicked(evt ->
+	    {
+	    	pane.getChildren().clear();
+	    	displaySignUpPage(pane);
 	    });
 	    
 	    scene.setOnKeyPressed(evt -> 
@@ -126,7 +135,6 @@ public class StoqSignIn extends Application {
 	    			{
 	    				passwordInputField.requestFocus();
 	    				passwordInputField.setStyle("-fx-focus-color: red");
-	    				System.out.println("Focus");
 	    				
 	    			}
 	    			
@@ -137,7 +145,8 @@ public class StoqSignIn extends Application {
 	    	    	}
 	            }	   
 	    });
-	    	    
+	    
+	    pane.setStyle("-fx-background-color: #ecf0f1");
 	    pane.getChildren().add(signIn); 
 	    pane.getChildren().add(signUp);
 	    pane.getChildren().add(userInputField);
@@ -149,17 +158,22 @@ public class StoqSignIn extends Application {
 
 	public boolean usernameRegexChecker(String username)
 	{
-		boolean b = username.matches("^(?=.{8,20}$)(?![_.])(?!.*[_.]{2})[a-zA-Z0-9._]+(?<![_.])$"); //Definitely need to discuss this regex
-		return b;
+		boolean b = username.matches("^(?=.{4,12}$)(?![_.])(?!.*[_.]{2})[a-zA-Z0-9._]+(?<![_.])$"); //Definitely need to discuss this regex
+		return true;
 	}
 	
 	public boolean passwordRegexChecker(String password)
 	{
-		boolean b = password.matches("^(?=.*[a-zA-Z])(?=.*[0-9])(?=.*[^a-zA-Z0-9\\s]).{8,}"); 
+		boolean b = password.matches("^(?=.*[a-zA-Z])(?=.*[0-9])(?=.*[^a-zA-Z0-9\\s]).{8,16}"); 
 		// Regex for this field is ok, I figure it's another way of sanitizing input in case we find a hacker in our midst.
 		// Please discuss if disagree
 		
-		return b;
+		return true;
+	}
+	
+	public void displaySignUpPage(Pane pane)
+	{
+		//TODO: MAKE SIGN UP PAGE HERE FOR NEW USERS USING PANE VARIABLE!
 	}
 
 }
