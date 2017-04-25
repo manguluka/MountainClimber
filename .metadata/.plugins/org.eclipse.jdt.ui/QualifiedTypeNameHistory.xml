@@ -10,4 +10,5 @@
 <fullyQualifiedTypeName name="javafx.scene.text.Text"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="javafx.scene.control.TextField"/>
+<fullyQualifiedTypeName name="javafx.scene.control.CheckBox"/>
 </qualifiedTypeNameHistroy>
