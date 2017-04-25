@@ -1,0 +1,5 @@
+package mountainClimber;
+
+public class StoqMainPage extends StoqSignIn {
+	
+}
