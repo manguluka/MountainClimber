@@ -21,7 +21,7 @@ import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 import java.util.regex.*;
-
+import org.apache.commons.validator.EmailValidator;
 
 
 public class StoqSignIn extends Application {
