@@ -1,5 +1,8 @@
 package mountainClimber;
 
+//TODO: Need to implement custom title bar!
+//Video for reference: https://www.youtube.com/watch?v=fT8gl6R2xmc
+//Try to mimic new age design See: Spotify Title Bar
 
 import com.sun.glass.events.MouseEvent;
 
@@ -33,7 +36,7 @@ public class MountainClimberSignIn extends Application {
 	@Override
 	public void start(Stage stage) throws Exception {		
 		
-		stage.setTitle("stoqscreen Sign In");
+		stage.setTitle("mountainclimber Sign In");
 		stage.setScene(scene); // Place the scene in the stage
 	    stage.show(); // Display the stage
 	    
@@ -50,6 +53,14 @@ public class MountainClimberSignIn extends Application {
 	    signUpImage.setFitHeight(125);
 	    signUpImage.setFitWidth(125);
 	    signUpImage.setPreserveRatio(true);
+	    
+	    Image logo = new Image(getClass().getResourceAsStream("logo.png"));
+	    ImageView logoImage = new ImageView(logo);
+	    logoImage.setFitWidth(200);
+	    logoImage.setPreserveRatio(true);
+	    logoImage.setLayoutX(pane.getWidth()/2 - 100);
+	    logoImage.setLayoutY(20);
+	    
 	    
 	    Button signIn = new Button("", signInImage);
 	    signIn.setLayoutX(scene.getWidth()/2-62.5);
@@ -153,6 +164,7 @@ public class MountainClimberSignIn extends Application {
 	    pane.getChildren().add(userInputField);
 	    pane.getChildren().add(passwordInputField);
 	    pane.getChildren().add(or);
+	    pane.getChildren().add(logoImage);
 	    
 	    	    
 	}
