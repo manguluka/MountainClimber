@@ -12,4 +12,9 @@
 <fullyQualifiedTypeName name="javafx.scene.control.TextField"/>
 <fullyQualifiedTypeName name="javafx.scene.control.CheckBox"/>
 <fullyQualifiedTypeName name="javafx.scene.image.ImageView"/>
+<fullyQualifiedTypeName name="javafx.scene.web.WebView"/>
+<fullyQualifiedTypeName name="javafx.scene.web.WebEngine"/>
+<fullyQualifiedTypeName name="javafx.scene.shape.SVGPath"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="javafx.scene.effect.BlendMode"/>
 </qualifiedTypeNameHistroy>

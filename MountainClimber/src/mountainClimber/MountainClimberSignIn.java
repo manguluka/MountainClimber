@@ -14,16 +14,23 @@ import javafx.scene.control.Button;
 import javafx.scene.control.CheckBox;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
+import javafx.scene.effect.BlendMode;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.input.KeyCode;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.StackPane;
+import javafx.scene.shape.SVGPath;
 import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
+
+import java.io.File;
 import java.util.regex.*;
+
+import javafx.scene.web.WebEngine;
+import javafx.scene.web.WebView;
 
 
 
@@ -35,6 +42,8 @@ public class MountainClimberSignIn extends Application {
 	
 	@Override
 	public void start(Stage stage) throws Exception {		
+		
+		
 		
 		stage.setTitle("mountainclimber Sign In");
 		stage.setScene(scene); // Place the scene in the stage
@@ -118,6 +127,7 @@ public class MountainClimberSignIn extends Application {
 	    	{
 	    		pane.getChildren().clear();
 	    		//TODO: Play animation for SQL Connect!
+	    		displaySignInPage(pane);
 	    	}
 			
 			else {
@@ -259,6 +269,22 @@ public class MountainClimberSignIn extends Application {
 		{
 			return false;
 		}
+	}
+	
+	public void displaySignInPage(Pane pane)
+	{
+		final WebView loadAnim = new WebView();
+		final WebEngine webEngine = loadAnim.getEngine();
+		File f = new File("C:\\Users\\Tyler\\Documents\\GitHub\\MountainClimber\\MountainClimber\\src\\mountainClimber\\cube.svg");
+		webEngine.load(f.toURI().toString());
+	
+		
+		loadAnim.setLayoutX(pane.getWidth()/2-40);
+		loadAnim.setLayoutY(pane.getHeight()/2-40);
+		
+		loadAnim.setLayoutX(pane.getWidth()/2-40);
+		loadAnim.setLayoutY(pane.getHeight()/2-40);
+		pane.getChildren().add(loadAnim);
 	}
 
 }
