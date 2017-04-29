@@ -17,4 +17,5 @@
 <fullyQualifiedTypeName name="javafx.scene.shape.SVGPath"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="javafx.scene.effect.BlendMode"/>
+<fullyQualifiedTypeName name="javafx.scene.paint.Color"/>
 </qualifiedTypeNameHistroy>

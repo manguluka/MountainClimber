@@ -21,6 +21,7 @@ import javafx.scene.input.KeyCode;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.StackPane;
+import javafx.scene.paint.Color;
 import javafx.scene.shape.SVGPath;
 import javafx.scene.text.Font;
 import javafx.scene.text.Text;
@@ -198,48 +199,68 @@ public class MountainClimberSignIn extends Application {
 	{
 		TextField firstName = new TextField();
 		firstName.setPromptText("First Name");
-		firstName.setMinWidth(100);
+		firstName.setMinWidth(300);
 	    firstName.setMinHeight(40);
-	    firstName.setLayoutX(scene.getWidth()*.10);
+	    firstName.setLayoutX(scene.getWidth()/2-150);
 	    firstName.setLayoutY(20);
 	    firstName.setStyle("-fx-focus-color: #e67e22");
 	    firstName.setFont(Font.font("Arial", 16));
+	    firstName.setStyle("-fx-background-color: white;");
+	    firstName.setStyle( "-fx-shape: \"M170,0 H0 V30 H170 Z\";");
 		
 	    TextField lastName = new TextField();
 		lastName.setPromptText("Last Name");
 	    lastName.setMinHeight(40);
 	    lastName.setPrefWidth(200);
 	    lastName.setMinWidth(300);
-	    lastName.setLayoutX(scene.getWidth()*.10);
+	    lastName.setLayoutX(scene.getWidth()/2-150);
 	    lastName.setLayoutY(80);
 	    lastName.setStyle("-fx-focus-color: #e67e22");
 	    lastName.setFont(Font.font("Arial", 16));
+	    lastName.setStyle("-fx-background-color: white;");
+	    lastName.setStyle( "-fx-shape: \"M170,0 H0 V30 H170 Z\";");
 	    
 	    TextField email = new TextField();
 		email.setPromptText("Email");
 	    email.setMinHeight(40);
 	    email.setPrefWidth(200);
 	    email.setMinWidth(300);
-	    email.setLayoutX(scene.getWidth()*.10);
+	    email.setLayoutX(scene.getWidth()/2-150);
 	    email.setLayoutY(140);
 	    email.setStyle("-fx-focus-color: #e67e22");
 	    email.setFont(Font.font("Arial", 16));
+	    email.setStyle("-fx-background-color: white;");
+	    email.setStyle("-fx-background-color: -fx-text-box-border, -fx-control-inner-background;");
+	    email.setStyle("-fx-background-insets: 0; -fx-background-color: transparent, white, transparent, white;");
+	    email.setStyle("-fx-background-color: -fx-text-box-border, -fx-control-inner-background;");
+	    email.setStyle("-fx-focus-color: transparent; -fx-text-box-border: transparent;");
+	    //email.setStyle("-fx-shape: \"M170,0 H0 V30 H170 Z\";");
+	    
 	    
 	    TextField age = new TextField();
 		age.setPromptText("Age");
 	    age.setMinHeight(40);
 	    age.setPrefWidth(60);
-	    age.setMinWidth(60);
-	    age.setLayoutX(scene.getWidth()*.10);
+	    age.setMinWidth(100);
+	    age.setLayoutX(scene.getWidth()/2 - 150 );
 	    age.setLayoutY(200);
 	    age.setStyle("-fx-focus-color: #e67e22");
 	    age.setFont(Font.font("Arial", 16));
+	    age.setStyle("-fx-background-color: white;");
+	    age.setStyle( "-fx-shape: \"M170,0 H0 V30 H170 Z\";");
+	    
 	    
 	    CheckBox terms = new CheckBox();
-	    terms.setText("I have read and agree to the Stoqscreener \nTerms of Service");
-		terms.setLayoutX(pane.getWidth() * .1);
+	    terms.setText("I have read and agree to the mountainclimber Terms of Service");
+	    terms.setLayoutX(scene.getWidth()/2 - 150 );
 		terms.setLayoutY(260);
 		terms.setFont(Font.font("Arial", 16));
+		terms.setStyle("-fx-background-color: transparent;");
+		terms.setStyle( "-fx-shape: \"M170,0 H0 V30 H170 Z\";");
+		terms.setTextFill(Color.WHITE);
+		terms.setFont(Font.font("Arial", 10));
+		
+		pane.setStyle("-fx-background-color: #2980b9;");
 		
 		
 		//TODO: Make a button that user can click on to sign up
