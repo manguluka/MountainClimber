@@ -6,6 +6,7 @@ package mountainClimber;
 
 import com.sun.glass.events.MouseEvent;
 
+import java.sql.*;
 import javafx.application.Application;
 import javafx.event.Event;
 import javafx.event.EventHandler;
@@ -128,7 +129,11 @@ public class MountainClimberSignIn extends Application {
 	    	{
 	    		pane.getChildren().clear();
 	    		//TODO: Play animation for SQL Connect!
-	    		displaySignInPage(pane);
+	    		//displaySignInPage(pane);
+	    		
+	    		sqlConnect(username,password);
+	    		
+	    		
 	    	}
 			
 			else {
@@ -165,6 +170,7 @@ public class MountainClimberSignIn extends Application {
 	    	    	{
 	    	    		pane.getChildren().clear();
 	    	    		//TODO: Play animation for SQL Connect!
+	    	    		sqlConnect(username, password);
 	    	    	}
 	            }	   
 	    });
@@ -308,4 +314,15 @@ public class MountainClimberSignIn extends Application {
 		pane.getChildren().add(loadAnim);
 	}
 
+
+	public void sqlConnect(String username, String password)
+	{
+		username = username.trim();
+		password = password.trim();
+		
+		String sql = "SELECT * FROM mountain_users WHERE username= " + username + " AND password = " + password;
+		//SQL Add Statement Confirmed INSERT INTO mountain_users (email,password) VALUES('2tylerericmanning@gmail.com', SHA1('test'));
+		
+		
+	}
 }
