@@ -40,53 +40,53 @@ public class MountainClimberSignIn extends Application {
 	String username, password;
 	Pane pane = new Pane();
 	Scene scene = new Scene(pane, 325, 400);
-	
-	
+
+
 	@Override
-	public void start(Stage stage) throws Exception {		
-	//TODO: Turn the home page into a function that can be called so a user can interchange betweeen login and sign up	
-		
-		
+	public void start(Stage stage) throws Exception {
+	//TODO: Turn the home page into a function that can be called so a user can interchange betweeen login and sign up
+
+
 		stage.setTitle("mountainclimber Sign In");
 		stage.setScene(scene); // Place the scene in the stage
 	    stage.show(); // Display the stage
-	    
+
 	    stage.setResizable(false); //This is important for positioning purposes!
-	   	    
+
 	    Image signIne = new Image(getClass().getResourceAsStream("signin.png"));
 	    ImageView signInImage = new ImageView(signIne);
 	    signInImage.setFitHeight(125);
 	    signInImage.setFitWidth(125);
 	    signInImage.setPreserveRatio(true);
-	    
+
 	    Image signUpe = new Image(getClass().getResourceAsStream("signup.png"));
 	    ImageView signUpImage = new ImageView(signUpe);
 	    signUpImage.setFitHeight(125);
 	    signUpImage.setFitWidth(125);
 	    signUpImage.setPreserveRatio(true);
-	    
+
 	    Image logo = new Image(getClass().getResourceAsStream("logo.png"));
 	    ImageView logoImage = new ImageView(logo);
 	    logoImage.setFitWidth(200);
 	    logoImage.setPreserveRatio(true);
 	    logoImage.setLayoutX(pane.getWidth()/2 - 100);
 	    logoImage.setLayoutY(20);
-	    
-	    
+
+
 	    Button signIn = new Button("", signInImage);
 	    signIn.setLayoutX(scene.getWidth()/2-140);
 	    signIn.setLayoutY(300);
-	    
+
 	    Button signUp = new Button("", signUpImage);
 	    signUp.setLayoutX(scene.getWidth()/2);
 	    signUp.setLayoutY(300);
 	    signUp.setStyle("-fx-background-color: transparent;");
-	    
-	    /*Text or = new Text("or"); 
+
+	    /*Text or = new Text("or");
 	    or.setLayoutX(scene.getWidth()/2);
 	    or.setLayoutY(375);
 	    or.setFont(Font.font ("Arial", 18));*/
-	    
+
 	    signIn.setStyle("-fx-background-color: transparent;");
 	    TextField userInputField = new TextField();
 	    userInputField.setPromptText("username");
@@ -96,8 +96,8 @@ public class MountainClimberSignIn extends Application {
 	    userInputField.setLayoutY(170);
 	    userInputField.setStyle("-fx-focus-color: #e67e22");
 	    userInputField.setFont(Font.font ("Arial", 16));
-	    
-		    
+
+
 	    PasswordField passwordInputField = new PasswordField();
 	    passwordInputField.setPromptText("password");
 	    passwordInputField.setMinWidth(300);
@@ -106,48 +106,48 @@ public class MountainClimberSignIn extends Application {
 	    passwordInputField.setLayoutY(240);
 	    passwordInputField.setStyle("-fx-focus-color: #e67e22");
 	    passwordInputField.setFont(Font.font ("Arial", 16));
-	        
-	        
+
+
 	    signIn.setOnMouseClicked(evt ->
 	    {
 	    	username = userInputField.getText();
 			if (username.isEmpty())
 			{
 				userInputField.requestFocus();
-				userInputField.setStyle("-fx-focus-color: red");    				
+				userInputField.setStyle("-fx-focus-color: red");
 			}
-			
+
 			password = passwordInputField.getText();
 			if (password.isEmpty())
 			{
 				passwordInputField.requestFocus();
 				passwordInputField.setStyle("-fx-focus-color: red");
-				
+
 			}
-			
+
 			if (!username.isEmpty() && !password.isEmpty() && usernameRegexChecker(username) && passwordRegexChecker(password))
 	    	{
 	    		pane.getChildren().clear();
 	    		//TODO: Play animation for SQL Connect!
 	    		//displaySignInPage(pane);
-	    		
+
 	    		sqlConnect(username,password);
-	    		
-	    		
+
+
 	    	}
-			
+
 			else {
-				
+
 			}
 	    });
-	    
+
 	    signUp.setOnMouseClicked(evt ->
 	    {
 	    	pane.getChildren().clear();
 	    	displaySignUpPage();
 	    });
-	    
-	    scene.setOnKeyPressed(evt -> 
+
+	    scene.setOnKeyPressed(evt ->
 	    {
 	    	if (evt.getCode().equals(KeyCode.ENTER))
 	            {
@@ -155,35 +155,35 @@ public class MountainClimberSignIn extends Application {
 	    			if (username.isEmpty())
 	    			{
 	    				userInputField.requestFocus();
-	    				userInputField.setStyle("-fx-focus-color: red");    				
+	    				userInputField.setStyle("-fx-focus-color: red");
 	    			}
-	    			
+
 	    			password = passwordInputField.getText();
 	    			if (password.isEmpty())
 	    			{
 	    				passwordInputField.requestFocus();
 	    				passwordInputField.setStyle("-fx-focus-color: red");
-	    				
+
 	    			}
-	    			
+
 	    			if (!username.isEmpty() && !password.isEmpty() && usernameRegexChecker(username) && passwordRegexChecker(password))
 	    	    	{
 	    	    		pane.getChildren().clear();
 	    	    		//TODO: Play animation for SQL Connect!
 	    	    		sqlConnect(username, password);
 	    	    	}
-	            }	   
+	            }
 	    });
-	    
+
 	    pane.setStyle("-fx-background-color: #ecf0f1");
-	    pane.getChildren().add(signIn); 
+	    pane.getChildren().add(signIn);
 	    pane.getChildren().add(signUp);
 	    pane.getChildren().add(userInputField);
 	    pane.getChildren().add(passwordInputField);
 //	    pane.getChildren().add(or);
 	    pane.getChildren().add(logoImage);
-	    
-	    	    
+
+
 	}
 
 	public boolean usernameRegexChecker(String username)
@@ -191,16 +191,16 @@ public class MountainClimberSignIn extends Application {
 		boolean b = username.matches("^(?=.{4,12}$)(?![_.])(?!.*[_.]{2})[a-zA-Z0-9._]+(?<![_.])$"); //Definitely need to discuss this regex
 		return true;
 	}
-	
+
 	public boolean passwordRegexChecker(String password)
 	{
-		boolean b = password.matches("^(?=.*[a-zA-Z])(?=.*[0-9])(?=.*[^a-zA-Z0-9\\s]).{8,16}"); 
+		boolean b = password.matches("^(?=.*[a-zA-Z])(?=.*[0-9])(?=.*[^a-zA-Z0-9\\s]).{8,16}");
 		// Regex for this field is ok, I figure it's another way of sanitizing input in case we find a hacker in our midst.
 		// Please discuss if disagree
-		
+
 		return true;
 	}
-	
+
 	public void displaySignUpPage()
 	{
 		TextField firstName = new TextField();
@@ -213,7 +213,7 @@ public class MountainClimberSignIn extends Application {
 	    firstName.setFont(Font.font("Arial", 16));
 	    firstName.setStyle("-fx-background-color: white;");
 	    firstName.setStyle( "-fx-shape: \"M170,0 H0 V30 H170 Z\";");
-		
+
 	    TextField lastName = new TextField();
 		lastName.setPromptText("Last Name");
 	    lastName.setMinHeight(40);
@@ -225,7 +225,7 @@ public class MountainClimberSignIn extends Application {
 	    lastName.setFont(Font.font("Arial", 16));
 	    lastName.setStyle("-fx-background-color: white;");
 	    lastName.setStyle( "-fx-shape: \"M170,0 H0 V30 H170 Z\";");
-	    
+
 	    TextField email = new TextField();
 		email.setPromptText("Email");
 	    email.setMinHeight(40);
@@ -241,8 +241,8 @@ public class MountainClimberSignIn extends Application {
 	    email.setStyle("-fx-background-color: -fx-text-box-border, -fx-control-inner-background;");
 	    email.setStyle("-fx-focus-color: transparent; -fx-text-box-border: transparent;");
 	    //email.setStyle("-fx-shape: \"M170,0 H0 V30 H170 Z\";");
-	    
-	    
+
+
 	    TextField age = new TextField();
 		age.setPromptText("Age");
 	    age.setMinHeight(40);
@@ -254,8 +254,8 @@ public class MountainClimberSignIn extends Application {
 	    age.setFont(Font.font("Arial", 16));
 	    age.setStyle("-fx-background-color: white;");
 	    age.setStyle( "-fx-shape: \"M170,0 H0 V30 H170 Z\";");
-	    
-	    
+
+
 	    CheckBox terms = new CheckBox();
 	    terms.setText("I have read and agree to the mountainclimber Terms of Service");
 	    terms.setLayoutX(scene.getWidth()/2 - 150 );
@@ -265,76 +265,76 @@ public class MountainClimberSignIn extends Application {
 		terms.setStyle( "-fx-shape: \"M170,0 H0 V30 H170 Z\";");
 		terms.setTextFill(Color.WHITE);
 		terms.setFont(Font.font("Arial", 10));
-		
+
 		Image arrowe = new Image(getClass().getResourceAsStream("arrow.png"));
 	    ImageView arrowImage = new ImageView(arrowe);
 	    arrowImage.setFitHeight(125);
 	    arrowImage.setFitWidth(55);
 	    arrowImage.setPreserveRatio(true);
 	    arrowImage.setStyle("-fx-background-color: transparent;");
-	    
-	    
+
+
 	    Button arrowB = new Button("", arrowImage);
 	    arrowB.setLayoutX(scene.getWidth()/2+80);
 	    arrowB.setLayoutY(330);
 	    arrowB.setStyle("-fx-background-color: transparent;");
-		
+
 		pane.setStyle("-fx-background-color: #2980b9;");
-		
+
 		Image arrow2e = new Image(getClass().getResourceAsStream("arrow2.png"));
 	    ImageView arrow2Image = new ImageView(arrow2e);
 	    arrow2Image.setFitHeight(125);
 	    arrow2Image.setFitWidth(55);
 	    arrow2Image.setPreserveRatio(true);
 	    arrow2Image.setStyle("-fx-background-color: transparent;");
-	    
-	    
+
+
 	    Button arrow2B = new Button("", arrow2Image);
 	    arrow2B.setLayoutX(scene.getWidth()/2-150);
 	    arrow2B.setLayoutY(330);
 	    arrow2B.setStyle("-fx-background-color: transparent;");
-		
-		
+
+
 		//TODO: Make a button that user can click on to sign up
 		validateSignUp(firstName.getText(), lastName.getText(), email.getText(), age.getText(), terms.isSelected());
-		
-	    
+
+
 		pane.getChildren().addAll(firstName, lastName, email, age, terms, arrowB, arrow2B);
 	}
-	
+
 	public boolean validateSignUp(String firstName, String lastName, String email, String age, Boolean terms)
 	{
-		boolean firstNameBool = false, lastNameBool = false, emailBool = false, ageBool, termsBool = false;
-		
+		boolean firstNameBool = false, lastNameBool = false, emailBool = false, ageBool = false, termsBool = false;
+
 		if (firstName.matches("^[A-z]+$"))
 			firstNameBool = true;
 		if (lastName.matches("^[A-z]+$"))
 			lastNameBool = true;
 		if (email.matches("[a-zA-Z0-9]+@[a-zA-Z]+\\.[a-zA-Z]+"))
 			emailBool = true;
-		
+
 		if(firstNameBool && lastNameBool && emailBool)
 		{
 			return true;
 		}
-		
+
 		else
 		{
 			return false;
 		}
 	}
-	
+
 	public void displaySignInPage(Pane pane)
 	{
 		final WebView loadAnim = new WebView();
 		final WebEngine webEngine = loadAnim.getEngine();
 		File f = new File("C:\\Users\\Tyler\\Documents\\GitHub\\MountainClimber\\MountainClimber\\src\\mountainClimber\\cube.svg");
 		webEngine.load(f.toURI().toString());
-	
-		
+
+
 		loadAnim.setLayoutX(pane.getWidth()/2-40);
 		loadAnim.setLayoutY(pane.getHeight()/2-40);
-		
+
 		loadAnim.setLayoutX(pane.getWidth()/2-40);
 		loadAnim.setLayoutY(pane.getHeight()/2-40);
 		pane.getChildren().add(loadAnim);
@@ -345,10 +345,10 @@ public class MountainClimberSignIn extends Application {
 	{
 		username = username.trim();
 		password = password.trim();
-		
+
 		String sql = "SELECT * FROM mountain_users WHERE username= " + username + " AND password = " + password;
 		//SQL Add Statement Confirmed INSERT INTO mountain_users (email,password) VALUES('2tylerericmanning@gmail.com', SHA1('test'));
-		
-		
+
+
 	}
 }
