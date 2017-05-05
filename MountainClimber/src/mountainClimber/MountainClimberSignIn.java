@@ -39,12 +39,12 @@ import javafx.scene.web.WebView;
 public class MountainClimberSignIn extends Application {
 	String username, password;
 	Pane pane = new Pane();
-	Scene scene = new Scene(pane, 400, 500);
+	Scene scene = new Scene(pane, 325, 400);
 	
 	
 	@Override
 	public void start(Stage stage) throws Exception {		
-		
+	//TODO: Turn the home page into a function that can be called so a user can interchange betweeen login and sign up	
 		
 		
 		stage.setTitle("mountainclimber Sign In");
@@ -74,18 +74,18 @@ public class MountainClimberSignIn extends Application {
 	    
 	    
 	    Button signIn = new Button("", signInImage);
-	    signIn.setLayoutX(scene.getWidth()/2-62.5);
+	    signIn.setLayoutX(scene.getWidth()/2-140);
 	    signIn.setLayoutY(300);
 	    
 	    Button signUp = new Button("", signUpImage);
-	    signUp.setLayoutX(scene.getWidth()/2-62.5);
-	    signUp.setLayoutY(388);
+	    signUp.setLayoutX(scene.getWidth()/2);
+	    signUp.setLayoutY(300);
 	    signUp.setStyle("-fx-background-color: transparent;");
 	    
-	    Text or = new Text("or"); 
+	    /*Text or = new Text("or"); 
 	    or.setLayoutX(scene.getWidth()/2);
 	    or.setLayoutY(375);
-	    or.setFont(Font.font ("Arial", 18));
+	    or.setFont(Font.font ("Arial", 18));*/
 	    
 	    signIn.setStyle("-fx-background-color: transparent;");
 	    TextField userInputField = new TextField();
@@ -180,7 +180,7 @@ public class MountainClimberSignIn extends Application {
 	    pane.getChildren().add(signUp);
 	    pane.getChildren().add(userInputField);
 	    pane.getChildren().add(passwordInputField);
-	    pane.getChildren().add(or);
+//	    pane.getChildren().add(or);
 	    pane.getChildren().add(logoImage);
 	    
 	    	    
@@ -266,14 +266,40 @@ public class MountainClimberSignIn extends Application {
 		terms.setTextFill(Color.WHITE);
 		terms.setFont(Font.font("Arial", 10));
 		
+		Image arrowe = new Image(getClass().getResourceAsStream("arrow.png"));
+	    ImageView arrowImage = new ImageView(arrowe);
+	    arrowImage.setFitHeight(125);
+	    arrowImage.setFitWidth(55);
+	    arrowImage.setPreserveRatio(true);
+	    arrowImage.setStyle("-fx-background-color: transparent;");
+	    
+	    
+	    Button arrowB = new Button("", arrowImage);
+	    arrowB.setLayoutX(scene.getWidth()/2+80);
+	    arrowB.setLayoutY(330);
+	    arrowB.setStyle("-fx-background-color: transparent;");
+		
 		pane.setStyle("-fx-background-color: #2980b9;");
+		
+		Image arrow2e = new Image(getClass().getResourceAsStream("arrow2.png"));
+	    ImageView arrow2Image = new ImageView(arrow2e);
+	    arrow2Image.setFitHeight(125);
+	    arrow2Image.setFitWidth(55);
+	    arrow2Image.setPreserveRatio(true);
+	    arrow2Image.setStyle("-fx-background-color: transparent;");
+	    
+	    
+	    Button arrow2B = new Button("", arrow2Image);
+	    arrow2B.setLayoutX(scene.getWidth()/2-150);
+	    arrow2B.setLayoutY(330);
+	    arrow2B.setStyle("-fx-background-color: transparent;");
 		
 		
 		//TODO: Make a button that user can click on to sign up
 		validateSignUp(firstName.getText(), lastName.getText(), email.getText(), age.getText(), terms.isSelected());
 		
 	    
-		pane.getChildren().addAll(firstName, lastName, email, age, terms);
+		pane.getChildren().addAll(firstName, lastName, email, age, terms, arrowB, arrow2B);
 	}
 	
 	public boolean validateSignUp(String firstName, String lastName, String email, String age, Boolean terms)
