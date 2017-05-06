@@ -11,7 +11,6 @@ require 'csv'
 
 path = File.join(File.dirname(__FILE__), 'companylist.csv')
 
-yql = "select * from yahoo.finance.quote where symbol in ("
 
 ## RETRIEVES EVERY STOCK TICKER FROM FILE
 col_data = []
@@ -19,7 +18,6 @@ CSV.foreach(path, 'r') do |row|
 	yql << "\"" + row[0] +"\"\,"
 	col_data << row[0]
 end
-yql << ")"
 ## END
 
 ## OUTPUTS EVERY STOCK TICKER TO NEW CSV FILE
@@ -32,5 +30,3 @@ CSV.open("tickerlist.csv", "w") do |csv|
 	end
 end
 ## END
-
-puts yql
