@@ -45,7 +45,7 @@ public class MountainClimberSignIn extends Application {
 	@Override
 	public void start(Stage stage) throws Exception {
 	//TODO: Turn the home page into a function that can be called so a user can interchange betweeen login and sign up
-
+		
 
 		stage.setTitle("mountainclimber Sign In");
 		stage.setScene(scene); // Place the scene in the stage
@@ -96,7 +96,8 @@ public class MountainClimberSignIn extends Application {
 	    userInputField.setLayoutY(170);
 	    userInputField.setStyle("-fx-focus-color: #e67e22");
 	    userInputField.setFont(Font.font ("Arial", 16));
-
+	    userInputField.setStyle( "-fx-shape: \"M170,0 H0 V30 H170 Z\";");
+	    userInputField.setStyle("-fx-background-color: -fx-text-box-border, -fx-control-inner-background;");
 
 	    PasswordField passwordInputField = new PasswordField();
 	    passwordInputField.setPromptText("password");
@@ -106,6 +107,8 @@ public class MountainClimberSignIn extends Application {
 	    passwordInputField.setLayoutY(240);
 	    passwordInputField.setStyle("-fx-focus-color: #e67e22");
 	    passwordInputField.setFont(Font.font ("Arial", 16));
+	    passwordInputField.setStyle( "-fx-shape: \"M170,0 H0 V30 H170 Z\";");
+	    passwordInputField.setStyle("-fx-background-color: -fx-text-box-border, -fx-control-inner-background;");
 
 
 	    signIn.setOnMouseClicked(evt ->
@@ -213,6 +216,7 @@ public class MountainClimberSignIn extends Application {
 	    firstName.setFont(Font.font("Arial", 16));
 	    firstName.setStyle("-fx-background-color: white;");
 	    firstName.setStyle( "-fx-shape: \"M170,0 H0 V30 H170 Z\";");
+	    firstName.setStyle("-fx-background-color: -fx-text-box-border, -fx-control-inner-background;");
 
 	    TextField lastName = new TextField();
 		lastName.setPromptText("Last Name");
@@ -225,7 +229,8 @@ public class MountainClimberSignIn extends Application {
 	    lastName.setFont(Font.font("Arial", 16));
 	    lastName.setStyle("-fx-background-color: white;");
 	    lastName.setStyle( "-fx-shape: \"M170,0 H0 V30 H170 Z\";");
-
+	    lastName.setStyle("-fx-background-color: -fx-text-box-border, -fx-control-inner-background;");
+	    
 	    TextField email = new TextField();
 		email.setPromptText("Email");
 	    email.setMinHeight(40);
@@ -241,6 +246,7 @@ public class MountainClimberSignIn extends Application {
 	    email.setStyle("-fx-background-color: -fx-text-box-border, -fx-control-inner-background;");
 	    email.setStyle("-fx-focus-color: transparent; -fx-text-box-border: transparent;");
 	    //email.setStyle("-fx-shape: \"M170,0 H0 V30 H170 Z\";");
+	    email.setStyle("-fx-background-color: -fx-text-box-border, -fx-control-inner-background;");
 
 
 	    TextField age = new TextField();
@@ -254,7 +260,7 @@ public class MountainClimberSignIn extends Application {
 	    age.setFont(Font.font("Arial", 16));
 	    age.setStyle("-fx-background-color: white;");
 	    age.setStyle( "-fx-shape: \"M170,0 H0 V30 H170 Z\";");
-
+	    age.setStyle("-fx-background-color: -fx-text-box-border, -fx-control-inner-background;");
 
 	    CheckBox terms = new CheckBox();
 	    terms.setText("I have read and agree to the mountainclimber Terms of Service");
@@ -343,12 +349,21 @@ public class MountainClimberSignIn extends Application {
 
 	public void sqlConnect(String username, String password)
 	{
+		//#ECF0F1
 		username = username.trim();
 		password = password.trim();
 
+		Image loading = new Image(getClass().getResourceAsStream("loading.gif"));
+		ImageView loadingV = new ImageView(loading);
+		loadingV.setFitHeight(125);
+	    loadingV.setFitWidth(125);
+	   	loadingV.setPreserveRatio(true);
 		String sql = "SELECT * FROM mountain_users WHERE username= " + username + " AND password = " + password;
 		//SQL Add Statement Confirmed INSERT INTO mountain_users (email,password) VALUES('2tylerericmanning@gmail.com', SHA1('test'));
-
+		
+		loadingV.setLayoutX(pane.getWidth()/2-64);
+		loadingV.setLayoutY(pane.getHeight()/2-64);
+		pane.getChildren().add(loadingV);
 
 	}
 }
