@@ -20,27 +20,38 @@ CSV.foreach(path, 'r') do |row|
 	next if row[0] == "Symbol"
 	col_data << row[0]
 end
-## END
-size = col_data.size / 200 + 1
-puts size
-counter = 1
-yql_query = "finance.yahoo.com/d/quotes.csv?s="
 
-for i in 0..size
-	yql_array = []
+path = File.join(File.dirname(__FILE__), 'nyse.csv')
+
+# CSV.foreach(path, 'r') do |row|
+# 	#yql << "\"" + row[0] +"\"\,"
+# 	next if row[0] == "Symbol"
+# 	col_data << row[0]
+# end
+
+size = col_data.size
+
+yql_array = []
+yql_query = "finance.yahoo.com/d/quotes.csv?s="
+until size <= 0
 	for j in 0..199
 		if j == 199
 			yql_query << col_data[counter].to_s + "&f=nab"
 			counter = counter + 1
+		elsif counter == col_data.size-1
+			yql_query << col_data[counter].to_s + "&f=nab"
+			break
 		else
 			yql_query << col_data[counter].to_s + "+"
 			counter = counter + 1
 		end
-	end
-	puts yql_query
-	puts
-    yql_query = "finance.yahoo.com/d/quotes.csv?s="
+	end 
+	size = size - 200
+	puts yql_query   
+	yql_query = "finance.yahoo.com/d/quotes.csv?s="	
 end
+
+
 
 
 ## OUTPUTS EVERY STOCK TICKER TO NEW CSV FILE
@@ -52,4 +63,4 @@ end
 # 		csv << temp_array
 # 	end
 # end
-## END
+# END
