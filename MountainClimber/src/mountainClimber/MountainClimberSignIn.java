@@ -40,18 +40,19 @@ public class MountainClimberSignIn extends Application {
 	String username, password;
 	Pane pane = new Pane();
 	Scene scene = new Scene(pane, 325, 400);
+	
 
 
 	@Override
 	public void start(Stage stage) throws Exception {
 	//TODO: Turn the home page into a function that can be called so a user can interchange betweeen login and sign up
 		
-
 		stage.setTitle("mountainclimber Sign In");
 		stage.setScene(scene); // Place the scene in the stage
 	    stage.show(); // Display the stage
 
 	    stage.setResizable(false); //This is important for positioning purposes!
+		
 
 	    Image signIne = new Image(getClass().getResourceAsStream("signin.png"));
 	    ImageView signInImage = new ImageView(signIne);
@@ -134,7 +135,7 @@ public class MountainClimberSignIn extends Application {
 	    		//TODO: Play animation for SQL Connect!
 	    		//displaySignInPage(pane);
 
-	    		sqlConnect(username,password);
+	    		sqlConnect(username,password,stage);
 
 
 	    	}
@@ -173,7 +174,7 @@ public class MountainClimberSignIn extends Application {
 	    	    	{
 	    	    		pane.getChildren().clear();
 	    	    		//TODO: Play animation for SQL Connect!
-	    	    		sqlConnect(username, password);
+	    	    		sqlConnect(username, password, stage);
 	    	    	}
 	            }
 	    });
@@ -347,7 +348,7 @@ public class MountainClimberSignIn extends Application {
 	}
 
 
-	public void sqlConnect(String username, String password)
+	public void sqlConnect(String username, String password, Stage stage)
 	{
 		//#ECF0F1
 		username = username.trim();
@@ -364,6 +365,6 @@ public class MountainClimberSignIn extends Application {
 		loadingV.setLayoutX(pane.getWidth()/2-64);
 		loadingV.setLayoutY(pane.getHeight()/2-64);
 		pane.getChildren().add(loadingV);
-
+		
 	}
 }
