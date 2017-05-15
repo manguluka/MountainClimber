@@ -13,6 +13,7 @@ import javafx.event.EventHandler;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.CheckBox;
+import javafx.scene.control.Hyperlink;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
 import javafx.scene.effect.BlendMode;
@@ -28,7 +29,11 @@ import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
+import java.awt.Desktop;
 import java.io.File;
+import java.io.IOException;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.util.regex.*;
 
 import javafx.scene.web.WebEngine;
@@ -110,6 +115,9 @@ public class MountainClimberSignIn extends Application {
 	    passwordInputField.setFont(Font.font ("Arial", 16));
 	    passwordInputField.setStyle( "-fx-shape: \"M170,0 H0 V30 H170 Z\";");
 	    passwordInputField.setStyle("-fx-background-color: -fx-text-box-border, -fx-control-inner-background;");
+	    
+	    Hyperlink link = new Hyperlink("https://www.google.com/");
+	    
 
 
 	    signIn.setOnMouseClicked(evt ->
@@ -147,8 +155,15 @@ public class MountainClimberSignIn extends Application {
 
 	    signUp.setOnMouseClicked(evt ->
 	    {
-	    	pane.getChildren().clear();
-	    	displaySignUpPage();
+	    	try {
+				Desktop.getDesktop().browse(new URI("https://www.facebook.com/")); //INSERT MOUNTAINCLIMBER LINK HERE
+			} catch (IOException | URISyntaxException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+	    	
+	    	//pane.getChildren().clear();
+	    	//displaySignUpPage();
 	    });
 
 	    scene.setOnKeyPressed(evt ->
