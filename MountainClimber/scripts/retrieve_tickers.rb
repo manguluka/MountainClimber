@@ -1,5 +1,5 @@
 #! /usr/bin/ruby
-# Author: Tyler Manning
+# Author: Tyler Manning//////////
 # Date: 5/4/2017
 
 # Description: Some basic data parsing to new file from public NASDAQ DB
