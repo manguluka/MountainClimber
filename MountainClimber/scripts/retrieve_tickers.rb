@@ -21,7 +21,7 @@ CSV.foreach(path, 'r') do |row|
 	col_data << row[0]
 end
 
-path = File.join(File.dirname(__FILE__), 'nyse.csv')
+#path = File.join(File.dirname(__FILE__), 'nyse.csv')
 
 # CSV.foreach(path, 'r') do |row|
 # 	#yql << "\"" + row[0] +"\"\,"
@@ -36,7 +36,7 @@ yql_query = "finance.yahoo.com/d/quotes.csv?s="
 until size <= 0
 	for j in 0..199
 		if j == 199
-			yql_query << col_data[counter].to_s + "&f=nab"
+			yql_query << col_data[counter].to_s + "&f=snab"
 			counter = counter + 1
 		elsif counter == col_data.size-1
 			yql_query << col_data[counter].to_s + "&f=nab"
