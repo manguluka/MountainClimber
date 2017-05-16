@@ -1,0 +1,10 @@
+#! /usr/bin/ruby
+
+# Description: Some basic data parsing to new file from public NASDAQ DB
+# Will probably only need to run this once a week to keep an update list of all tickers on the stock exchanges
+
+#require "open-uri"
+
+#File.open('pie.png', 'wb') do |fo|
+#  fo.write open("http://chart.googleapis.com/chart?#{failures_url}").read 
+#end
