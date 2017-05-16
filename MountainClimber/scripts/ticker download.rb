@@ -7,8 +7,9 @@ require "open-uri"
 output = File.open('output.txt','r')
 outputNew = File.open('outputNew.txt','r')
 
+
 output.each do |row|
-	p row
- 	contents = open("#{row}") { |f| f.read}
+	uri = URI.parse(row.chomp)
+ 	contents = open(uri,{ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE}) { |f| f.read}
 	outputNew << contents
 end
