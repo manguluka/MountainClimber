@@ -5,7 +5,6 @@ INDEX VERSION 1.129+C:\Users\Tyler\Documents\GitHub\MountainClimber\.metadata\.p
 1199826107.index
 2997567257.index
 449440424.index
-4141011716.index
 30881555.index
 1841280308.index
 843494433.index
