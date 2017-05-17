@@ -29,7 +29,7 @@ end
 
 size = col_data.size
 
-yql_query = "finance.yahoo.com/d/quotes.csv?s="
+yql_query = "http://finance.yahoo.com/d/quotes.csv?s="
 until size <= 0
 	for j in 0..199
 		if j == 199
@@ -45,7 +45,7 @@ until size <= 0
 	end 
 	size = size - 200
 	output.puts yql_query 
-	yql_query = "finance.yahoo.com/d/quotes.csv?s="	
+	yql_query = "http://finance.yahoo.com/d/quotes.csv?s="	
 end
 
 

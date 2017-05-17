@@ -1,1 +1,0 @@
-#<Net::HTTPMovedPermanently:0x0000000335bbc0>

@@ -10,12 +10,18 @@ output = File.open('output.txt','r')
 outputNew = File.open('outputNew.txt','w')
 
 
+# output.each do |row|
+# 	uri = URI(row)
+# 	http = Net::HTTP.new(uri.host, uri.port)
+# 	http.use_ssl = true
+# 	http.verify_mode = OpenSSL::SSL::VERIFY_NONE
+# 	request = Net::HTTP::Get.new(uri.request_uri)
+# 	response = http.request(request)
+# 	outputNew << response
+# end
+url = ""
+
 output.each do |row|
-	uri = URI(row)
-	http = Net::HTTP.new(uri.host, uri.port)
-	http.use_ssl = true
-	http.verify_mode = OpenSSL::SSL::VERIFY_NONE
-	request = Net::HTTP::Get.new(uri.request_uri)
-	response = http.request(request)
-	outputNew << response
+	`wget -O "test.csv" "#{row}"`
 end
+
