@@ -218,17 +218,14 @@ public class MountainClimber_main extends Application {
 		loadingV.setLayoutY(pane.getHeight()/2-64);
 		pane.getChildren().add(loadingV);
 		
-		String sql = "SELECT * FROM mountain_users WHERE username= " + username + " AND password = " + password;
-		//SQL Add Statement Confirmed INSERT INTO mountain_users (email,password) VALUES('2tylerericmanning@gmail.com', SHA1('test'));
-		
-		String url = "jdbc:mysql://127.0.0.1:3306/mountainclimberTEST";
-		username = "java";
-		password = "password";
+		String url = "jdbc:mysql://localhost/javabase";
 		
 		try (Connection connection = DriverManager.getConnection(url, username, password)) {
 		    System.out.println("Database connected!");
+		    stage.hide();
 		} catch (SQLException e) {
-		    throw new IllegalStateException("Cannot connect the database!", e);
+		    pane.getChildren().clear();
+		    displaySignInPage(stage);
 		}
 		
 		
