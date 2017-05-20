@@ -1,0 +1,11 @@
+package mountainClimber;
+
+import javafx.stage.Stage;
+
+public class MainPage{
+
+	public MainPage(Stage stage)
+	{
+		
+	}
+}

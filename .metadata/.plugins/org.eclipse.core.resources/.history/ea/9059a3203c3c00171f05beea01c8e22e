@@ -1,0 +1,7 @@
+package mountainClimber;
+
+public class MountainClimber_mainpage extends MountainClimber_main {
+	
+	pane.getChildren.clear();
+
+}

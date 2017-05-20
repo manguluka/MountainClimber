@@ -223,8 +223,6 @@ public class MountainClimber_main extends Application {
 		try (Connection connection = DriverManager.getConnection(url, username, password)) {
 		    System.out.println("Database connected!");
 		    stage.hide();
-		    MainPage mp1 = new MainPage(stage);
-		    
 		} catch (SQLException e) {
 		    pane.getChildren().clear();
 		    displaySignInPage(stage);

@@ -25,4 +25,6 @@
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
 <fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="mountainClimber.MountainClimber_main"/>
+<fullyQualifiedTypeName name="javafx.stage.Stage"/>
 </qualifiedTypeNameHistroy>
