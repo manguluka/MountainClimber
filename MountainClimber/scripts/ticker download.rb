@@ -12,6 +12,12 @@
 require 'net/http'
 require 'open-uri'
 require 'openssl'
+require 'mysql2'
+
+client = Mysql2::Client.new(:host => "localhost", :username => "root", :port=> "3306", :database => "javabase")
+results = client.query("SELECT * FROM test;")
+
+
 output = File.open('output.txt','r')
 outputNew = File.open('outputNew.txt','w')
 
@@ -30,8 +36,13 @@ url = ""
 counter = 0
 output.each do |row|
 	filename = "test" + counter.to_s + ".csv"
-	`wget -O "#{filename}" "#{row}"`
+	`wget -nv -O "#{filename}" "#{row}"`
 	counter = counter + 1
-	sleep 1
+	puts
+	puts
+	results
+	puts
+	puts
+
 end
 
