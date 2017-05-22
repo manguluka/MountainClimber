@@ -12,10 +12,7 @@
 require 'net/http'
 require 'open-uri'
 require 'openssl'
-require 'mysql2'
-
-client = Mysql2::Client.new(:host => "localhost", :username => "root", :port=> "3306", :database => "javabase")
-results = client.query("SELECT * FROM test;")
+require 'csv'
 
 
 output = File.open('output.txt','r')
@@ -35,14 +32,26 @@ outputNew = File.open('outputNew.txt','w')
 url = ""
 counter = 0
 output.each do |row|
-	filename = "test" + counter.to_s + ".csv"
+	filename = "stockdata" + counter.to_s + ".csv"
 	`wget -nv -O "#{filename}" "#{row}"`
 	counter = counter + 1
-	puts
-	puts
-	results
-	puts
-	puts
-
+	sleep 2
 end
+
+puts
+
+#Combine All CSVs here
+csv_data = []
+
+#CSV.open('combined_stock_data.csv', 'w') do |csv|
+for i in 0..counter-1
+	csvfile = "stockdata" + i.to_s + ".csv"
+	path = File.join(File.dirname(__FILE__), csvfile)
+	CSV.foreach(path) do |row|
+		puts row
+	end
+end
+
+
+
 

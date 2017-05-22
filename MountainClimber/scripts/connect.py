@@ -2,8 +2,8 @@ import MySQLdb
 
 db = MySQLdb.connect(host="localhost",    # your host, usually localhost
                      user="root",         # your username
-                     passwd="",  # your password
-                     db="javabase")        # name of the data base
+                     passwd="",           # your password
+                     db="javabase")       # name of the data base
 
 cur = db.cursor()
 cur.execute("SELECT * FROM test")
