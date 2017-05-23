@@ -1,200 +1,100 @@
-"QDEL","Quidel Corporation",N/A,N/A
-"QPAC","Quinpario Acquisition Corp. 2",N/A,N/A
-"QPACU","Quinpario Acquisition Corp. 2 -",N/A,N/A
-"QPACW","Quinpario Acquisition Corp. 2 -",N/A,N/A
-"QNST","QuinStreet, Inc.",N/A,N/A
-"QUMU","Qumu Corporation",3.00,1.77
-"QTNT","Quotient Limited - Ordinary Sha",7.75,3.00
-"RRD","R.R. Donnelley & Sons Company",N/A,N/A
-"RCM","R1 RCM Inc.",N/A,N/A
-"RARX","Ra Pharmaceuticals, Inc.",N/A,N/A
-"RADA","RADA Electronic Industries Ltd.",1.27,1.00
-"RDCM","Radcom Ltd. - Ordinary Shares",N/A,N/A
-"RSYS","RadiSys Corporation",N/A,N/A
-"RDUS","Radius Health, Inc.",38.65,23.43
-"RDNT","RadNet, Inc.",7.80,4.00
-"RDWR","Radware Ltd. - Ordinary Shares",N/A,N/A
-"METC","Ramaco Resources, Inc.",N/A,N/A
-"RMBS","Rambus, Inc.",N/A,N/A
-"RAND","Rand Capital Corporation  ($0.1",N/A,N/A
-"RLOG","Rand Logistics, Inc.",0.71,0.32
-"GOLD","Randgold Resources Limited - Am",96.33,94.31
-"RNDB","Randolph Bancorp, Inc.",N/A,N/A
-"RPD","Rapid7, Inc.",N/A,N/A
-"RAVE","Rave Restaurant Group, Inc.",N/A,N/A
-"RAVN","Raven Industries, Inc.",33.00,31.40
-"ROLL","RBC Bearings Incorporated",N/A,N/A
-"RICK","RCI Hospitality Holdings, Inc.",N/A,N/A
-"RCMT","RCM Technologies, Inc.",N/A,N/A
-"RDI","Reading International Inc - Cla",N/A,N/A
-"RDIB","Reading International Inc - Cla",N/A,N/A
-"RGSE","Real Goods Solar, Inc.",1.12,1.00
-"RELY","Real Industry, Inc.",3.300,1.750
-"RNWK","RealNetworks, Inc.",N/A,N/A
-"RP","RealPage, Inc.",N/A,N/A
-"RETA","Reata Pharmaceuticals, Inc.",N/A,N/A
-"RCON","Recon Technology, Ltd. - Ordina",1.69,1.12
-"REPH","Recro Pharma, Inc.",11.49,5.40
-"RRGB","Red Robin Gourmet Burgers, Inc.",73.95,70.05
-"RRR","Red Rock Resorts, Inc.",N/A,N/A
-"RDHL","Redhill Biopharma Ltd. - Americ",14.30,9.88
-"REGN","Regeneron Pharmaceuticals, Inc.",455.40,360.00
-"RGNX","REGENXBIO Inc.",N/A,N/A
-"RGLS","Regulus Therapeutics Inc.",1.60,1.00
-"REIS","Reis, Inc",N/A,N/A
-"RELV","Reliv' International, Inc.",N/A,N/A
-"MARK","Remark Holdings, Inc.",N/A,N/A
-"RNST","Renasant Corporation",N/A,N/A
-"REGI","Renewable Energy Group, Inc.",N/A,N/A
-"RNVA","Rennova Health, Inc.",2.65,0.63
-"RNVAZ","Rennova Health, Inc.",N/A,N/A
-"RCII","Rent-A-Center Inc.",12.91,8.19
-"RTK","Rentech, Inc.",0.810,0.040
-"RGEN","Repligen Corporation",39.90,28.65
-"RPRX","Repros Therapeutics Inc.",0.870,0.340
-"RBCAA","Republic Bancorp, Inc.",34.20,25.00
-"FRBK","Republic First Bancorp, Inc.",N/A,N/A
-"RSAS",N/A,N/A,N/A
-"REFR","Research Frontiers Incorporated",1.51,1.00
-"RESN","Resonant Inc.",6.25,0.33
-"RECN","Resources Connection, Inc.",14.05,13.15
-"ROIC","Retail Opportunity Investments ",26.00,19.06
-"SALE","RetailMeNot, Inc. - Series 1",11.600,11.550
-"RTRX","Retrophin, Inc.",N/A,N/A
-"RVNC","Revance Therapeutics, Inc.",23.60,13.15
-"RVEN","Reven Housing REIT, Inc.",N/A,N/A
-"RBIO",N/A,N/A,N/A
-"RVLT","Revolution Lighting Technologie",9.55,6.43
-"RWLK","ReWalk Robotics Ltd - Ordinary ",1.35,1.15
-"REXX","Rex Energy Corporation",4.30,3.81
-"RFIL","RF Industries, Ltd.",1.80,1.40
-"RGCO","RGC Resources Inc.",N/A,N/A
-"RIBT","RiceBran Technologies",1.43,0.32
-"RIBTW","RiceBran Technologies - Warrant",N/A,N/A
-"RELL","Richardson Electronics, Ltd.",N/A,N/A
-"RIGL","Rigel Pharmaceuticals, Inc.",3.70,2.43
-"NAME","Rightside Group, Ltd.",N/A,N/A
-"RNET","RigNet, Inc.",N/A,N/A
-"RTTR","Ritter Pharmaceuticals, Inc.",0.93,0.50
-"RVSB","Riverview Bancorp Inc",N/A,N/A
-"RLJE","RLJ Entertainment, Inc.",N/A,N/A
-"RMGN","RMG Networks Holding Corporatio",N/A,N/A
-"ROBO","ROBO Global Robotics and Automa",37.96,34.00
-"FUEL","Rocket Fuel Inc.",3.23,2.28
-"RMTI","Rockwell Medical, Inc.",6.94,6.41
-"RCKY","Rocky Brands, Inc.",N/A,N/A
-"RMCF","Rocky Mountain Chocolate Factor",N/A,N/A
-"ROKA","Roka Bioscience, Inc.",4.50,2.90
-"RTNB","root9B Holdings, Inc.",N/A,N/A
-"ROSE","Rosehill Resources Inc.",N/A,N/A
-"ROSEU","Rosehill Resources Inc. - Unit",10.70,9.29
-"ROSEW","Rosehill Resources Inc. - Warra",N/A,N/A
-"ROSG","Rosetta Genomics Ltd. - Ordinar",1.95,1.00
-"ROST","Ross Stores, Inc.",62.22,57.02
-"RBPAA","Royal Bancshares of Pennsylvani",N/A,N/A
-"RGLD","Royal Gold, Inc.",80.20,75.28
-"RPXC","RPX Corporation",N/A,N/A
-"RTIX","RTI Surgical, Inc.",N/A,N/A
-"RBCN","Rubicon Technology, Inc.",N/A,N/A
-"RUSHA","Rush Enterprises, Inc.",N/A,N/A
-"RUSHB","Rush Enterprises, Inc. - Class ",N/A,N/A
-"RUTH","Ruth's Hospitality Group, Inc.",N/A,N/A
-"RXII","RXi Pharmaceuticals Corporation",0.73,0.32
-"RXIIW","RXi Pharmaceuticals Corporation",N/A,N/A
-"RYAAY","Ryanair Holdings plc - American",101.28,N/A
-"STBA","S&T Bancorp, Inc.",N/A,N/A
-"SANW","S&W Seed Company",N/A,N/A
-"SCAC","Saban Capital Acquisition Corp.",N/A,N/A
-"SCACU","Saban Capital Acquisition Corp.",N/A,N/A
-"SCACW","Saban Capital Acquisition Corp.",N/A,N/A
-"SBRA","Sabra Healthcare REIT, Inc.",24.23,16.51
-"SBRAP","Sabra Healthcare REIT, Inc. - 7",29.60,24.60
-"SABR","Sabre Corporation",N/A,N/A
-"SAEX","SAExploration Holdings, Inc.",4.90,4.01
-"SAFT","Safety Insurance Group, Inc.",N/A,N/A
-"SAGE","Sage Therapeutics, Inc.",75.00,27.15
-"SAIA","Saia, Inc.",N/A,N/A
-"SAJA","Sajan, Inc.",5.75,5.51
-"SALM","Salem Media Group, Inc.",12.40,5.65
-"SAL","Salisbury Bancorp, Inc.",N/A,N/A
-"SAFM","Sanderson Farms, Inc.",N/A,N/A
-"SASR","Sandy Spring Bancorp, Inc.",N/A,N/A
-"SGMO","Sangamo Therapeutics, Inc.",7.90,7.50
-"SANM","Sanmina Corporation",N/A,N/A
-"GCVRZ","Sanofi - Contingent Value Right",0.6500,0.0020
-"SPNS","Sapiens International Corporati",N/A,N/A
-"SRPT","Sarepta Therapeutics, Inc.",35.00,32.45
-"SVRA","Savara, Inc.",6.59,3.15
-"SBFG","SB Financial Group, Inc.",N/A,N/A
-"SBFGP","SB Financial Group, Inc. - Depo",N/A,N/A
-"SBAC","SBA Communications Corporation",135.99,100.00
-"SCSC","ScanSource, Inc.",N/A,N/A
-"SMIT","Schmitt Industries, Inc.",2.80,1.60
-"SCHN","Schnitzer Steel Industries, Inc",28.60,18.50
-"SCHL","Scholastic Corporation",46.82,36.56
-"SCLN","SciClone Pharmaceuticals, Inc.",10.30,8.75
-"SGMS","Scientific Games Corp",N/A,N/A
-"SNI","Scripps Networks Interactive, I",N/A,N/A
-"SCYX","SCYNEXIS, Inc.",2.00,1.50
-"SEAC","SeaChange International, Inc.",2.50,2.18
-"SBCF","Seacoast Banking Corporation of",23.06,13.79
-"STX","Seagate Technology PLC - Ordina",42.60,42.40
-"SHIP","Seanergy Maritime Holdings Corp",0.74,0.57
-"SHIPW","Seanergy Maritime Holdings Corp",N/A,N/A
-"SRSC","Sears Canada Inc.",1.75,0.32
-"SHLD","Sears Holdings Corporation",7.84,7.50
-"SHLDW","Sears Holdings Corporation - Wa",N/A,N/A
-"SHOS","Sears Hometown and Outlet Store",4.20,2.60
-"SPNE","SeaSpine Holdings Corporation",N/A,N/A
-"SGEN","Seattle Genetics, Inc.",74.29,53.14
-"EYES","Second Sight Medical Products, ",1.40,1.00
-"EYESW","Second Sight Medical Products, ",N/A,N/A
-"SCWX","SecureWorks Corp.",N/A,N/A
-"SNFCA","Security National Financial Cor",N/A,N/A
-"SEIC","SEI Investments Company",N/A,N/A
-"SLCT","Select Bancorp, Inc.",N/A,N/A
-"SCSS","Select Comfort Corporation",33.00,27.30
-"SIR","Select Income REIT  of Benefici",25.20,18.13
-"SELB","Selecta Biosciences, Inc.",N/A,N/A
-"SIGI","Selective Insurance Group, Inc.",N/A,N/A
-"LEDS","SemiLEDS Corporation",7.45,2.10
-"SMTC","Semtech Corporation",45.00,20.00
-"SENEA","Seneca Foods Corp.",N/A,N/A
-"SENEB","Seneca Foods Corp. - Class B",N/A,N/A
-"SNES","SenesTech, Inc.",N/A,6.01
-"SNH","Senior Housing Properties Trust",22.24,19.00
-"SNHNI","Senior Housing Properties Trust",N/A,N/A
-"SNHNL","Senior Housing Properties Trust",N/A,N/A
-"SNMX","Senomyx, Inc.",1.55,0.32
-"SRTS","Sensus Healthcare, Inc.",N/A,N/A
-"SRTSW","Sensus Healthcare, Inc. - Warra",N/A,N/A
-"SQBG","Sequential Brands Group, Inc.",3.85,3.06
-"MCRB","Seres Therapeutics, Inc.",12.33,9.65
-"SREV","ServiceSource International, In",4.32,3.11
-"SFBS","ServisFirst Bancshares, Inc.",N/A,N/A
-"SEV","Sevcon, Inc.",15.74,12.90
-"SVBI","Severn Bancorp Inc",N/A,N/A
-"SGOC","SGOCO Group, Ltd - Ordinary Sha",1.70,1.05
-"SMED","Sharps Compliance Corp",N/A,N/A
-"SHSP","SharpSpring, Inc.",N/A,N/A
-"SHEN","Shenandoah Telecommunications C",N/A,N/A
-"PIXY","ShiftPixy, Inc. Common Stock",N/A,N/A
-"SHLO","Shiloh Industries, Inc.",N/A,N/A
-"SCCI",N/A,2.70,2.55
-"TYHT","Shineco, Inc.",4.70,3.78
-"SHPG","Shire plc - American Depositary",219.69,160.15
-"SCVL","Shoe Carnival, Inc.",N/A,N/A
-"SHBI","Shore Bancshares Inc",N/A,N/A
-"SHOR","ShoreTel, Inc.",N/A,N/A
-"SFLY","Shutterfly, Inc.",N/A,N/A
-"SIFI","SI Financial Group, Inc.",N/A,N/A
-"SIEB","Siebert Financial Corp.",N/A,N/A
-"SIEN","Sientra, Inc.",N/A,N/A
-"BSRR","Sierra Bancorp",N/A,N/A
-"SRRA","Sierra Oncology, Inc.",1.34,1.01
-"SWIR","Sierra Wireless, Inc.",29.95,25.70
-"SIFY","Sify Technologies Limited - Ame",1.000,0.320
-"SIGM","Sigma Designs, Inc.",6.65,5.90
-"SGLB","Sigma Labs, Inc.",2.68,1.00
-"SGLBW","Sigma Labs, Inc. - Warrant",N/A,N/A
-"SGMA","SigmaTron International, Inc.",7.60,5.10
+"GENE",1.11,"5/22/2017","3:59pm",+0.00,1.12,1.14,1.10,64800
+"GNUS",3.40,"5/22/2017","4:00pm",-0.20,3.74,3.74,3.40,26921
+"GNMK",13.21,"5/22/2017","4:00pm",+0.20,13.03,13.22,12.84,131426
+"GNCA",5.87,"5/22/2017","4:00pm",-0.15,6.08,6.10,5.85,156706
+"GHDX",29.59,"5/22/2017","4:00pm",+0.07,29.51,29.88,29.06,93379
+"GNST",N/A,N/A,N/A,+0.00,N/A,N/A,N/A,0
+"GNTX",18.60,"5/22/2017","4:00pm",-0.23,18.87,18.98,18.58,2876169
+"THRM",36.95,"5/22/2017","4:00pm",+0.60,36.40,36.95,36.40,152019
+"GNVC",6.72,"5/22/2017","3:59pm",-0.45,7.21,7.25,6.60,29154
+"GTWN",26.00,"5/22/2017","3:02pm",+0.02,25.98,26.00,26.00,318
+"GEOS",15.26,"5/22/2017","4:00pm",-0.07,15.42,15.42,15.15,36812
+"GABC",31.05,"5/22/2017","4:00pm",+0.50,30.45,31.13,30.45,32938
+"GERN",3.06,"5/22/2017","4:00pm",+0.01,3.04,3.07,2.97,1401863
+"GEVO",0.8553,"5/22/2017","3:59pm",-0.0627,0.9200,0.9240,0.8500,275118
+"ROCK",31.85,"5/22/2017","4:00pm",+0.45,31.55,31.95,31.35,249316
+"GIGM",2.8604,"5/22/2017","3:44pm",-0.0896,2.8500,2.9400,2.8400,11137
+"GIGA",0.80,"5/22/2017","3:06pm",-0.03,0.85,0.85,0.80,16173
+"GIII",19.97,"5/22/2017","4:00pm",+0.84,19.33,20.34,19.23,707826
+"GILT",4.87,"5/22/2017","3:59pm",-0.06,4.89,4.96,4.86,14006
+"GILD",64.36,"5/22/2017","4:00pm",+0.13,64.23,64.64,64.12,7162917
+"GBCI",33.13,"5/22/2017","4:00pm",+0.22,33.10,33.26,32.75,147349
+"GLAD",10.07,"5/22/2017","4:00pm",+0.20,9.97,10.09,9.90,90840
+"GLADO",25.6199,"5/22/2017","2:14pm",+0.0724,25.6200,25.6200,25.6199,1323
+"GOOD",20.32,"5/22/2017","4:00pm",+0.18,20.18,20.36,20.10,164172
+"GOODM",25.60,"5/22/2017","3:31pm",+0.01,25.54,25.79,25.52,6125
+"GOODO",25.45,"5/22/2017","12:50pm",-0.11,N/A,25.45,25.45,1081
+"GOODP",25.74,"5/22/2017","3:53pm",-0.09,25.93,25.95,25.74,467
+"GAIN",9.10,"5/22/2017","4:00pm",-0.02,9.22,9.22,9.09,185601
+"GAINM",25.4808,"5/22/2017","3:31pm",+0.0707,25.4100,25.4900,25.4100,3000
+"GAINN",25.5834,"5/22/2017","3:47pm",+0.0134,N/A,25.5989,25.5390,800
+"GAINO",25.74,"5/19/2017","4:00pm",+0.00,N/A,N/A,N/A,0
+"LAND",11.29,"5/22/2017","4:00pm",+0.13,11.15,11.30,11.15,43590
+"LANDP",25.95,"5/22/2017","10:47am",-0.07,N/A,25.95,25.95,800
+"GLBZ",11.75,"5/19/2017","11:38am",+0.00,N/A,N/A,N/A,0
+"GBT",30.00,"5/22/2017","4:00pm",+0.25,29.60,30.00,29.05,540452
+"GLBR",2.00,"5/22/2017","3:56pm",+0.10,1.90,2.00,1.90,16161
+"ENT",3.51,"5/22/2017","4:00pm",+0.22,3.32,3.53,3.27,616380
+"GBLI",38.18,"5/22/2017","4:00pm",+0.59,37.51,38.21,37.05,6974
+"GBLIL",25.1699,"5/22/2017","3:58pm",+0.0199,25.1700,25.1800,25.1100,56812
+"GBLIZ",25.0901,"5/22/2017","3:08pm",-0.1231,25.1800,25.1800,25.0900,6391
+"GPAC",9.945,"5/18/2017","2:59pm",+0.000,N/A,N/A,N/A,0
+"GPACU",10.18,"5/1/2017","3:44pm",+0.00,N/A,N/A,N/A,0
+"GPACW",0.164,"5/22/2017","3:59pm",-0.171,0.250,0.264,0.160,312368
+"SELF",4.95,"5/22/2017","3:57pm",+0.01,4.94,4.99,4.91,12599
+"GSOL",12.00,"5/22/2017","4:00pm",-0.10,12.00,12.25,10.30,14573
+"GWRS",8.84,"5/22/2017","4:00pm",+0.19,8.81,8.92,8.74,63441
+"KRMA",17.1627,"5/22/2017","3:53pm",+0.0512,17.0100,17.1699,17.0100,3415
+"FINX",17.65,"5/22/2017","3:59pm",+0.14,17.59,17.65,17.55,6793
+"ACTX",14.84,"5/19/2017","9:43am",+0.00,N/A,N/A,N/A,2
+"BFIT",15.44,"5/19/2017","3:00pm",+0.00,N/A,N/A,N/A,0
+"SNSR",18.06,"5/22/2017","3:59pm",+0.03,18.06,18.08,18.03,32245
+"LNGR",17.81,"5/19/2017","3:41pm",+0.00,N/A,N/A,N/A,0
+"MILN",17.35,"5/22/2017","3:54pm",+0.06,17.27,17.40,17.27,6656
+"EFAS",17.5873,"5/22/2017","3:20pm",+0.0873,17.5000,17.6300,17.5873,825
+"QQQC",25.78,"5/22/2017","1:47pm",+0.44,25.38,25.78,25.40,3351
+"BOTZ",18.42,"5/22/2017","3:59pm",+0.19,18.33,18.43,18.29,262238
+"CATH",29.33,"5/22/2017","3:59pm",+0.17,29.29,29.34,29.27,28672
+"SOCL",29.01,"5/22/2017","4:00pm",+0.34,28.94,29.02,28.85,115453
+"ALTY",15.412,"5/22/2017","3:51pm",+0.038,15.370,15.421,15.400,2328
+"SRET",15.02,"5/22/2017","3:59pm",+0.13,14.92,15.03,14.92,36205
+"YLCO",11.82,"5/22/2017","3:38pm",+0.07,11.76,11.83,11.76,134090
+"GLBS",0.95,"5/22/2017","4:00pm",-0.11,1.07,1.09,0.92,478310
+"GLUU",2.65,"5/22/2017","4:00pm",+0.03,2.61,2.65,2.59,2433419
+"GLYC",11.01,"5/22/2017","4:00pm",-1.75,11.97,12.90,10.79,6427936
+"GOGO",12.85,"5/22/2017","4:00pm",+0.17,12.71,12.94,12.71,1024132
+"GLNG",27.91,"5/22/2017","4:00pm",+0.16,28.02,28.23,27.67,613924
+"GMLP",21.32,"5/22/2017","4:00pm",+0.07,21.32,21.45,21.01,165464
+"GDEN",16.50,"5/22/2017","4:00pm",+0.39,15.95,16.52,15.89,26451
+"GOGL",6.70,"5/22/2017","4:00pm",+0.12,6.67,6.74,6.60,336090
+"GBDC",20.24,"5/22/2017","4:00pm",-0.02,20.34,20.37,20.19,305746
+"GTIM",3.40,"5/22/2017","4:00pm",-0.05,3.35,3.45,3.35,2820
+"GPRO",8.86,"5/22/2017","4:00pm",+0.34,8.53,9.18,8.49,5430922
+"GSHT",10.04,"5/22/2017","4:00pm",+0.04,10.04,10.04,10.04,300
+"GSHTU",10.3986,"5/19/2017","3:56pm",+0.0000,N/A,N/A,N/A,20
+"GSHTW",1.45,"5/18/2017","4:12pm",+0.00,N/A,N/A,N/A,0
+"GOV",22.17,"5/22/2017","4:00pm",-0.02,22.28,22.41,22.04,344032
+"GOVNI",25.309,"5/22/2017","3:25pm",+0.029,25.250,25.350,25.192,21174
+"GPIA",10.04,"5/22/2017","3:58pm",+0.02,10.03,10.04,10.02,677490
+"GPIAU",10.10,"5/22/2017","3:34pm",+0.10,N/A,10.10,10.10,1500
+"GPIAW",0.58,"5/22/2017","3:59pm",-0.08,0.79,0.79,0.55,16580
+"LOPE",77.28,"5/22/2017","4:00pm",+0.76,76.83,77.39,76.12,190993
+"GRVY",18.28,"5/22/2017","3:59pm",-0.60,18.91,19.34,18.20,80619
+"FULLL",25.71,"5/19/2017","11:43am",+0.00,N/A,N/A,N/A,0
+"GECC",10.35,"5/22/2017","3:23pm",-0.03,10.31,10.36,10.30,12694
+"GEC",3.35,"5/22/2017","4:00pm",-0.05,3.45,3.45,3.35,27086
+"GLDD",4.50,"5/22/2017","4:00pm",+0.05,4.50,4.55,4.45,171193
+"GSBC",49.25,"5/22/2017","4:00pm",+0.75,48.75,49.40,48.20,15411
+"GNBC",19.05,"5/22/2017","4:00pm",+0.00,19.10,19.18,18.75,64132
+"GRBK",10.45,"5/22/2017","4:00pm",-0.05,10.45,10.65,10.35,41643
+"GPP",19.30,"5/22/2017","4:00pm",-0.25,19.65,19.70,19.20,37210
+"GPRE",21.65,"5/22/2017","4:00pm",-0.75,22.45,22.55,21.15,1254267
+"GCBC",24.05,"5/22/2017","4:00pm",+0.30,23.30,24.05,23.95,815
+"GLRE",20.10,"5/22/2017","4:00pm",+0.25,19.85,20.10,19.85,64873
+"GSUM",11.73,"5/22/2017","4:00pm",-0.17,11.89,12.10,11.66,16700
+"GRIF",30.47,"5/22/2017","4:00pm",+0.17,30.30,30.85,30.30,11227
+"GRFS",21.50,"5/22/2017","4:00pm",+0.04,21.43,21.62,21.40,361729
+"GRPN",3.33,"5/22/2017","4:00pm",+0.01,3.33,3.38,3.31,4218780
+"OMAB",42.37,"5/22/2017","4:00pm",-0.48,42.96,43.18,41.94,64464
+"GGAL",42.23,"5/22/2017","4:00pm",-0.59,42.80,43.25,42.03,307157
+"GSIT",7.99,"5/22/2017","4:00pm",+0.16,7.84,8.00,7.80,77358

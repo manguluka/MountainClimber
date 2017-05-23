@@ -1,200 +1,100 @@
-"CAT","Caterpillar, Inc.",N/A,N/A
-"CATO","Cato Corporation (The) Class A",N/A,N/A
-"CBZ","CBIZ, Inc.",N/A,N/A
-"CBL","CBL & Associates Properties, In",N/A,N/A
-"CBL^D",N/A,N/A,N/A
-"CBL^E",N/A,N/A,N/A
-"CBO","CBO (Listing Market - NYSE - Ne",N/A,N/A
-"IGR","CBRE Clarion Global Real Estate",N/A,N/A
-"CBG","CBRE Group Inc  Class A",N/A,N/A
-"CBS","CBS Corporation Class B",N/A,N/A
-"CBS.A",N/A,N/A,N/A
-"CBX","CBX (Listing Market NYSE Networ",N/A,N/A
-"CDI","CDI Corporation",N/A,N/A
-"FUN","Cedar Fair, L.P.",N/A,N/A
-"CDR","Cedar Realty Trust, Inc.",N/A,N/A
-"CDR^B",N/A,N/A,N/A
-"CGI","Celadon Group, Inc.",N/A,N/A
-"CE","Celanese Corporation Celanese C",N/A,N/A
-"CLS","Celestica, Inc.",N/A,N/A
-"CEL","Cellcom Israel, Ltd. Ordinary S",N/A,N/A
-"CPAC","Cementos Pacasmayo S.A.A. Ameri",N/A,N/A
-"CX","Cemex, S.A.B. de C.V. Sponsored",N/A,N/A
-"CNCO","Cencosud S.A. American Deposita",N/A,N/A
-"CVE","Cenovus Energy Inc",N/A,N/A
-"CNC","Centene Corporation",N/A,N/A
-"CEN","Center Coast MLP & Infrastructu",N/A,N/A
-"CNP","CenterPoint Energy, Inc (Holdin",N/A,N/A
-"EBR","Centrais Electricas Brasileiras",N/A,N/A
-"EBR.B",N/A,N/A,N/A
-"CEE","Central Europe, Russia and Turk",N/A,N/A
-"CCS","Century Communities, Inc.",N/A,N/A
-"CTL","CenturyLink, Inc.",N/A,N/A
-"CVO","Cenveo Inc",N/A,N/A
-"CF","CF Industries Holdings, Inc.",N/A,N/A
-"CGG","CGG",N/A,N/A
-"GIB","CGI Group, Inc.",N/A,N/A
-"ECOM","ChannelAdvisor Corporation",N/A,N/A
-"CRL","Charles River Laboratories Inte",N/A,N/A
-"CLDT","Chatham Lodging Trust (REIT)  o",N/A,N/A
-"CMCM","Cheetah Mobile Inc. American De",N/A,N/A
-"CHGG","Chegg, Inc.",N/A,N/A
-"CHE","Chemed Corp",N/A,N/A
-"CC","Chemours Company (The)",N/A,N/A
-"CHMI","Cherry Hill Mortgage Investment",N/A,N/A
-"CHK","Chesapeake Energy Corporation",N/A,N/A
-"CHK^D",N/A,N/A,N/A
-"CHKR","Chesapeake Granite Wash Trust C",N/A,N/A
-"CHSP","Chesapeake Lodging Trust  of Be",N/A,N/A
-"CHSP^A",N/A,N/A,N/A
-"CPK","Chesapeake Utilities Corporatio",N/A,N/A
-"CVX","Chevron Corporation",N/A,N/A
-"CBI","Chicago Bridge & Iron Company N",N/A,N/A
-"CHS","Chico's FAS, Inc.",N/A,N/A
-"CIM","Chimera Investment Corporation",N/A,N/A
-"CIM^A",N/A,N/A,N/A
-"CIM^B",N/A,N/A,N/A
-"CO","China Cord Blood Corporation",N/A,N/A
-"DL","China Distance Education Holdin",N/A,N/A
-"CEA","China Eastern Airlines Corporat",N/A,N/A
-"CHN","China Fund, Inc. (The)",N/A,N/A
-"CGA","China Green Agriculture, Inc.",N/A,N/A
-"LFC","China Life Insurance Company Li",N/A,N/A
-"CHL","China Mobile Limited",N/A,N/A
-"BORN","China New Borun Corporation Ame",N/A,N/A
-"COE","China Online Education Group Am",N/A,N/A
-"SNP","China Petroleum & Chemical Corp",N/A,N/A
-"XRF","China Rapid Finance Limited Ame",N/A,N/A
-"ZNH","China Southern Airlines Company",N/A,N/A
-"CHA","China Telecom Corp Ltd ADS",N/A,N/A
-"CHU","China Unicom (Hong Kong) Ltd",N/A,N/A
-"XNY","China Xiniya Fashion Limited Am",N/A,N/A
-"CYD","China Yuchai International Limi",N/A,N/A
-"ZX","China Zenix Auto International ",N/A,N/A
-"CMG","Chipotle Mexican Grill, Inc.",N/A,N/A
-"CHH","Choice Hotels International, In",N/A,N/A
-"CBK","Christopher & Banks Corporation",N/A,N/A
-"CHT","Chunghwa Telecom Co., Ltd.",N/A,N/A
-"CHD","Church & Dwight Company, Inc.",N/A,N/A
-"CIEN","Ciena Corporation",N/A,N/A
-"CI","Cigna Corporation",N/A,N/A
-"XEC","Cimarex Energy Co",N/A,N/A
-"CBB","Cincinnati Bell Inc.",N/A,N/A
-"CBB^B",N/A,N/A,N/A
-"CNK","Cinemark Holdings Inc Cinemark ",N/A,N/A
-"CINR","Ciner Resources LP Common Units",N/A,N/A
-"CIR","CIRCOR International, Inc.",N/A,N/A
-"CIT","CIT Group Inc (DEL)",N/A,N/A
-"BLW","Blackrock Limited Duration Inco",N/A,N/A
-"C","Citigroup, Inc.",N/A,N/A
-"C.WS.A",N/A,N/A,N/A
-"C^C",N/A,N/A,N/A
-"C^J",N/A,N/A,N/A
-"C^K",N/A,N/A,N/A
-"C^L",N/A,N/A,N/A
-"C^N",N/A,N/A,N/A
-"C^P",N/A,N/A,N/A
-"C^S",N/A,N/A,N/A
-"CFG","Citizens Financial Group, Inc.",N/A,N/A
-"CIA","Citizens, Inc. Class A  ($1.00 ",N/A,N/A
-"CIO","City Office REIT, Inc.",N/A,N/A
-"CIO^A",N/A,N/A,N/A
-"CVEO","Civeo Corporation (Canada)",N/A,N/A
-"CIVI","Civitas Solutions, Inc.",N/A,N/A
-"CLH","Clean Harbors, Inc.",N/A,N/A
-"CCO","Clear Channel Outdoor Holdings,",N/A,N/A
-"CBA","ClearBridge American Energy MLP",N/A,N/A
-"CEM","ClearBridge Energy MLP Fund Inc",N/A,N/A
-"EMO","ClearBridge Energy MLP Opportun",N/A,N/A
-"CTR","ClearBridge Energy MLP Total Re",N/A,N/A
-"CLW","Clearwater Paper Corporation",N/A,N/A
-"CLF","Cliffs Natural Resources Inc",N/A,N/A
-"CLPR","Clipper Realty Inc.",N/A,N/A
-"CLX","Clorox Company (The)",N/A,N/A
-"CLD","Cloud Peak Energy Inc",N/A,N/A
-"CLDR","Cloudera, Inc.",N/A,N/A
-"MYCC","ClubCorp Holdings, Inc.",N/A,N/A
-"CMS","CMS Energy Corporation",N/A,N/A
-"CMS^B",N/A,N/A,N/A
-"CNA","CNA Financial Corporation",N/A,N/A
-"CNHI","CNH Industrial N.V.",N/A,N/A
-"CNO","CNO Financial Group, Inc.",N/A,N/A
-"CEO","CNOOC Limited",N/A,N/A
-"CNXC","CNX Coal Resources LP Common Un",N/A,N/A
-"COH","Coach, Inc.",N/A,N/A
-"CIE","Cobalt International Energy, In",N/A,N/A
-"KOF","Coca Cola Femsa S.A.B. de C.V.",N/A,N/A
-"KO","Coca-Cola Company (The)",N/A,N/A
-"CCE","Coca-Cola European Partners plc",N/A,N/A
-"CDE","Coeur Mining, Inc.",N/A,N/A
-"FOF","Cohen & Steers Closed-End Oppor",N/A,N/A
-"INB","Cohen & Steers Global Income Bu",N/A,N/A
-"CNS","Cohen & Steers Inc",N/A,N/A
-"UTF","Cohen & Steers Infrastructure F",N/A,N/A
-"LDP","Cohen & Steers Limited Duration",N/A,N/A
-"MIE","Cohen & Steers MLP Income and E",N/A,N/A
-"RQI","Cohen & Steers Quality Income R",N/A,N/A
-"RNP","Cohen & Steers Reit and Preferr",N/A,N/A
-"PSF","Cohen & Steers Select Preferred",N/A,N/A
-"RFI","Cohen & Steers Total Return Rea",N/A,N/A
-"CFX","Colfax Corporation",N/A,N/A
-"CL","Colgate-Palmolive Company",N/A,N/A
-"CXE","MFS High Income Municipal Trust",N/A,N/A
-"CIF","MFS Intermediate High Income Fu",N/A,N/A
-"CXH","MFS Investment Grade Municipal ",N/A,N/A
-"CMU","MFS Municipal Income Trust",N/A,N/A
-"CLNS","Colony NorthStar, Inc.",N/A,N/A
-"CLNS^A",N/A,N/A,N/A
-"CLNS^B",N/A,N/A,N/A
-"CLNS^C",N/A,N/A,N/A
-"CLNS^D",N/A,N/A,N/A
-"CLNS^E",N/A,N/A,N/A
-"CLNS^F",N/A,N/A,N/A
-"CLNS^G",N/A,N/A,N/A
-"CLNS^H",N/A,N/A,N/A
-"SFR","Colony Starwood Homes  of Benef",N/A,N/A
-"CXP","Columbia Property Trust, Inc.",N/A,N/A
-"STK","Columbia Seligman Premium Techn",N/A,N/A
-"CCV","Comcast Corporation 5.00% Notes",N/A,N/A
-"CCZ","Comcast Holdings ZONES",N/A,N/A
-"CMA","Comerica Incorporated",N/A,N/A
-"CMA.WS",N/A,N/A,N/A
-"FIX","Comfort Systems USA, Inc.",N/A,N/A
-"CMC","Commercial Metals Company",N/A,N/A
-"CBU","Community Bank System, Inc.",N/A,N/A
-"CYH","Community Health Systems, Inc.",N/A,N/A
-"CHCT","Community Healthcare Trust Inco",N/A,N/A
-"CIG","Comp En De Mn Cemig ADS America",N/A,N/A
-"CIG.C",N/A,N/A,N/A
-"CBD","Companhia Brasileira de Distrib",N/A,N/A
-"SBS","Companhia de saneamento Basico ",N/A,N/A
-"ELP","Companhia Paranaense de Energia",N/A,N/A
-"CCU","Compania Cervecerias Unidas, S.",N/A,N/A
-"CODI","Compass Diversified Holdings Sh",N/A,N/A
-"CMP","Compass Minerals Intl Inc",N/A,N/A
-"CRK","Comstock Resources, Inc.",N/A,N/A
-"CAG","ConAgra Brands, Inc.",N/A,N/A
-"CXO","Concho Resources Inc.",N/A,N/A
-"CCM","Concord Medical Services Holdin",N/A,N/A
-"CNDT","Conduent Incorporated",N/A,N/A
-"CNNX","Cone Midstream Partners LP Comm",N/A,N/A
-"COP","ConocoPhillips",N/A,N/A
-"CNX","CONSOL Energy Inc.",N/A,N/A
-"ED","Consolidated Edison, Inc.",N/A,N/A
-"STZ","Constellation Brands, Inc.",N/A,N/A
-"STZ.B",N/A,N/A,N/A
-"CSTM","Constellium N.V. Ordinary Share",N/A,N/A
-"TCS","Container Store (The)",N/A,N/A
-"CBPX","Continental Building Products, ",N/A,N/A
-"CLR","Continental Resources, Inc.",N/A,N/A
-"VLRS","Controladora Vuela Compania de ",N/A,N/A
-"CVG","Convergys Corporation",N/A,N/A
-"COO","Cooper Companies, Inc. (The)",N/A,N/A
-"CTB","Cooper Tire & Rubber Company",N/A,N/A
-"CPS","Cooper-Standard Holdings Inc.",N/A,N/A
-"CPA","Copa Holdings, S.A. Copa Holdin",N/A,N/A
-"CLB","Core Laboratories N.V.",N/A,N/A
-"CXW","CoreCivic, Inc.",N/A,N/A
-"CLGX","CoreLogic, Inc.",N/A,N/A
-"CORR","CorEnergy Infrastructure Trust,",N/A,N/A
-"CORR^A",N/A,N/A,N/A
+"MINDP",23.8647,"5/19/2017","1:06pm",+0.0000,N/A,N/A,N/A,0
+"MITK",9.10,"5/22/2017","4:00pm",+0.50,8.65,9.15,8.60,404115
+"MITL",6.90,"5/22/2017","4:00pm",+0.18,6.72,6.97,6.72,473841
+"MKSI",80.10,"5/22/2017","4:00pm",+1.25,79.10,80.15,78.72,399331
+"MMAC",23.25,"5/22/2017","3:59pm",+0.00,23.25,23.40,22.89,3888
+"MINI",28.05,"5/22/2017","4:00pm",+0.30,27.90,28.45,27.60,212051
+"MOBL",5.35,"5/22/2017","4:00pm",+0.00,5.25,5.40,5.25,231505
+"MOCO",29.90,"5/22/2017","4:00pm",-0.05,29.90,30.00,29.90,113832
+"MMDMU",10.15,"5/22/2017","3:51pm",+0.01,10.14,10.15,10.13,122420
+"MLNK",1.58,"5/22/2017","3:59pm",+0.01,1.59,1.60,1.56,52983
+"MBRX",0.7702,"5/22/2017","3:58pm",+0.0002,0.7750,0.7900,0.7500,68762
+"MNTA",14.80,"5/22/2017","4:00pm",-0.75,14.80,15.20,14.31,1916896
+"MOMO",42.83,"5/22/2017","4:00pm",-0.75,45.85,45.95,41.79,13325567
+"MCRI",30.02,"5/22/2017","4:00pm",+0.34,29.73,30.09,29.73,16128
+"MDLZ",46.11,"5/22/2017","4:00pm",+0.38,45.72,46.33,45.56,6732314
+"MGI",17.01,"5/22/2017","4:00pm",+0.08,16.96,17.10,16.94,923777
+"MPWR",95.22,"5/22/2017","4:00pm",+0.12,95.32,95.90,94.93,182767
+"TYPE",19.25,"5/22/2017","4:00pm",+0.20,19.00,19.30,19.00,128999
+"MNRO",51.45,"5/22/2017","4:00pm",+1.10,50.30,52.10,49.90,369545
+"MRCC",15.70,"5/22/2017","4:00pm",+0.15,15.66,15.77,15.54,31693
+"MNST",48.34,"5/22/2017","4:00pm",+0.65,47.53,48.53,47.53,2199505
+"MSDI",0.585,"5/22/2017","4:00pm",-0.053,0.630,0.660,0.550,131725
+"MSDIW",0.13,"5/22/2017","10:01am",-0.01,N/A,0.13,0.13,500
+"MORN",73.39,"5/22/2017","4:00pm",-0.02,73.51,74.36,73.16,56884
+"MOSY",0.70,"5/22/2017","3:59pm",+0.00,0.70,0.72,0.65,9260
+"MTFB",7.50,"5/22/2017","3:58pm",-0.16,7.70,8.17,7.30,6562
+"MTFBW",1.82,"5/22/2017","3:59pm",-0.08,1.85,1.88,1.82,2200
+"MPAA",29.74,"5/22/2017","4:00pm",-0.45,30.25,30.40,29.49,152101
+"MPVD",2.90,"5/22/2017","3:59pm",-0.05,2.97,3.00,2.90,31505
+"MOXC",3.229,"5/22/2017","3:37pm",+0.029,3.200,3.296,3.200,8791
+"MRIC",6.00,"5/22/2017","11:41am",+0.00,6.00,6.00,6.00,759
+"MRVC",9.00,"5/22/2017","3:59pm",+0.25,8.85,9.00,8.85,14095
+"MSBF",17.00,"5/22/2017","1:05pm",-0.05,17.05,17.05,16.95,2276
+"MSG",197.63,"5/22/2017","4:02pm",+0.67,198.00,199.85,197.13,113470
+"MTGE",18.05,"5/22/2017","4:00pm",+0.15,17.90,18.10,17.90,243420
+"MTGEP",25.8227,"5/22/2017","1:08pm",+0.0677,25.6100,25.9000,25.6000,3609
+"MTSC",53.80,"5/22/2017","4:00pm",+0.45,53.50,53.95,53.10,76235
+"LABL",78.75,"5/22/2017","4:00pm",+0.45,78.30,78.82,78.10,69773
+"MFSF",33.20,"5/22/2017","4:00pm",+0.40,33.05,33.25,33.05,1998
+"MYSZ",1.1999,"5/22/2017","3:59pm",+0.0399,1.2800,1.2800,1.1800,107210
+"MYL",38.64,"5/22/2017","4:00pm",+0.70,38.70,38.76,38.18,4457414
+"MYOK",13.40,"5/22/2017","4:00pm",+0.05,13.35,13.50,13.05,83244
+"MYOS",2.09,"5/22/2017","3:59pm",-0.19,2.25,2.29,2.09,34210
+"MYRG",28.23,"5/22/2017","4:00pm",-0.11,28.51,28.54,27.83,89695
+"MYGN",21.15,"5/22/2017","4:00pm",+0.07,21.05,21.73,21.04,753924
+"NBRV",9.56,"5/22/2017","4:00pm",-0.23,9.87,9.87,9.48,30611
+"NAKD",2.39,"5/22/2017","4:00pm",+0.10,2.31,2.43,2.30,357940
+"NNDM",6.71,"5/22/2017","3:59pm",+0.07,6.72,6.77,6.29,11071
+"NANO",27.45,"5/22/2017","4:00pm",+0.30,27.20,27.54,27.00,185160
+"NSTG",17.72,"5/22/2017","4:00pm",+0.08,17.68,17.73,17.34,93372
+"NH",3.17,"5/22/2017","4:00pm",+0.09,3.09,3.18,3.06,82235
+"NK",3.87,"5/22/2017","4:00pm",+0.41,3.50,3.94,3.41,656457
+"NSSC",8.80,"5/22/2017","4:00pm",-0.10,8.80,8.95,8.65,32913
+"NDAQ",67.91,"5/22/2017","4:00pm",+0.47,67.70,67.99,67.37,685316
+"NTRA",10.35,"5/22/2017","4:00pm",+0.17,10.16,10.42,10.12,113909
+"NATH",63.60,"5/22/2017","4:00pm",+0.70,62.75,63.95,60.35,22184
+"NAUH",2.42,"5/22/2017","3:19pm",+0.00,2.42,2.43,2.41,2209
+"NKSH",39.55,"5/22/2017","4:00pm",+0.00,39.60,39.75,39.55,4372
+"FIZZ",88.59,"5/22/2017","4:00pm",+1.09,88.14,91.89,87.15,267395
+"NCMI",7.71,"5/22/2017","4:00pm",+0.08,7.64,7.78,7.64,767257
+"NCOM",37.75,"5/22/2017","4:00pm",+0.60,37.05,37.95,37.05,13407
+"NESRU",10.00,"5/22/2017","2:06pm",+0.00,10.00,10.00,9.95,1159
+"NGHC",21.49,"5/22/2017","4:00pm",+0.05,21.41,21.65,21.35,136036
+"NGHCN",25.53,"5/22/2017","3:59pm",+0.08,25.29,25.53,25.29,5510
+"NGHCO",25.4208,"5/22/2017","3:49pm",-0.0092,25.4300,25.4500,25.3330,13852
+"NGHCP",25.699,"5/19/2017","3:05pm",+0.000,N/A,N/A,N/A,0
+"NGHCZ",25.8097,"5/22/2017","3:57pm",+0.1197,25.7000,25.8499,25.6710,10952
+"NHLD",2.79,"5/22/2017","3:56pm",+0.03,2.70,2.82,2.70,13485
+"NHLDW",0.72,"5/19/2017","1:27pm",+0.00,N/A,N/A,N/A,20
+"NATI",37.79,"5/22/2017","4:00pm",+0.68,37.21,37.79,37.18,769181
+"NRCIA",23.90,"5/22/2017","4:00pm",+0.20,23.75,24.20,23.30,16501
+"NRCIB",45.40,"5/22/2017","3:55pm",+1.45,44.45,45.45,43.76,3286
+"NSEC",14.76,"5/22/2017","4:00pm",-0.52,15.56,14.76,14.76,104
+"NWLI",304.73,"5/22/2017","4:00pm",+5.13,299.75,305.39,299.49,22081
+"NAII",10.45,"5/22/2017","4:00pm",+0.50,10.00,10.75,9.95,48472
+"NHTC",28.37,"5/22/2017","4:00pm",+0.57,27.76,28.49,27.50,49551
+"NATR",11.45,"5/22/2017","4:00pm",+0.15,11.50,11.80,11.30,255380
+"BABY",33.85,"5/22/2017","4:00pm",+0.25,33.55,34.05,33.45,167263
+"ISM",25.10,"5/22/2017","3:22pm",+0.00,25.10,25.13,25.09,3037
+"JSM",24.10,"5/22/2017","3:59pm",+0.10,23.95,24.15,23.67,27611
+"NAVI",14.07,"5/22/2017","4:00pm",+0.13,14.06,14.13,13.92,1688085
+"NBCP",N/A,N/A,N/A,+0,N/A,N/A,N/A,0
+"NBTB",36.22,"5/22/2017","4:00pm",+0.48,35.88,36.32,35.78,66247
+"NCIT",19.05,"5/22/2017","4:00pm",+0.60,18.65,19.35,18.65,31291
+"NCSM",24.00,"5/22/2017","4:00pm",-0.09,24.45,24.45,23.54,104342
+"NKTR",19.28,"5/22/2017","4:00pm",+0.33,18.99,19.32,18.78,890605
+"NEOG",61.82,"5/22/2017","4:00pm",+0.74,61.00,62.09,60.99,86561
+"NEO",7.24,"5/22/2017","4:00pm",-0.09,7.32,7.38,7.22,247333
+"NEON",1.31,"5/22/2017","4:00pm",-0.01,1.31,1.32,1.25,107861
+"NEOS",8.05,"5/22/2017","4:00pm",-0.25,8.35,8.60,7.90,285913
+"NEOT",2.28,"5/22/2017","3:59pm",-0.01,2.34,2.34,2.24,35433
+"NVCN",1.62,"5/22/2017","3:59pm",+0.13,1.50,1.63,1.48,316314
+"NEPT",1.09,"5/22/2017","3:59pm",-0.01,1.10,1.11,1.09,118783
+"UEPS",9.40,"5/22/2017","4:00pm",-0.25,9.70,9.81,9.30,158691
+"NETE",0.7599,"5/22/2017","4:00pm",-0.0101,0.7700,0.7800,0.7400,194628
+"NTAP",39.98,"5/22/2017","4:00pm",+0.45,39.63,40.10,39.60,4241395
+"NTES",293.68,"5/22/2017","4:00pm",+6.93,289.61,296.88,287.92,1764303
+"NFLX",157.16,"5/22/2017","4:00pm",+0.14,157.86,158.60,156.43,3743017
+"NTGR",43.10,"5/22/2017","4:00pm",+0.05,43.05,43.70,43.00,347379
+"NLST",1.21,"5/22/2017","4:00pm",+0.01,1.20,1.23,1.18,63739

@@ -1,200 +1,100 @@
-"FGB","First Trust Specialty Finance a",N/A,N/A
-"FHY","First Trust Strategic High Inco",N/A,N/A
-"FEO","First Trust/Aberdeen Emerging O",N/A,N/A
-"FAM","First Trust/Aberdeen Global Opp",N/A,N/A
-"FE","FirstEnergy Corporation",N/A,N/A
-"FIT","Fitbit, Inc. Class A",N/A,N/A
-"OAKS","Five Oaks Investment Corp.",N/A,N/A
-"OAKS^A",N/A,N/A,N/A
-"FPH","Five Point Holdings, LLC Class ",N/A,N/A
-"FBC","Flagstar Bancorp, Inc.",N/A,N/A
-"DFP","Flaherty & Crumrine Dynamic Pre",N/A,N/A
-"PFD","Flaherty & Crumrine Preferred I",N/A,N/A
-"PFO","Flaherty & Crumrine Preferred I",N/A,N/A
-"FFC","Flaherty & Crumrine Preferred S",N/A,N/A
-"FLC","Flaherty & Crumrine Total Retur",N/A,N/A
-"FLT","FleetCor Technologies, Inc.",N/A,N/A
-"FND","Floor & Decor Holdings, Inc.",N/A,N/A
-"FTK","Flotek Industries, Inc.",N/A,N/A
-"FLO","Flowers Foods, Inc.",N/A,N/A
-"FLS","Flowserve Corporation",N/A,N/A
-"FLR","Fluor Corporation",N/A,N/A
-"FLY","Fly Leasing Limited",N/A,N/A
-"FMC","FMC Corporation",N/A,N/A
-"FMX","Fomento Economico Mexicano S.A.",N/A,N/A
-"FL","Foot Locker, Inc.",N/A,N/A
-"F","Ford Motor Company",N/A,N/A
-"FELP","Foresight Energy LP Common Unit",N/A,N/A
-"FCE.A",N/A,N/A,N/A
-"FCE.B",N/A,N/A,N/A
-"FOR","Forestar Group Inc",N/A,N/A
-"FTS","Fortis Inc.",N/A,N/A
-"FTV","Fortive Corporation",N/A,N/A
-"FIG","Fortress Investment Group LLC C",N/A,N/A
-"FTAI","Fortress Transportation and Inf",N/A,N/A
-"FSM","Fortuna Silver Mines Inc Ordina",N/A,N/A
-"FBHS","Fortune Brands Home & Security,",N/A,N/A
-"FET","Forum Energy Technologies, Inc.",N/A,N/A
-"FBM","Foundation Building Materials, ",N/A,N/A
-"FCPT","Four Corners Property Trust, In",N/A,N/A
-"FNV","Franco-Nevada Corporation",N/A,N/A
-"FC","Franklin Covey Company",N/A,N/A
-"FSB","Franklin Financial Network, Inc",N/A,N/A
-"BEN","Franklin Resources, Inc.",N/A,N/A
-"FT","Franklin Universal Trust",N/A,N/A
-"FI","Frank's International N.V.",N/A,N/A
-"FCX","Freeport-McMoRan, Inc.",N/A,N/A
-"FMS","Fresenius Medical Care AG",N/A,N/A
-"FDP","Fresh Del Monte Produce, Inc.",N/A,N/A
-"FRO","Frontline Ltd. Ordinary Shares",N/A,N/A
-"FSIC","FS Investment Corporation",N/A,N/A
-"FCN","FTI Consulting, Inc.",N/A,N/A
-"FF","FutureFuel Corp.  Common shares",N/A,N/A
-"GCV","Gabelli Convertible and Income ",N/A,N/A
-"GCV^B",N/A,N/A,N/A
-"GDV","Gabelli Dividend & Income Trust",N/A,N/A
-"GDV^A",N/A,N/A,N/A
-"GDV^D",N/A,N/A,N/A
-"GDV^G",N/A,N/A,N/A
-"GAB","Gabelli Equity Trust, Inc. (The",N/A,N/A
-"GAB^D",N/A,N/A,N/A
-"GAB^G",N/A,N/A,N/A
-"GAB^H",N/A,N/A,N/A
-"GAB^J",N/A,N/A,N/A
-"GGZ","Gabelli Global Small and Mid Ca",N/A,N/A
-"GGZ^A",N/A,N/A,N/A
-"GGT","Gabelli Multi-Media Trust, Inc.",N/A,N/A
-"GGT^B",N/A,N/A,N/A
-"GUT","Gabelli Utility Trust (The)",N/A,N/A
-"GUT^A",N/A,N/A,N/A
-"GUT^C",N/A,N/A,N/A
-"GFA","Gafisa SA Gafisa S.A. American ",N/A,N/A
-"GCAP","GAIN Capital Holdings, Inc.",N/A,N/A
-"GBL","Gamco Investors, Inc.",N/A,N/A
-"GNT","GAMCO Natural Resources, Gold &",N/A,N/A
-"GME","Gamestop Corporation",N/A,N/A
-"GPS","Gap, Inc. (The)",N/A,N/A
-"GDI","Gardner Denver Holdings, Inc.",N/A,N/A
-"IT","Gartner, Inc.",N/A,N/A
-"GLOG","GasLog Ltd.",N/A,N/A
-"GLOG^A",N/A,N/A,N/A
-"GLOP","GasLog Partners LP Common Units",N/A,N/A
-"GLOP^A",N/A,N/A,N/A
-"GATX","GATX Corporation",N/A,N/A
-"GMTA","GATX Corporation 5.625% Senior ",N/A,N/A
-"GZT","Gazit-Globe Ltd. Ordinary Share",N/A,N/A
-"GCP","GCP Applied Technologies Inc.",N/A,N/A
-"GNK","Genco Shipping & Trading Limite",N/A,N/A
-"GNRT","Gener8 Maritime, Inc.",N/A,N/A
-"GNRC","Generac Holdlings Inc.",N/A,N/A
-"GAM","General American Investors, Inc",N/A,N/A
-"GAM^B",N/A,N/A,N/A
-"BGC","General Cable Corporation",N/A,N/A
-"GD","General Dynamics Corporation",N/A,N/A
-"GEH","General Electric Capital Corpor",N/A,N/A
-"GEK","General Electric Capital Corpor",N/A,N/A
-"GE","General Electric Company",N/A,N/A
-"GEB","General Electric Company 4.875%",N/A,N/A
-"GIS","General Mills, Inc.",N/A,N/A
-"GM","General Motors Company",N/A,N/A
-"GM.WS.B",N/A,N/A,N/A
-"GCO","Genesco Inc.",N/A,N/A
-"GWR","Genesee & Wyoming Inc. Class A",N/A,N/A
-"GEL","Genesis Energy, L.P. Common Uni",N/A,N/A
-"GEN","Genesis Healthcare, Inc.",N/A,N/A
-"GNE","Genie Energy Ltd. Class B  Stoc",N/A,N/A
-"GNE^A",N/A,N/A,N/A
-"G","Genpact Limited",N/A,N/A
-"GPC","Genuine Parts Company",N/A,N/A
-"GNW","Genworth Financial Inc",N/A,N/A
-"GEO","Geo Group Inc (The) REIT",N/A,N/A
-"GPRK","Geopark Ltd",N/A,N/A
-"GPE^A",N/A,N/A,N/A
-"GGB","Gerdau S.A.",N/A,N/A
-"GTY","Getty Realty Corporation",N/A,N/A
-"GGP","GGP Inc.",N/A,N/A
-"GGP^A",N/A,N/A,N/A
-"GIMO","Gigamon Inc.",N/A,N/A
-"GIL","Gildan Activewear, Inc. Class A",N/A,N/A
-"GLA","GlassBridge Enterprises, Inc.",N/A,N/A
-"GLT","Glatfelter",N/A,N/A
-"GKOS","Glaukos Corporation",N/A,N/A
-"GSK","GlaxoSmithKline PLC",N/A,N/A
-"BRSS","Global Brass and Copper Holding",N/A,N/A
-"GMRE","Global Medical REIT Inc.",N/A,N/A
-"GNL","Global Net Lease, Inc.",N/A,N/A
-"GLP","Global Partners LP Global Partn",N/A,N/A
-"GPN","Global Payments Inc.",N/A,N/A
-"GSL","Global Ship Lease Inc New Class",N/A,N/A
-"GSL^B",N/A,N/A,N/A
-"GLOB","Globant S.A.",N/A,N/A
-"GMED","Globus Medical, Inc. Class A",N/A,N/A
-"GMS","GMS Inc.",N/A,N/A
-"GNC","GNC Holdings, Inc. Class A",N/A,N/A
-"GDDY","GoDaddy Inc. Class A",N/A,N/A
-"GOL","Gol Linhas Aereas Inteligentes ",N/A,N/A
-"GFI","Gold Fields Limited American De",N/A,N/A
-"GG","Goldcorp Inc.",N/A,N/A
-"GSBD","Goldman Sachs BDC, Inc.",N/A,N/A
-"GS","Goldman Sachs Group, Inc. (The)",N/A,N/A
-"GS^A",N/A,N/A,N/A
-"GS^B",N/A,N/A,N/A
-"GS^C",N/A,N/A,N/A
-"GS^D",N/A,N/A,N/A
-"GS^I",N/A,N/A,N/A
-"GS^J",N/A,N/A,N/A
-"GS^K",N/A,N/A,N/A
-"GS^N",N/A,N/A,N/A
-"GER","Goldman Sachs MLP Energy Renais",N/A,N/A
-"GMZ","Goldman Sachs MLP Income Opport",N/A,N/A
-"GRC","Gorman-Rupp Company (The)",N/A,N/A
-"GPX","GP Strategies Corporation",N/A,N/A
-"GGG","Graco Inc.",N/A,N/A
-"GHM","Graham Corporation",N/A,N/A
-"GHC","Graham Holdings Company",N/A,N/A
-"GPT","Gramercy Property Trust",N/A,N/A
-"GPT^A",N/A,N/A,N/A
-"GRAM","Grana y Montero S.A.A. American",N/A,N/A
-"GVA","Granite Construction Incorporat",N/A,N/A
-"GRP.U",N/A,N/A,N/A
-"GPK","Graphic Packaging Holding Compa",N/A,N/A
-"GTN","Gray Communications Systems, In",N/A,N/A
-"GTN.A",N/A,N/A,N/A
-"AJX","Great Ajax Corp.",N/A,N/A
-"AJXA","Great Ajax Corp. 7.25% Converti",N/A,N/A
-"GXP","Great Plains Energy Incorporate",N/A,N/A
-"GXP^B",N/A,N/A,N/A
-"GWB","Great Western Bancorp, Inc.",N/A,N/A
-"GDOT","Green Dot Corporation Class A ,",N/A,N/A
-"GBX","Greenbrier Companies, Inc. (The",N/A,N/A
-"GHL","Greenhill & Co., Inc.",N/A,N/A
-"GEF","Greif Inc. Class A",N/A,N/A
-"GEF.B",N/A,N/A,N/A
-"GFF","Griffon Corporation",N/A,N/A
-"GPI","Group 1 Automotive, Inc.",N/A,N/A
-"GRUB","GrubHub Inc.",N/A,N/A
-"PAC","Grupo Aeroportuario Del Pacific",N/A,N/A
-"ASR","Grupo Aeroportuario del Sureste",N/A,N/A
-"AVAL","Grupo Aval Acciones y Valores S",N/A,N/A
-"BSMX","Grupo Financiero Santander Mexi",N/A,N/A
-"SUPV","Grupo Supervielle S.A. American",N/A,N/A
-"TV","Grupo Televisa S.A.",N/A,N/A
-"GTT","GTT Communications, Inc.",N/A,N/A
-"GSH","Guangshen Railway Company Limit",N/A,N/A
-"GES","Guess?, Inc.",N/A,N/A
-"GGM","Guggenheim Credit Allocation Fu",N/A,N/A
-"GPM","Guggenheim Enhanced Equity Inco",N/A,N/A
-"GOF","Guggenheim Strategic Opportunit",N/A,N/A
-"GBAB","Guggenheim Taxable Municipal Ma",N/A,N/A
-"GWRE","Guidewire Software, Inc.",N/A,N/A
-"HRB","H&R Block, Inc.",N/A,N/A
-"FUL","H. B. Fuller Company",N/A,N/A
-"HAE","Haemonetics Corporation",N/A,N/A
-"HK","Halcon Resources Corporation",N/A,N/A
-"HK.WS",N/A,N/A,N/A
-"HAL","Halliburton Company",N/A,N/A
-"HYH","Halyard Health, Inc.",N/A,N/A
-"HBI","Hanesbrands Inc.",N/A,N/A
-"HASI","Hannon Armstrong Sustainable In",N/A,N/A
-"HOG","Harley-Davidson, Inc.",N/A,N/A
-"HMY","Harmony Gold Mining Company Lim",N/A,N/A
+"PYDS",1.43,"5/22/2017","4:00pm",+0.00,1.40,1.43,1.33,19790
+"PYPL",49.77,"5/22/2017","4:00pm",+0.38,49.45,49.88,49.35,13144888
+"PBBI",10.45,"5/19/2017","3:59pm",+0.00,N/A,N/A,N/A,0
+"CNXN",26.31,"5/22/2017","4:00pm",-0.20,26.47,26.72,26.16,38420
+"PCMI",19.30,"5/22/2017","4:00pm",+0.55,18.80,19.50,18.50,130214
+"PCSB",16.36,"5/22/2017","4:00pm",+0.00,16.44,16.44,16.32,107027
+"PCTI",6.38,"5/22/2017","4:00pm",-0.02,6.38,6.50,6.31,60338
+"PDCE",53.88,"5/22/2017","4:00pm",+0.05,53.99,54.48,53.43,1082429
+"PDFS",16.94,"5/22/2017","4:00pm",+0.03,16.97,17.01,16.73,108092
+"PDLI",2.35,"5/22/2017","4:00pm",+0.02,2.34,2.39,2.34,1494476
+"PDVW",22.75,"5/22/2017","4:00pm",+1.10,21.75,23.41,22.10,11951
+"SKIS",4.85,"5/22/2017","3:58pm",-0.05,4.85,4.90,4.80,13162
+"PGC",30.01,"5/22/2017","4:00pm",+0.52,29.53,30.22,29.20,37484
+"PEGA",56.75,"5/22/2017","4:00pm",+0.25,56.55,57.05,56.47,180198
+"PCO",6.40,"5/22/2017","4:00pm",+0.05,6.33,6.40,6.09,29801
+"PENN",19.67,"5/22/2017","4:00pm",+0.31,19.41,19.95,19.22,1236740
+"PVAC",44.45,"5/22/2017","4:00pm",+0.42,44.10,47.20,43.41,33814
+"PFLT",14.13,"5/22/2017","4:00pm",+0.13,14.12,14.15,14.00,121280
+"PNNT",7.62,"5/22/2017","4:00pm",+0.01,7.64,7.67,7.56,278452
+"PWOD",39.72,"5/22/2017","4:00pm",+0.91,39.00,40.38,38.58,7422
+"PTXP",19.88,"5/22/2017","4:00pm",+0.00,19.83,19.95,19.83,874757
+"PEBO",31.00,"5/22/2017","4:00pm",+0.25,30.78,31.14,30.02,44241
+"PEBK",27.44,"5/22/2017","4:00pm",+0.04,27.31,27.48,27.27,5392
+"PFBX",13.65,"5/19/2017","2:28pm",+0.00,N/A,N/A,N/A,0
+"PFIS",40.46,"5/22/2017","4:00pm",-0.08,40.48,40.60,39.90,5309
+"PBCT",16.80,"5/22/2017","4:00pm",+0.03,16.89,16.97,16.66,2084131
+"PBCTP",27.93,"5/22/2017","3:59pm",-0.02,28.20,28.20,27.40,204821
+"PUB",25.70,"5/22/2017","4:00pm",+0.15,25.55,25.75,25.08,17275
+"PRCP",7.84,"5/22/2017","3:54pm",+0.00,7.87,7.91,7.79,9140
+"PPHM",0.56,"5/22/2017","3:59pm",+0.01,0.53,0.56,0.53,735057
+"PPHMP",22.17,"5/22/2017","3:58pm",-0.14,22.07,22.17,21.92,1886
+"PRFT",16.63,"5/22/2017","4:00pm",+0.16,16.50,16.79,16.50,63185
+"PFMT",2.34,"5/22/2017","3:59pm",-0.05,2.39,2.52,2.32,30638
+"PERF",1.2001,"5/22/2017","1:32pm",+0.0301,1.2200,1.2200,1.1633,13045
+"PERI",1.55,"5/22/2017","3:59pm",+0.08,1.49,1.56,1.49,45140
+"PESI",3.70,"5/22/2017","3:59pm",+0.05,3.65,3.70,3.60,5912
+"PPIH",7.55,"5/22/2017","4:00pm",-0.05,7.55,7.60,7.55,11700
+"PTX",4.41,"5/22/2017","4:00pm",-0.18,4.56,4.73,4.35,205039
+"PERY",18.65,"5/22/2017","4:00pm",-0.01,18.70,18.94,18.30,112736
+"PGLC",2.88,"5/22/2017","4:00pm",-0.02,2.88,2.90,2.86,39333
+"PETS",34.97,"5/22/2017","4:00pm",-0.68,35.73,35.88,34.68,415594
+"PFSW",6.85,"5/22/2017","4:00pm",+0.05,6.80,6.95,6.65,54371
+"PGTI",11.50,"5/22/2017","4:02pm",-0.20,11.70,11.80,11.50,187805
+"PZRX",1.172,"5/22/2017","3:45pm",+0.042,1.110,1.180,1.100,32551
+"PHII",10.10,"5/22/2017","1:22pm",+0.22,10.00,10.25,9.81,1751
+"PHIIK",9.55,"5/22/2017","4:00pm",+0.05,9.47,9.78,9.08,57664
+"PAHC",34.45,"5/22/2017","4:00pm",+0.35,34.30,34.80,34.30,195893
+"PHMD",1.35,"5/22/2017","4:00pm",-0.03,1.42,1.44,1.33,57527
+"PLAB",10.15,"5/22/2017","4:00pm",+0.05,10.15,10.30,9.95,1581180
+"PICO",16.40,"5/22/2017","4:00pm",+0.05,16.35,16.55,16.15,43549
+"PIRS",3.94,"5/22/2017","4:00pm",-0.11,4.04,4.09,3.83,641310
+"PPC",23.96,"5/22/2017","4:00pm",+0.14,23.83,24.23,23.76,1216528
+"PME",2.87,"5/22/2017","3:59pm",-0.07,2.92,3.04,2.85,150256
+"PNK",19.28,"5/22/2017","4:00pm",+0.38,18.92,19.53,18.82,702400
+"PNFP",61.45,"5/22/2017","4:00pm",+0.85,60.85,61.50,60.30,175662
+"PPSI",6.60,"5/22/2017","10:39am",+0.00,6.60,6.60,6.60,145
+"PXLW",5.35,"5/22/2017","4:00pm",-0.13,5.47,5.47,5.27,831197
+"PLPM",3.75,"5/22/2017","4:00pm",+0.08,3.66,3.77,3.66,114046
+"PLYA",10.25,"5/22/2017","4:00pm",+0.00,10.25,10.31,9.90,109706
+"PLYAW",0.78,"5/22/2017","9:53am",+0.01,0.72,0.79,0.72,8500
+"PLXS",50.59,"5/22/2017","4:00pm",+0.57,50.11,50.63,49.92,133817
+"PLUG",1.94,"5/22/2017","4:00pm",+0.04,1.90,1.94,1.85,3759448
+"PLBC",18.30,"5/22/2017","11:18am",+0.05,18.25,18.45,18.30,678
+"PSTI",1.41,"5/22/2017","4:00pm",+0.11,1.32,1.43,1.32,312051
+"PLXP",5.90,"5/22/2017","4:00pm",+0.15,5.80,5.90,5.80,17907
+"PBSK",19.50,"5/22/2017","4:00pm",+0.00,19.50,19.50,19.50,700
+"PNTR",10.75,"5/22/2017","4:00pm",+0.25,10.80,10.85,10.65,19903
+"PCOM",10.44,"5/22/2017","4:00pm",+0.58,9.60,10.79,9.60,70280
+"POLA",4.7865,"5/22/2017","3:59pm",+0.0165,4.8000,4.9900,4.7100,53937
+"COOL",16.78,"5/22/2017","4:00pm",+3.34,13.97,17.03,13.75,632049
+"POOL",120.55,"5/22/2017","4:00pm",+1.38,119.44,120.84,117.07,125625
+"POPE",72.95,"5/22/2017","3:51pm",+0.95,72.00,72.95,71.90,1816
+"BPOP",38.21,"5/22/2017","4:00pm",+0.06,38.32,38.38,37.75,290899
+"BPOPM",21.9899,"5/22/2017","3:53pm",+0.1699,21.8200,21.9900,21.8200,4805
+"BPOPN",23.75,"5/22/2017","2:18pm",-0.02,N/A,23.92,23.71,6246
+"PBIB",10.1492,"5/19/2017","12:52pm",+0.0000,N/A,N/A,N/A,0
+"PTLA",38.43,"5/22/2017","4:00pm",-0.45,38.85,39.55,38.24,423433
+"PBPB",10.80,"5/22/2017","4:00pm",+0.05,10.75,10.93,10.65,270244
+"PCH",44.45,"5/22/2017","4:00pm",+0.10,44.55,44.90,44.05,114475
+"POWL",32.43,"5/22/2017","4:00pm",+0.33,32.05,32.60,31.83,32867
+"POWI",65.95,"5/22/2017","4:00pm",+0.65,65.45,66.60,65.45,108895
+"PLW",32.58,"5/22/2017","2:48pm",-0.03,32.58,32.61,32.58,4667
+"PKW",52.05,"5/22/2017","4:00pm",+0.28,51.78,52.11,51.78,47201
+"PFM",24.03,"5/22/2017","3:59pm",+0.14,23.90,24.06,23.90,25109
+"PYZ",60.0848,"5/22/2017","3:55pm",+0.2448,60.1800,60.1800,59.7320,7623
+"PEZ",44.1155,"5/22/2017","11:51am",+0.3305,N/A,44.1155,44.1155,500
+"PSL",59.527,"5/22/2017","3:48pm",+0.491,58.910,59.600,58.910,5293
+"PIZ",25.33,"5/22/2017","3:59pm",+0.00,25.34,25.37,25.29,83422
+"PIE",16.78,"5/22/2017","4:00pm",-0.01,16.75,16.82,16.75,118942
+"PXI",36.67,"5/22/2017","3:59pm",-0.23,37.25,37.26,36.66,8932
+"PFI",29.97,"5/22/2017","3:59pm",+0.17,29.91,30.02,29.80,6502
+"PTH",53.7499,"5/22/2017","3:50pm",+0.3599,53.2600,53.7499,53.2501,3613
+"PRN",53.19,"5/22/2017","3:48pm",+0.41,52.91,53.25,52.91,5893
+"DWLV",27.4141,"5/22/2017","3:40pm",+0.2982,N/A,27.4141,27.3300,851
+"PDP",46.09,"5/22/2017","4:00pm",+0.28,45.98,46.13,45.93,65890
+"DWAQ",86.55,"5/22/2017","10:43am",-0.06,N/A,86.55,86.55,622
+"DWAS",41.05,"5/22/2017","3:59pm",+0.45,40.64,41.10,40.64,40477
+"DWIN",27.74,"5/22/2017","3:48pm",+0.09,27.75,27.85,27.69,14529
+"DWTR",24.98,"5/22/2017","3:59pm",+0.33,24.93,24.98,24.76,36078
+"PTF",46.78,"5/22/2017","3:58pm",+0.77,46.10,46.80,46.10,18174

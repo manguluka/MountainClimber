@@ -1,200 +1,100 @@
-"APA","Apache Corporation",N/A,N/A
-"AIV","Apartment Investment and Manage",N/A,N/A
-"AIV^A",N/A,N/A,N/A
-"ARI","Apollo Commercial Real Estate F",N/A,N/A
-"ARI^A",N/A,N/A,N/A
-"ARI^C",N/A,N/A,N/A
-"APO","Apollo Global Management, LLC C",N/A,N/A
-"APO^A",N/A,N/A,N/A
-"AIB","Apollo Investment Corporation 6",N/A,N/A
-"AIY","Apollo Investment Corporation 6",N/A,N/A
-"AFT","Apollo Senior Floating Rate Fun",N/A,N/A
-"AIF","Apollo Tactical Income Fund Inc",N/A,N/A
-"APLE","Apple Hospitality REIT, Inc.",N/A,N/A
-"AIT","Applied Industrial Technologies",N/A,N/A
-"ATR","AptarGroup, Inc.",N/A,N/A
-"WTR","Aqua America, Inc.",N/A,N/A
-"WAAS","AquaVenture Holdings Limited Or",N/A,N/A
-"ARMK","Aramark",N/A,N/A
-"ABR","Arbor Realty Trust",N/A,N/A
-"ABR^A",N/A,N/A,N/A
-"ABR^B",N/A,N/A,N/A
-"ABR^C",N/A,N/A,N/A
-"ABRN","Arbor Realty Trust 7.375% Senio",N/A,N/A
-"ARC","ARC Document Solutions, Inc.",N/A,N/A
-"ARCX","Arc Logistic Partners LP Common",N/A,N/A
-"MT","Arcelor Mittal NY Registry Shar",N/A,N/A
-"ARH^C",N/A,N/A,N/A
-"ARCH","Arch Coal, Inc. Class A",N/A,N/A
-"ADM","Archer-Daniels-Midland Company",N/A,N/A
-"AROC","Archrock, Inc.",N/A,N/A
-"ARNC","Arconic Inc.",N/A,N/A
-"ARNC^B",N/A,N/A,N/A
-"ARCO","Arcos Dorados Holdings Inc. Cla",N/A,N/A
-"ARD","Ardagh Group S.A.",N/A,N/A
-"ASC","Ardmore Shipping Corporation",N/A,N/A
-"AFC","Allied Capital Corporation Alli",N/A,N/A
-"ARU","Ares Capital Corporation 5.875%",N/A,N/A
-"ACRE","Ares Commercial Real Estate Cor",N/A,N/A
-"ARDC","Ares Dynamic Credit Allocation ",N/A,N/A
-"ARES","Ares Management L.P. Common Uni",N/A,N/A
-"ARES^A",N/A,N/A,N/A
-"AGX","Argan, Inc.",N/A,N/A
-"ANET","Arista Networks, Inc.",N/A,N/A
-"AI","Arlington Asset Investment Corp",N/A,N/A
-"AI^B",N/A,N/A,N/A
-"AIC","Arlington Asset Investment Corp",N/A,N/A
-"AIW","Arlington Asset Investment Corp",N/A,N/A
-"AHH","Armada Hoffler Properties, Inc.",N/A,N/A
-"ARR","ARMOUR Residential REIT, Inc.",N/A,N/A
-"ARR^A",N/A,N/A,N/A
-"ARR^B",N/A,N/A,N/A
-"AFI","Armstrong Flooring, Inc.",N/A,N/A
-"AWI","Armstrong World Industries Inc",N/A,N/A
-"ARW","Arrow Electronics, Inc.",N/A,N/A
-"AJG","Arthur J. Gallagher & Co.",N/A,N/A
-"APAM","Artisan Partners Asset Manageme",N/A,N/A
-"ASA","ASA  Gold and Precious Metals L",N/A,N/A
-"ABG","Asbury Automotive Group Inc",N/A,N/A
-"AHP","Ashford Hospitality Prime, Inc.",N/A,N/A
-"AHP^B",N/A,N/A,N/A
-"AHT","Ashford Hospitality Trust Inc",N/A,N/A
-"AHT^A",N/A,N/A,N/A
-"AHT^D",N/A,N/A,N/A
-"AHT^F",N/A,N/A,N/A
-"AHT^G",N/A,N/A,N/A
-"ASH","Ashland Global Holdings Inc.",N/A,N/A
-"APB","Asia Pacific Fund, Inc. (The)",N/A,N/A
-"GRR","Asia Tigers Fund, Inc. (The)",N/A,N/A
-"ASPN","Aspen Aerogels, Inc.",N/A,N/A
-"AHL","Aspen Insurance Holdings Limite",N/A,N/A
-"AHL^B.CL",N/A,N/A,N/A
-"AHL^C",N/A,N/A,N/A
-"AHL^D",N/A,N/A,N/A
-"ASB","Associated Banc-Corp",N/A,N/A
-"ASB^C",N/A,N/A,N/A
-"ASB^D",N/A,N/A,N/A
-"AC","Associated Capital Group, Inc.",N/A,N/A
-"AIZ","Assurant, Inc.",N/A,N/A
-"AGO","Assured Guaranty Ltd.",N/A,N/A
-"AGO^B",N/A,N/A,N/A
-"AGO^E",N/A,N/A,N/A
-"AGO^F",N/A,N/A,N/A
-"AF","Astoria Financial Corporation",N/A,N/A
-"AF^C",N/A,N/A,N/A
-"AZN","Astrazeneca PLC",N/A,N/A
-"HOME","At Home Group Inc.",N/A,N/A
-"T","AT&T Inc.",N/A,N/A
-"ATTO","Atento S.A. Ordinary Shares",N/A,N/A
-"ATH","Athene Holding Ltd. Class A",N/A,N/A
-"ATKR","Atkore International Group Inc.",N/A,N/A
-"AT","Atlantic Power Corporation Ordi",N/A,N/A
-"ATO","Atmos Energy Corporation",N/A,N/A
-"ATW","Atwood Oceanics, Inc.",N/A,N/A
-"AUO","AU Optronics Corp American Depo",N/A,N/A
-"ATHM","Autohome Inc. American Deposita",N/A,N/A
-"ALV","Autoliv, Inc.",N/A,N/A
-"AN","AutoNation, Inc.",N/A,N/A
-"AZO","AutoZone, Inc.",N/A,N/A
-"AVB","AvalonBay Communities, Inc.",N/A,N/A
-"AGR","Avangrid, Inc.",N/A,N/A
-"ACP","Avenue Income Credit Strategies",N/A,N/A
-"AVY","Avery Dennison Corporation",N/A,N/A
-"AVH","Avianca Holdings S.A. American ",N/A,N/A
-"AVA","Avista Corporation",N/A,N/A
-"AVT","Avnet, Inc.",N/A,N/A
-"AVP","Avon Products, Inc.",N/A,N/A
-"AVX","AVX Corporation",N/A,N/A
-"AXTA","Axalta Coating Systems Ltd.",N/A,N/A
-"AXS","Axis Capital Holdings Limited",N/A,N/A
-"AXS^D",N/A,N/A,N/A
-"AXS^E",N/A,N/A,N/A
-"AXON","Axovant Sciences Ltd.",N/A,N/A
-"AZUL","Azul S.A. American Depositary S",N/A,N/A
-"AZRE","Azure Power Global Limited Equi",N/A,N/A
-"AZZ","AZZ Inc.",N/A,N/A
-"BGS","B&G Foods, Inc. B&G Foods, Inc.",N/A,N/A
-"BW","Babcock & Wilcox Enterprises, I",N/A,N/A
-"BGH","Barings Global Short Duration H",N/A,N/A
-"BMI","Badger Meter, Inc.",N/A,N/A
-"BHI","Baker Hughes Incorporated",N/A,N/A
-"BBN","BlackRock Taxable Municipal Bon",N/A,N/A
-"BLL","Ball Corporation",N/A,N/A
-"BGE^B",N/A,N/A,N/A
-"BANC","Banc of California, Inc.",N/A,N/A
-"BANC^C",N/A,N/A,N/A
-"BANC^D",N/A,N/A,N/A
-"BANC^E",N/A,N/A,N/A
-"BBVA","Banco Bilbao Vizcaya Argentaria",N/A,N/A
-"BBD","Banco Bradesco Sa American Depo",N/A,N/A
-"BBDO","Banco Bradesco Sa American Depo",N/A,N/A
-"BCH","Banco De Chile Banco De Chile A",N/A,N/A
-"BLX","Banco Latinoamericano de Comerc",N/A,N/A
-"BSBR","Banco Santander Brasil SA Ameri",N/A,N/A
-"BSAC","Banco Santander - Chile ADS",N/A,N/A
-"SAN","Banco Santander, S.A. Sponsored",N/A,N/A
-"SAN^A",N/A,N/A,N/A
-"SAN^B",N/A,N/A,N/A
-"SAN^C",N/A,N/A,N/A
-"SAN^I",N/A,N/A,N/A
-"CIB","BanColombia S.A.",N/A,N/A
-"BXS","BancorpSouth, Inc.",N/A,N/A
-"BAC","Bank of America Corporation",N/A,N/A
-"BAC.WS.A",N/A,N/A,N/A
-"BAC.WS.B",N/A,N/A,N/A
-"BAC^A",N/A,N/A,N/A
-"BAC^C",N/A,N/A,N/A
-"BAC^D",N/A,N/A,N/A
-"BAC^E",N/A,N/A,N/A
-"BAC^I",N/A,N/A,N/A
-"BAC^L",N/A,N/A,N/A
-"BAC^W",N/A,N/A,N/A
-"BAC^Y",N/A,N/A,N/A
-"BML^G",N/A,N/A,N/A
-"BML^H",N/A,N/A,N/A
-"BML^I",N/A,N/A,N/A
-"BML^J",N/A,N/A,N/A
-"BML^L",N/A,N/A,N/A
-"BOH","Bank of Hawaii Corporation",N/A,N/A
-"BMO","Bank Of Montreal",N/A,N/A
-"NTB","Bank of N.T. Butterfield & Son ",N/A,N/A
-"BK","Bank of New York Mellon Corpora",N/A,N/A
-"BK^C",N/A,N/A,N/A
-"BNS","Bank Nova Scotia Halifax Pfd 3 ",N/A,N/A
-"RATE","Bankrate, Inc.",N/A,N/A
-"BKU","BankUnited, Inc.",N/A,N/A
-"BCS","Barclays PLC",N/A,N/A
-"BCS^D",N/A,N/A,N/A
-"MCI","Barings Corporate Investors",N/A,N/A
-"MPV","Barings Participation Investors",N/A,N/A
-"BNED","Barnes & Noble Education, Inc",N/A,N/A
-"BKS","Barnes & Noble, Inc.",N/A,N/A
-"B","Barnes Group, Inc.",N/A,N/A
-"CUDA","Barracuda Networks, Inc.",N/A,N/A
-"ABX","Barrick Gold Corporation",N/A,N/A
-"BAS","Basic Energy Services, Inc.",N/A,N/A
-"BAX","Baxter International Inc.",N/A,N/A
-"BTE","Baytex Energy Corp",N/A,N/A
-"BBT","BB&T Corporation",N/A,N/A
-"BBT^D",N/A,N/A,N/A
-"BBT^E",N/A,N/A,N/A
-"BBT^F",N/A,N/A,N/A
-"BBT^G",N/A,N/A,N/A
-"BBT^H",N/A,N/A,N/A
-"BFR","BBVA Banco Frances S.A.",N/A,N/A
-"BCE","BCE, Inc.",N/A,N/A
-"BZH","Beazer Homes USA, Inc.",N/A,N/A
-"BDX","Becton, Dickinson and Company",N/A,N/A
-"BDXA","Becton, Dickinson and Company D",N/A,N/A
-"BDC","Belden Inc",N/A,N/A
-"BDC^B",N/A,N/A,N/A
-"BXE","Bellatrix Exploration Ltd Ordin",N/A,N/A
-"BEL","Belmond Ltd. Class A",N/A,N/A
-"BMS","Bemis Company, Inc.",N/A,N/A
-"BHE","Benchmark Electronics, Inc.",N/A,N/A
-"BRK.A",N/A,N/A,N/A
-"BRK.B",N/A,N/A,N/A
-"BHLB","Berkshire Hills Bancorp, Inc.",N/A,N/A
-"BERY","Berry Global Group, Inc.",N/A,N/A
-"BBY","Best Buy Co., Inc.",N/A,N/A
-"BGCA","BGC Partners, Inc. 8.125% Senio",N/A,N/A
+"INFR",28.13,"5/19/2017","11:30am",+0.00,N/A,N/A,N/A,37
+"LVHD",29.85,"5/22/2017","3:58pm",+0.22,29.73,29.85,29.70,21668
+"UDBI",28.58,"5/18/2017","12:05pm",+0.00,N/A,N/A,N/A,0
+"LMAT",29.48,"5/22/2017","4:00pm",-0.46,29.98,30.07,29.13,110292
+"TREE",156.75,"5/22/2017","4:00pm",-0.90,158.45,158.45,155.02,126948
+"LXRX",14.51,"5/22/2017","4:00pm",+0.01,14.48,14.75,14.30,746015
+"LGIH",32.54,"5/22/2017","4:00pm",+0.08,32.49,32.57,32.15,276576
+"LHCG",59.82,"5/22/2017","4:00pm",+0.31,59.59,59.97,59.53,84052
+"LLIT",1.20,"5/22/2017","3:55pm",+0.04,1.20,1.28,1.15,6434
+"LBRDA",82.41,"5/22/2017","4:00pm",+0.24,82.25,82.79,82.25,100600
+"LBRDK",84.07,"5/22/2017","4:00pm",+0.38,83.91,84.43,83.77,427127
+"LEXEA",51.22,"5/22/2017","4:00pm",+0.17,51.35,51.51,51.03,179342
+"LEXEB",50.1701,"5/8/2017","11:10am",+0.0000,N/A,N/A,N/A,0
+"LBTYA",30.85,"5/22/2017","4:00pm",+0.73,30.27,30.94,30.15,6575250
+"LBTYB",31.40,"5/19/2017","10:26am",+0.00,29.35,N/A,N/A,1
+"LBTYK",29.84,"5/22/2017","4:00pm",+0.40,29.66,30.07,29.48,5925168
+"LILA",21.34,"5/22/2017","4:00pm",+0.83,20.53,21.39,20.51,312461
+"LILAK",20.88,"5/22/2017","4:00pm",+0.95,19.98,20.95,19.92,947175
+"LVNTA",51.30,"5/22/2017","4:00pm",+0.39,50.86,51.37,50.86,688588
+"LVNTB",53.7299,"5/15/2017","2:07pm",+0.0000,N/A,N/A,N/A,0
+"QVCA",23.96,"5/22/2017","4:00pm",+0.22,23.69,24.03,23.25,2104189
+"QVCB",24.00,"5/22/2017","3:12pm",+0.42,23.90,24.00,23.85,5367
+"BATRA",24.33,"5/22/2017","4:00pm",+0.41,23.96,24.35,23.74,34326
+"BATRK",24.04,"5/22/2017","4:00pm",+0.41,23.73,24.08,23.47,72876
+"FWONA",30.27,"5/22/2017","4:00pm",+0.02,30.30,30.47,30.09,262051
+"FWONK",30.95,"5/22/2017","4:00pm",+0.10,30.97,31.20,30.73,1865620
+"LSXMA",38.75,"5/22/2017","4:00pm",+0.12,38.85,39.05,38.60,351113
+"LSXMB",37.76,"5/18/2017","3:04pm",+0.00,N/A,N/A,N/A,0
+"LSXMK",38.50,"5/22/2017","4:00pm",+0.09,38.49,38.77,38.30,735404
+"TAX",14.80,"5/22/2017","4:00pm",+0.30,14.50,14.90,14.50,19306
+"LTRPA",13.50,"5/22/2017","4:00pm",-0.35,13.85,14.00,13.40,703108
+"LTRPB",13.70,"5/22/2017","2:31pm",-1.90,14.20,13.70,13.70,617
+"LPNT",62.10,"5/22/2017","4:00pm",+0.15,61.95,62.40,60.15,366061
+"LCUT",18.55,"5/22/2017","4:00pm",+0.00,18.60,18.65,18.45,27573
+"LFVN",4.17,"5/22/2017","4:00pm",-0.22,4.32,4.37,4.16,82985
+"LWAY",10.24,"5/22/2017","4:00pm",+0.11,10.12,10.48,10.01,13794
+"LGND",113.44,"5/22/2017","4:00pm",-0.37,113.84,114.46,112.62,165126
+"LTBR",1.84,"5/22/2017","4:00pm",-0.04,1.88,1.95,1.79,89919
+"LPTH",2.92,"5/22/2017","4:00pm",+0.07,2.85,2.95,2.82,196793
+"LLEX",5.28,"5/22/2017","4:02pm",-0.10,5.55,5.55,5.01,194274
+"LMB",12.75,"5/22/2017","3:59pm",+0.00,12.89,12.89,12.75,3076
+"LLNW",3.11,"5/22/2017","4:00pm",+0.06,3.05,3.12,3.05,202596
+"LMNR",18.60,"5/22/2017","4:00pm",+0.25,18.56,19.27,18.56,17398
+"LINC",3.00,"5/22/2017","4:00pm",-0.07,3.07,3.10,2.97,74696
+"LECO",89.52,"5/22/2017","4:00pm",+0.37,89.62,89.64,88.49,225215
+"LIND",9.31,"5/22/2017","4:00pm",+0.05,9.28,9.48,9.16,52235
+"LINDW",2.00,"5/19/2017","3:44pm",+0.00,N/A,N/A,N/A,0
+"LINU",0.18,"5/22/2017","3:50pm",+0.02,0.17,0.20,0.17,50965
+"LBIO",6.10,"5/22/2017","4:00pm",+0.30,5.80,6.20,5.70,505333
+"LPCN",3.55,"5/22/2017","4:00pm",-0.01,3.59,3.71,3.48,125987
+"LQDT",6.60,"5/22/2017","4:00pm",-0.10,6.70,6.80,6.60,94847
+"LFUS",160.55,"5/22/2017","4:00pm",+2.22,158.59,160.94,158.27,99277
+"LIVN",58.44,"5/22/2017","4:00pm",-0.35,58.88,59.26,58.04,434928
+"LOB",24.60,"5/22/2017","4:00pm",+0.30,24.45,24.65,24.10,67587
+"LIVE",10.56,"5/22/2017","4:00pm",-0.25,10.91,10.91,10.40,17037
+"LPSN",9.80,"5/22/2017","4:00pm",+0.10,9.70,9.85,9.55,253194
+"LKQ",31.45,"5/22/2017","4:00pm",+0.40,31.13,31.97,31.13,1353808
+"LMFA",4.5101,"5/18/2017","3:29pm",+0.0000,N/A,N/A,N/A,0
+"LMFAW",0.1402,"5/19/2017","2:19pm",+0.0000,N/A,N/A,N/A,0
+"LMIA",13.95,"5/22/2017","4:00pm",+0.00,13.95,13.95,13.94,64157
+"LOGI",35.28,"5/22/2017","4:00pm",+0.13,35.26,35.38,35.04,388864
+"LOGM",111.35,"5/22/2017","4:00pm",-1.70,113.05,113.89,110.65,742469
+"EVAR",0.4859,"5/22/2017","3:56pm",-0.0140,0.4740,0.4978,0.4359,13550
+"CNCR",22.3824,"5/22/2017","3:58pm",+0.1824,22.1200,22.4000,22.1200,12501
+"LONE",4.26,"5/22/2017","4:00pm",-0.01,4.29,4.60,4.12,31764
+"LTEA",5.1999,"5/22/2017","3:56pm",+0.1799,5.1000,5.2500,5.0200,62624
+"LORL",38.45,"5/22/2017","4:00pm",+0.95,37.55,38.50,37.40,34558
+"LOXO",46.35,"5/22/2017","4:00pm",+0.21,46.24,46.57,44.02,172804
+"LPLA",39.85,"5/22/2017","4:00pm",-0.09,40.13,40.24,39.41,509972
+"LRAD",1.74,"5/22/2017","3:58pm",-0.09,1.81,1.82,1.72,9550
+"LYTS",8.70,"5/22/2017","4:00pm",+0.13,8.57,8.76,8.49,59084
+"LULU",49.51,"5/22/2017","4:00pm",+0.22,49.65,50.12,49.30,1913626
+"LITE",57.35,"5/22/2017","4:00pm",+4.00,53.90,58.30,53.90,2243141
+"LMNX",20.27,"5/22/2017","4:00pm",-0.44,20.71,20.74,20.23,222549
+"LMOS",17.79,"5/22/2017","4:00pm",+0.02,17.79,17.83,17.76,1679635
+"LUNA",1.54,"5/22/2017","3:58pm",+0.04,1.51,1.60,1.46,30746
+"MBTF",10.35,"5/22/2017","4:00pm",+0.05,10.30,10.35,10.30,15787
+"MACQ",10.01,"5/11/2017","1:32pm",+0.00,N/A,N/A,N/A,0
+"MACQU",10.22,"5/18/2017","10:28am",+0.00,N/A,N/A,N/A,0
+"MACQW",0.35,"5/5/2017","2:59pm",+0.00,N/A,N/A,N/A,0
+"MIII",9.82,"5/22/2017","2:51pm",-0.01,9.82,9.82,9.82,20000
+"MIIIU",10.14,"5/22/2017","3:59pm",+0.01,10.12,10.15,10.12,12350
+"MIIIW",0.39,"5/22/2017","3:55pm",+0.08,0.32,0.39,0.32,144200
+"MBVX",1.71,"5/22/2017","4:00pm",-0.09,1.81,1.75,1.66,46931
+"MCBC",9.26,"5/22/2017","4:00pm",+0.05,9.22,9.30,9.03,44594
+"MFNC",13.955,"5/22/2017","4:00pm",-0.005,13.750,14.000,13.750,2786
+"MTSI",60.84,"5/22/2017","4:00pm",+4.66,56.56,61.45,56.55,2046551
+"MGNX",19.12,"5/22/2017","4:00pm",-0.12,19.28,19.47,18.92,115355
+"MDGL",16.38,"5/22/2017","4:00pm",+0.10,16.29,16.50,16.15,6923
+"MAGS",5.83,"5/22/2017","4:00pm",-0.18,5.97,6.08,5.72,167328
+"MGLN",69.85,"5/22/2017","4:00pm",+1.80,68.10,70.10,67.97,146244
+"MGIC",8.50,"5/22/2017","4:00pm",+0.10,8.50,8.55,8.40,39803
+"CALL",7.20,"5/22/2017","4:00pm",+0.00,7.20,7.40,7.05,73622
+"MNGA",1.92,"5/22/2017","4:00pm",+1.74,1.82,1.94,1.24,82118
+"MGYR",12.7753,"5/22/2017","1:26pm",+0.1288,N/A,12.7753,12.7753,141
+"MHLD",10.35,"5/22/2017","4:00pm",-0.25,10.65,10.70,10.30,564624
+"MSFG",32.70,"5/22/2017","4:00pm",+0.20,32.57,32.71,32.21,56091
+"MMYT",35.30,"5/22/2017","4:00pm",+0.65,34.85,37.75,34.85,705786
+"MBUU",23.51,"5/22/2017","4:00pm",+0.44,23.16,23.67,23.06,150864
+"MLVF",22.00,"5/22/2017","4:00pm",+0.00,22.00,22.00,22.00,11571

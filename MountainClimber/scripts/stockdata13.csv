@@ -1,200 +1,100 @@
-"SBNY","Signature Bank",N/A,N/A
-"SBNYW","Signature Bank",N/A,107.41
-"SLGN","Silgan Holdings Inc.",N/A,N/A
-"SILC","Silicom Ltd - Ordinary Shares",N/A,N/A
-"SLAB","Silicon Laboratories, Inc.",74.90,66.85
-"SIMO","Silicon Motion Technology Corpo",55.27,27.52
-"SPIL","Siliconware Precision Industrie",8.50,7.26
-"SRUN","Silver Run Acquisition Corporat",9.92,8.95
-"SRUNU","Silver Run Acquisition Corporat",10.81,10.28
-"SRUNW","Silver Run Acquisition Corporat",N/A,N/A
-"SSRI","Silver Standard Resources Inc.",14.99,9.57
-"SAMG","Silvercrest Asset Management Gr",N/A,N/A
-"SSNT","SilverSun Technologies, Inc.",N/A,N/A
-"SFNC","Simmons First National Corporat",51.70,N/A
-"SLP","Simulations Plus, Inc.",12.50,10.50
-"SINA","Sina Corporation - Ordinary Sha",149.00,100.00
-"SBGI","Sinclair Broadcast Group, Inc.",N/A,N/A
-"SINO","Sino-Global Shipping America, L",3.07,2.80
-"SVA","Sinovac Biotech, Ltd. - Ordinar",5.99,4.59
-"SIRI","Sirius XM Holdings Inc.",4.89,4.87
-"SRVA",N/A,N/A,N/A
-"SITO","SITO Mobile, Ltd.",4.84,2.10
-"SKYS","Sky Solar Holdings, Ltd. - Amer",3.00,1.50
-"SKLN","Skyline Medical Inc.",2.48,1.01
-"SPU","SkyPeople Fruit Juice, Inc.",2.98,2.40
-"SKYW","SkyWest, Inc.",N/A,N/A
-"SWKS","Skyworks Solutions, Inc.",103.87,87.50
-"SLM","SLM Corporation",10.98,10.00
-"SLMBP","SLM Corporation - Floating Rate",N/A,N/A
-"SND","Smart Sand, Inc.",N/A,N/A
-"SMBK","SmartFinancial, Inc.",N/A,N/A
-"SMSI","Smith Micro Software, Inc.",1.32,0.81
-"SMTX","SMTC Corporation",1.87,1.08
-"LNCE","Snyder's-Lance, Inc.",36.58,31.15
-"SRAX","Social Reality, Inc.",N/A,N/A
-"SCKT","Socket Mobile, Inc.",5.00,3.77
-"SODA","SodaStream International Ltd. -",55.98,46.67
-"SOHU","Sohu.com Inc.",50.97,38.00
-"SLRC","Solar Capital Ltd.",23.55,19.25
-"SUNS","Solar Senior Capital Ltd.",N/A,N/A
-"SEDG","SolarEdge Technologies, Inc.",20.90,16.70
-"SNGX","Soligenix, Inc.",2.69,1.96
-"SNGXW","Soligenix, Inc. - Warrant",N/A,N/A
-"SONC","Sonic Corp.",29.48,25.02
-"SOFO","Sonic Foundry, Inc.",N/A,N/A
-"SNOA","Sonoma Pharmaceuticals, Inc.",N/A,N/A
-"SNOAW","Sonoma Pharmaceuticals, Inc. - ",N/A,N/A
-"SONS","Sonus Networks, Inc.",8.10,2.13
-"SPHS","Sophiris Bio, Inc.",3.40,2.45
-"SORL","SORL Auto Parts, Inc.",15.50,6.85
-"SRNE","Sorrento Therapeutics, Inc.",2.100,1.500
-"SOHO","Sotherly Hotels Inc.",9.00,6.50
-"SOHOB","Sotherly Hotels Inc. - 8.0% Ser",N/A,N/A
-"SOHOM","Sotherly Hotels LP - 7.00% Seni",28.0000,25.5000
-"SFBC","Sound Financial Bancorp, Inc.",N/A,N/A
-"SSB","South State Corporation",N/A,N/A
-"SFST","Southern First Bancshares, Inc.",N/A,N/A
-"SMBC","Southern Missouri Bancorp, Inc.",N/A,N/A
-"SONA","Southern National Bancorp of Vi",N/A,N/A
-"SBSI","Southside Bancshares, Inc.",33.75,27.72
-"OKSB","Southwest Bancorp, Inc.",N/A,N/A
-"SP","SP Plus Corporation",28.85,28.50
-"SPAN","Span-America Medical Systems, I",28.92,17.15
-"SGRP","SPAR Group, Inc.",1.10,0.88
-"SPKE","Spark Energy, Inc.",38.70,30.90
-"SPKEP","Spark Energy, Inc. - 8.75% Seri",199999.98,25.00
-"ONCE","Spark Therapeutics, Inc.",75.00,53.44
-"SPAR","Spartan Motors, Inc.",N/A,N/A
-"SPTN","SpartanNash Company",N/A,N/A
-"DWFI","SPDR Dorsey Wright Fixed Income",N/A,N/A
-"SPPI","Spectrum Pharmaceuticals, Inc.",7.86,2.95
-"ANY","Sphere 3D Corp.",0.230,0.120
-"SPEX","Spherix Incorporated",1.36,1.10
-"SPI","SPI Energy Co., Ltd. - American",1.20,0.28
-"SAVE","Spirit Airlines, Inc.",54.32,52.56
-"SPLK","Splunk Inc.",66.20,65.50
-"SPOK","Spok Holdings, Inc.",N/A,N/A
-"SPWH","Sportsman's Warehouse Holdings,",5.90,5.70
-"SBPH","Spring Bank Pharmaceuticals, In",N/A,N/A
-"FUND","Sprott Focus Trust, Inc. - Clos",9.99,5.96
-"SFM","Sprouts Farmers Market, Inc.",32.50,20.19
-"SPSC","SPS Commerce, Inc.",N/A,N/A
-"SSNC","SS&C Technologies Holdings, Inc",N/A,N/A
-"STAA","STAAR Surgical Company",7817.45,9.05
-"STAF","Staffing 360 Solutions, Inc.",1.1500,0.3200
-"STMP","Stamps.com Inc.",120.90,106.25
-"STLY","Stanley Furniture Company, Inc.",1.26,0.80
-"SPLS","Staples, Inc.",11.69,8.33
-"SBLK","Star Bulk Carriers Corp.",9.24,6.25
-"SBLKL","Star Bulk Carriers Corp. - 8.00",25.50,0.01
-"SBUX","Starbucks Corporation",61.47,61.37
-"STFC","State Auto Financial Corporatio",N/A,N/A
-"STBZ","State Bank Financial Corporatio",N/A,N/A
-"SNC","State National Companies, Inc.",16.22,15.00
-"STDY","SteadyMed Ltd. - Ordinary Share",9.00,0.75
-"GASS","StealthGas, Inc.",3.85,3.05
-"STLD","Steel Dynamics, Inc.",34.22,25.50
-"SMRT","Stein Mart, Inc.",1.220,1.170
-"STLR","Stellar Acquisition III Inc.",N/A,N/A
-"STLRU","Stellar Acquisition III Inc. - ",N/A,N/A
-"STLRW","Stellar Acquisition III Inc. - ",N/A,N/A
-"SBOT","Stellar Biotechnologies, Inc.",4.49,0.01
-"STML","Stemline Therapeutics, Inc.",9.00,6.75
-"SRCL","Stericycle, Inc.",N/A,N/A
-"SRCLP","Stericycle, Inc. - Depository R",N/A,N/A
-"STRL","Sterling Construction Company I",12.25,8.50
-"SHOO","Steven Madden, Ltd.",N/A,N/A
-"SSFN","Stewardship Financial Corp",N/A,N/A
-"SYBT","Stock Yards Bancorp, Inc.",N/A,N/A
-"BANX","StoneCastle Financial Corp",20.09,19.30
-"SGBK","Stonegate Bank",N/A,N/A
-"SSKN","Strata Skin Sciences, Inc.",3.07,2.28
-"SSYS","Stratasys, Ltd.",32.17,25.14
-"STRT","Strattec Security Corporation",N/A,N/A
-"STRS","Stratus Properties Inc.",N/A,N/A
-"STRA","Strayer Education, Inc.",120.00,0.32
-"STRM","Streamline Health Solutions, In",2.49,1.15
-"SBBP","Strongbridge Biopharma plc - Or",N/A,N/A
-"STB","Student Transportation Inc",6.17,5.49
-"SCMP","Sucampo Pharmaceuticals, Inc.",10.80,8.15
-"SUMR","Summer Infant, Inc.",2.51,1.65
-"SMMF","Summit Financial Group, Inc.",N/A,N/A
-"SSBI","Summit State Bank",N/A,N/A
-"SMMT","Summit Therapeutics plc - Ameri",N/A,N/A
-"SNBC","Sun Bancorp, Inc.",N/A,N/A
-"SNHY","Sun Hydraulics Corporation",N/A,N/A
-"SNDE","Sundance Energy Australia Limit",N/A,N/A
-"SNSS","Sunesis Pharmaceuticals, Inc.",39.80,2.70
-"STKL","SunOpta, Inc.",N/A,N/A
-"SPWR","SunPower Corporation",7.75,6.66
-"RUN","Sunrun Inc.",5.22,4.60
-"SBCP","Sunshine Bancorp, Inc.",23.23,23.10
-"SSH","Sunshine Heart Inc",0.8700,0.3200
-"SUNW","Sunworks, Inc.",N/A,N/A
-"SMCI","Super Micro Computer, Inc.",25.70,1.00
-"SPCB","SuperCom, Ltd. - Ordinary Share",5.49,2.35
-"SCON","Superconductor Technologies Inc",1.88,1.75
-"SGC","Superior Uniform Group, Inc.",7944.04,15.19
-"SUPN","Supernus Pharmaceuticals, Inc.",N/A,N/A
-"SPRT","Support.com, Inc.",5.00,2.21
-"SGRY","Surgery Partners, Inc.",N/A,N/A
-"SRDX","Surmodics, Inc.",25.00,22.65
-"SBBX","Sussex Bancorp",N/A,N/A
-"SIVB","SVB Financial Group",N/A,N/A
-"SIVBO","SVB Financial Group - 7% Cumula",N/A,N/A
-"SYKE","Sykes Enterprises, Incorporated",N/A,N/A
-"SYMC","Symantec Corporation",29.07,27.19
-"SYNC","Synacor, Inc.",4.50,3.20
-"SYNL","Synalloy Corporation",18.80,11.50
-"SYNA","Synaptics Incorporated",57.88,30.00
-"SNCR","Synchronoss Technologies, Inc.",15.15,13.25
-"SNDX","Syndax Pharmaceuticals, Inc.",15.00,12.30
-"SGYP","Synergy Pharmaceuticals, Inc.",4.13,3.76
-"ELOS","Syneron Medical Ltd. - Ordinary",11.35,10.75
-"SNPS","Synopsys, Inc.",71.04,68.00
-"SYNT","Syntel, Inc.",20.00,17.70
-"SYMX","Synthesis Energy Systems, Inc.",1.0000,0.3200
-"SYPR","Sypris Solutions, Inc.",1.89,1.34
-"SYRS","Syros Pharmaceuticals, Inc.",N/A,N/A
-"TROW","T. Rowe Price Group, Inc.",72.49,67.30
-"TTOO","T2 Biosystems, Inc.",4.80,3.17
-"TRHC","Tabula Rasa HealthCare, Inc.",N/A,N/A
-"TCMD","Tactile Systems Technology, Inc",N/A,N/A
-"TAIT","Taitron Components Incorporated",1.6800,1.0600
-"TTWO","Take-Two Interactive Software, ",76.36,55.50
-"TLND","Talend S.A. - American Deposita",N/A,N/A
-"TNDM","Tandem Diabetes Care, Inc.",4.5000,0.3200
-"TLF","Tandy Leather Factory, Inc.",N/A,N/A
-"TANH","Tantech Holdings Ltd.",2.50,2.27
-"TPIV","TapImmune Inc.",4.05,3.14
-"TEDU","Tarena International, Inc. - Am",19.02,18.03
-"TATT","TAT Technologies Ltd. - Ordinar",199999.95,5.90
-"TAYD","Taylor Devices, Inc.",N/A,N/A
-"TCPC","TCP Capital Corp.",17.50,14.13
-"AMTD","TD Ameritrade Holding Corporati",40.72,33.46
-"TEAR","TearLab Corporation",5.87,1.80
-"TECD","Tech Data Corporation",N/A,N/A
-"TCCO","Technical Communications Corpor",4.20,2.30
-"TTGT","TechTarget, Inc.",N/A,N/A
-"TGLS","Tecnoglass Inc. - Ordinary Shar",N/A,N/A
-"TGEN","Tecogen Inc.",N/A,N/A
-"TNAV","Telenav, Inc.",N/A,N/A
-"TTEC","TeleTech Holdings, Inc.",N/A,N/A
-"TLGT","Teligent, Inc.",8.99,8.20
-"TELL","Tellurian Inc.",18.99,8.10
-"TENX","Tenax Therapeutics, Inc.",0.5420,0.4100
-"GLBL","TerraForm Global, Inc.",4.85,4.75
-"TERP","TerraForm Power, Inc.",16.43,11.52
-"TVIA","TerraVia Holdings, Inc.",0.3505,0.1600
-"TBNK","Territorial Bancorp Inc.",N/A,N/A
-"TSRO","TESARO, Inc.",166.90,148.00
-"TESO","Tesco Corporation",5.65,5.10
-"TSLA","Tesla, Inc.",310.72,310.30
-"TESS","TESSCO Technologies Incorporate",N/A,N/A
-"TTEK","Tetra Tech, Inc.",N/A,N/A
-"TTPH","Tetraphase Pharmaceuticals, Inc",9.82,4.42
-"TCBI","Texas Capital Bancshares, Inc.",N/A,N/A
-"TCBIL","Texas Capital Bancshares, Inc. ",199999.98,25.23
-"TCBIP","Texas Capital Bancshares, Inc. ",N/A,N/A
-"TCBIW","Texas Capital Bancshares, Inc. ",N/A,N/A
+"GSVC",4.48,"5/22/2017","4:00pm",-0.05,4.52,4.55,4.48,33563
+"GTXI",4.50,"5/22/2017","4:00pm",-0.09,4.60,4.71,4.32,39482
+"GTYH",9.8902,"5/17/2017","3:51pm",+0.0000,N/A,N/A,N/A,0
+"GTYHU",10.41,"5/19/2017","3:02pm",+0.00,N/A,N/A,N/A,19
+"GTYHW",1.05,"5/19/2017","3:59pm",+0.00,N/A,N/A,N/A,0
+"GBNK",25.05,"5/22/2017","4:00pm",+0.10,25.00,25.20,24.75,170094
+"GNTY",31.64,"5/22/2017","4:00pm",+0.89,31.00,32.14,30.51,52315
+"GFED",19.9299,"5/18/2017","3:34pm",+0.0000,N/A,N/A,N/A,0
+"GUID",6.62,"5/22/2017","4:00pm",+0.14,6.52,6.69,6.41,140837
+"GIFI",9.25,"5/22/2017","4:00pm",+0.10,9.10,9.40,9.15,91142
+"GURE",1.86,"5/22/2017","3:59pm",+0.05,1.80,1.90,1.79,74350
+"GPOR",16.02,"5/22/2017","4:00pm",-0.09,16.28,16.32,15.86,2870770
+"GWPH",107.04,"5/22/2017","4:00pm",+0.77,107.04,107.95,106.50,164674
+"GWGH",10.05,"5/22/2017","4:00pm",+0.03,10.05,10.05,10.05,100
+"GYRO",20.5513,"5/22/2017","12:27pm",-0.2781,20.6300,20.6583,20.5513,1233
+"HEES",19.49,"5/22/2017","4:00pm",+0.49,19.21,19.61,19.08,237557
+"HLG",8.26,"5/17/2017","9:37am",+0.00,N/A,N/A,N/A,0
+"HNRG",7.66,"5/22/2017","4:00pm",+0.18,7.60,7.77,7.60,52536
+"HALL",10.39,"5/22/2017","4:00pm",+0.21,10.19,10.50,10.12,15966
+"HALO",12.79,"5/22/2017","4:00pm",-0.12,12.85,13.00,12.51,1900473
+"HBK",15.1553,"5/12/2017","2:26pm",+0.0000,15.2000,N/A,N/A,54
+"HLNE",19.99,"5/22/2017","4:00pm",+0.45,19.59,20.18,19.56,83629
+"HBHC",47.25,"5/22/2017","4:00pm",+0.25,47.20,47.30,46.15,393433
+"HBHCL",26.40,"5/22/2017","3:35pm",+0.34,26.14,26.40,26.11,7465
+"HNH",27.35,"5/22/2017","4:00pm",+0.25,27.40,27.40,26.85,7235
+"HAFC",27.50,"5/22/2017","4:00pm",+0.20,27.50,27.55,27.20,55256
+"HQCL",6.91,"5/22/2017","4:00pm",+0.06,6.88,7.06,6.88,23238
+"HONE",19.93,"5/22/2017","4:00pm",-0.01,19.98,19.95,19.74,11897
+"HDNG",12.22,"5/22/2017","4:00pm",+0.28,11.95,12.37,11.82,20252
+"HLIT",5.25,"5/22/2017","4:00pm",+0.10,5.15,5.25,5.10,418775
+"HRMN",10.2001,"5/22/2017","11:12am",-0.0499,N/A,10.2001,10.2001,500
+"HRMNU",10.01,"5/22/2017","3:52pm",-1.02,10.01,10.01,10.01,100
+"HRMNW",0.4499,"5/22/2017","10:41am",-0.0285,0.3742,0.4499,0.3538,2724
+"HBIO",2.40,"5/22/2017","4:00pm",+0.00,2.35,2.40,2.35,21347
+"HCAP",13.06,"5/22/2017","4:00pm",+0.07,13.05,13.19,12.80,37303
+"HCAPL",25.75,"5/17/2017","3:17pm",+0.00,N/A,N/A,N/A,0
+"HAS",101.26,"5/22/2017","4:00pm",+0.21,100.68,102.08,100.50,782736
+"HA",49.90,"5/22/2017","4:00pm",-1.35,51.35,51.45,49.75,885400
+"HCOM",25.14,"5/22/2017","4:00pm",+0.13,25.25,26.01,24.98,16823
+"HWKN",48.00,"5/22/2017","4:00pm",-1.95,50.00,51.05,47.75,25146
+"HWBK",20.90,"5/22/2017","9:30am",+0.65,20.90,20.90,20.90,300
+"HAYN",37.07,"5/22/2017","4:00pm",+0.75,36.80,37.10,36.04,47655
+"HDS",41.66,"5/22/2017","4:00pm",-0.23,42.05,42.25,41.47,1470499
+"HIIQ",20.10,"5/22/2017","4:00pm",-0.75,20.90,21.20,19.90,361741
+"HCSG",46.90,"5/22/2017","4:00pm",+0.33,46.58,47.01,46.31,137668
+"HQY",44.68,"5/22/2017","4:00pm",-0.05,44.84,44.87,44.29,242609
+"HSTM",28.63,"5/22/2017","4:00pm",+0.10,28.56,28.95,28.43,56556
+"HTLD",19.28,"5/22/2017","4:00pm",+0.20,19.13,19.34,19.07,437822
+"HTLF",45.25,"5/22/2017","4:00pm",-0.05,45.35,45.50,45.00,64264
+"HTBX",0.74,"5/22/2017","3:59pm",+0.06,0.68,0.74,0.68,254333
+"HEBT",3.90,"5/22/2017","11:59am",+0.19,3.74,3.93,3.72,30701
+"HSII",22.00,"5/22/2017","4:00pm",+0.20,21.85,22.10,21.75,128343
+"HELE",90.65,"5/22/2017","4:00pm",+0.40,90.50,91.65,90.20,120572
+"HMNY",2.45,"5/22/2017","3:59pm",+0.00,2.51,2.55,2.38,19300
+"HMTV",11.25,"5/22/2017","4:00pm",+0.05,11.20,11.30,11.10,30945
+"HNNA",14.93,"5/22/2017","4:00pm",-0.08,15.00,15.29,14.50,21709
+"HSIC",180.91,"5/22/2017","4:00pm",+3.10,177.79,181.24,177.52,506267
+"HTBK",13.64,"5/22/2017","4:00pm",-0.01,13.68,13.79,13.52,48285
+"HFWA",24.05,"5/22/2017","4:00pm",+0.20,23.90,24.10,23.80,91742
+"HCCI",16.20,"5/22/2017","4:00pm",+0.35,15.80,16.35,15.80,37936
+"MLHR",31.85,"5/22/2017","4:00pm",+0.05,31.95,32.12,31.65,250078
+"HRTX",14.20,"5/22/2017","4:00pm",+0.10,14.10,14.40,14.00,250695
+"HSKA",96.34,"5/22/2017","4:00pm",+0.58,95.31,97.67,95.15,69004
+"HIBB",24.25,"5/22/2017","4:00pm",+0.40,23.85,24.65,23.60,897655
+"SNLN",18.51,"5/22/2017","3:58pm",+0.00,18.50,18.51,18.48,66455
+"HPJ",4.45,"5/22/2017","4:00pm",+0.00,4.45,4.60,4.15,189823
+"HIHO",3.4683,"5/22/2017","3:02pm",+0.0183,3.6000,3.6000,3.4545,5000
+"HIMX",6.93,"5/22/2017","4:00pm",+0.17,6.80,6.98,6.76,3578878
+"HIFS",177.00,"5/22/2017","4:00pm",+2.20,174.20,177.00,177.00,476
+"HSGX",1.68,"5/22/2017","4:00pm",-0.02,1.72,1.71,1.60,83582
+"HMNF",17.30,"5/18/2017","12:39pm",+0.00,17.40,N/A,N/A,74
+"HMSY",18.10,"5/22/2017","4:00pm",+0.12,18.03,18.29,17.99,235141
+"HOLI",17.09,"5/22/2017","4:00pm",+0.21,16.92,17.18,16.92,300052
+"HOLX",43.18,"5/22/2017","4:00pm",+0.18,43.00,43.26,42.92,2278585
+"HBCP",34.80,"5/22/2017","4:00pm",-0.53,35.07,35.68,34.75,10608
+"HOMB",24.07,"5/22/2017","4:00pm",+0.12,24.11,24.26,23.71,412463
+"HFBL",28.00,"5/22/2017","4:00pm",-0.75,28.58,28.00,28.00,348
+"HMST",27.40,"5/22/2017","4:00pm",+0.10,27.30,27.65,27.00,180874
+"HMTA",10.35,"5/22/2017","3:20pm",-0.10,10.35,10.35,10.20,4319
+"HTBI",24.80,"5/22/2017","4:00pm",+0.20,24.60,24.95,24.50,31740
+"HMU",N/A,N/A,N/A,+0.00,N/A,N/A,N/A,0
+"HOFT",42.05,"5/22/2017","4:00pm",-0.40,42.40,42.90,41.50,68789
+"HOPE",18.27,"5/22/2017","4:00pm",+0.16,18.21,18.30,18.04,518058
+"HFBC",14.80,"5/22/2017","4:00pm",-0.14,14.80,14.80,14.80,505
+"HBNC",25.38,"5/22/2017","4:00pm",+0.32,25.10,25.44,25.07,18339
+"HZNP",10.33,"5/22/2017","4:00pm",-0.17,10.53,10.71,10.29,3194584
+"HRZN",11.16,"5/22/2017","4:00pm",-0.09,11.24,11.32,11.10,45507
+"DAX",29.30,"5/22/2017","3:59pm",+0.05,29.45,29.45,29.25,4105
+"QYLD",23.782,"5/22/2017","3:53pm",+0.092,23.850,23.850,23.700,40993
+"HDP",12.70,"5/22/2017","4:00pm",+0.29,12.47,12.72,12.42,485960
+"HPT",28.96,"5/22/2017","4:00pm",+0.21,28.80,29.01,28.69,603705
+"TWNK",16.57,"5/22/2017","4:00pm",+0.09,16.54,16.59,16.42,730359
+"TWNKW",3.06,"5/22/2017","3:58pm",+0.04,3.04,3.10,3.02,92364
+"HMHC",12.55,"5/22/2017","4:00pm",+0.15,12.40,12.60,12.30,481678
+"HWCC",6.50,"5/22/2017","4:00pm",+0.05,6.47,6.55,6.45,13058
+"HOVNP",7.035,"5/19/2017","11:15am",+0.000,7.000,N/A,N/A,40
+"HBMD",19.10,"5/22/2017","4:00pm",+0.35,18.70,19.10,18.27,26624
+"HSNI",34.70,"5/22/2017","4:00pm",+0.20,34.45,34.75,34.30,287420
+"HTGM",3.76,"5/22/2017","4:00pm",-0.17,3.93,3.97,3.73,410910
+"HUBG",34.45,"5/22/2017","4:00pm",+0.15,34.50,34.50,34.03,190660

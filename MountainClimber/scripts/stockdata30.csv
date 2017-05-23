@@ -1,200 +1,100 @@
-"GDL","GDL Fund, The  of Beneficial In",N/A,N/A
-"GDL^B",N/A,N/A,N/A
-"THG","Hanover Insurance Group Inc",N/A,N/A
-"THGA","The Hanover Insurance Group, In",N/A,N/A
-"RUBI","The Rubicon Project, Inc.",N/A,N/A
-"TRV","The Travelers Companies, Inc.",N/A,N/A
-"TMO","Thermo Fisher Scientific Inc",N/A,N/A
-"THR","Thermon Group Holdings, Inc.",N/A,N/A
-"TPRE","Third Point Reinsurance Ltd.",N/A,N/A
-"TSLF","THL Credit Senior Loan Fund  of",N/A,N/A
-"TCRX","THL Credit, Inc. 6.75% Notes du",N/A,N/A
-"TCRZ","THL Credit, Inc. 6.75% Notes du",N/A,N/A
-"TRI","Thomson Reuters Corp Ordinary S",N/A,N/A
-"THO","Thor Industries, Inc.",N/A,N/A
-"TDW","Tidewater Inc.",N/A,N/A
-"TIER","TIER REIT, Inc.",N/A,N/A
-"TIF","Tiffany & Co.",N/A,N/A
-"TLYS","Tilly's, Inc.",N/A,N/A
-"TSU","TIM Participacoes S.A. American",N/A,N/A
-"TIME","Time Inc.",N/A,N/A
-"TWX","Time Warner Inc. New",N/A,N/A
-"TKR","Timken Company (The)",N/A,N/A
-"TMST","Timken Steel Corporation",N/A,N/A
-"TWI","Titan International, Inc. (DE)",N/A,N/A
-"TJX","TJX Companies, Inc. (The)",N/A,N/A
-"TOL","Toll Brothers Inc.",N/A,N/A
-"TR","Tootsie Roll Industries, Inc.",N/A,N/A
-"BLD","TopBuild Corp.",N/A,N/A
-"TMK","Torchmark Corporation",N/A,N/A
-"TMK^B",N/A,N/A,N/A
-"TMK^C",N/A,N/A,N/A
-"TTC","Toro Company (The)",N/A,N/A
-"TD","Toronto Dominion Bank (The)",N/A,N/A
-"NDP","Tortoise Energy Independence Fu",N/A,N/A
-"TYG","Tortoise Energy Infrastructure ",N/A,N/A
-"NTG","Tortoise MLP Fund, Inc.",N/A,N/A
-"TTP","Tortoise Pipeline & Energy Fund",N/A,N/A
-"TPZ","Tortoise Power and Energy Infra",N/A,N/A
-"TOT","Total S.A.",N/A,N/A
-"TSS","Total System Services, Inc.",N/A,N/A
-"TOWR","Tower International, Inc. Commo",N/A,N/A
-"TSQ","Townsquare Media, Inc. Class A",N/A,N/A
-"TM","Toyota Motor Corporation",N/A,N/A
-"TPGE.U",N/A,N/A,N/A
-"TSLX","TPG Specialty Lending, Inc.",N/A,N/A
-"TAC","TransAlta Corporation Ordinary ",N/A,N/A
-"TRP","TransCanada Corporation",N/A,N/A
-"TCI","Transcontinental Realty Investo",N/A,N/A
-"TDG","Transdigm Group Incorporated Tr",N/A,N/A
-"TLP","TransMontaigne Partners L.P. Tr",N/A,N/A
-"RIG","Transocean Ltd (Switzerland)",N/A,N/A
-"TGS","Transportadora de Gas del Sur S",N/A,N/A
-"TRU","TransUnion",N/A,N/A
-"TVPT","Travelport Worldwide Limited",N/A,N/A
-"TRR","TRC Companies, Inc.",N/A,N/A
-"TREC","Trecora Resources",N/A,N/A
-"TG","Tredegar Corporation",N/A,N/A
-"THS","Treehouse Foods, Inc.",N/A,N/A
-"TRMR","Tremor Video, Inc.",N/A,N/A
-"TREX","Trex Company, Inc.",N/A,N/A
-"TY","Tri Continental Corporation",N/A,N/A
-"TY^",N/A,N/A,N/A
-"TPH","TRI Pointe Group, Inc.",N/A,N/A
-"TCAP","Triangle Capital Corporation",N/A,N/A
-"TCCA","Triangle Capital Corporation 6.",N/A,N/A
-"TCCB","Triangle Capital Corporation 6.",N/A,N/A
-"TRCO","Tribune Media Company Class A",N/A,N/A
-"TNET","TriNet Group, Inc.",N/A,N/A
-"TRN","Trinity Industries, Inc.",N/A,N/A
-"TSE","Trinseo S.A. Ordinary Shares",N/A,N/A
-"TPVG","TriplePoint Venture Growth BDC ",N/A,N/A
-"TPVZ","TriplePoint Venture Growth BDC ",N/A,N/A
-"GTS","Triple-S Management Corporation",N/A,N/A
-"TRTN","Triton International Limited",N/A,N/A
-"TGI","Triumph Group, Inc.",N/A,N/A
-"TROX","Tronox Limited Ordinary Shares ",N/A,N/A
-"TBI","TrueBlue, Inc.",N/A,N/A
-"TNP","Tsakos Energy Navigation Ltd",N/A,N/A
-"TNP^B",N/A,N/A,N/A
-"TNP^C",N/A,N/A,N/A
-"TNP^D",N/A,N/A,N/A
-"TNP^E",N/A,N/A,N/A
-"TUP","Tupperware Brands Corporation",N/A,N/A
-"TKC","Turkcell Iletisim Hizmetleri AS",N/A,N/A
-"TKF","Turkish Investment Fund, Inc. (",N/A,N/A
-"TPB","Turning Point Brands, Inc.",N/A,N/A
-"TRQ","Turquoise Hill Resources Ltd. O",N/A,N/A
-"TPC","Tutor Perini Corporation",N/A,N/A
-"TWLO","Twilio Inc. Class A",N/A,N/A
-"TWTR","Twitter, Inc.",N/A,N/A
-"TWO","Two Harbors Investment Corp",N/A,N/A
-"TWO^A",N/A,N/A,N/A
-"TYL","Tyler Technologies, Inc.",N/A,N/A
-"TSN","Tyson Foods, Inc.",N/A,N/A
-"TSNU","Tyson Foods, Inc. Tangible Equi",N/A,N/A
-"USB","U.S. Bancorp",N/A,N/A
-"USB^A",N/A,N/A,N/A
-"USB^H",N/A,N/A,N/A
-"USB^M",N/A,N/A,N/A
-"USB^O",N/A,N/A,N/A
-"USPH","U.S. Physical Therapy, Inc.",N/A,N/A
-"SLCA","U.S. Silica Holdings, Inc.",N/A,N/A
-"UBS","UBS Group AG Registered Ordinar",N/A,N/A
-"UCP","UCP, Inc. Class A",N/A,N/A
-"UGI","UGI Corporation",N/A,N/A
-"UGP","Ultrapar Participacoes S.A. (Ne",N/A,N/A
-"UMH","UMH Properties, Inc.",N/A,N/A
-"UMH^A",N/A,N/A,N/A
-"UMH^B",N/A,N/A,N/A
-"UA","Under Armour, Inc. Class C",N/A,N/A
-"UAA","Under Armour, Inc. Class A",N/A,N/A
-"UFI","Unifi, Inc. New",N/A,N/A
-"UNF","Unifirst Corporation",N/A,N/A
-"UN","Unilever NV",N/A,N/A
-"UL","Unilever PLC",N/A,N/A
-"UNP","Union Pacific Corporation",N/A,N/A
-"UIS","Unisys Corporation New",N/A,N/A
-"UNT","Unit Corporation",N/A,N/A
-"UAL","United Continental Holdings",N/A,N/A
-"UDR","UDR, Inc.",N/A,N/A
-"UMC","United Microelectronics Corpora",N/A,N/A
-"UPS","United Parcel Service, Inc.",N/A,N/A
-"URI","United Rentals, Inc.",N/A,N/A
-"USM","United States Cellular Corporat",N/A,N/A
-"UZA","United States Cellular Corporat",N/A,N/A
-"UZB","United States Cellular Corporat",N/A,N/A
-"UZC","United States Cellular Corporat",N/A,N/A
-"X","United States Steel Corporation",N/A,N/A
-"UTX","United Technologies Corporation",N/A,N/A
-"UNH","UnitedHealth Group Incorporated",N/A,N/A
-"UTL","UNITIL Corporation",N/A,N/A
-"UNVR","Univar Inc.",N/A,N/A
-"UVV","Universal Corporation",N/A,N/A
-"UHT","Universal Health Realty Income ",N/A,N/A
-"UHS","Universal Health Services, Inc.",N/A,N/A
-"UVE","UNIVERSAL INSURANCE HOLDINGS IN",N/A,N/A
-"UTI","Universal Technical Institute I",N/A,N/A
-"UNM","Unum Group",N/A,N/A
-"UE","Urban Edge Properties  of Benef",N/A,N/A
-"UBA","Urstadt Biddle Properties Inc.",N/A,N/A
-"UBP","Urstadt Biddle Properties Inc.",N/A,N/A
-"UBP^F",N/A,N/A,N/A
-"UBP^G",N/A,N/A,N/A
-"USFD","US Foods Holding Corp.",N/A,N/A
-"USAC","USA Compression Partners, LP Co",N/A,N/A
-"USNA","USANA Health Sciences, Inc.",N/A,N/A
-"USDP","USD Partners LP Common Units re",N/A,N/A
-"USG","USG Corporation",N/A,N/A
-"BIF","Boulder Growth & Income Fund, I",N/A,N/A
-"VFC","V.F. Corporation",N/A,N/A
-"EGY","Vaalco Energy Inc",N/A,N/A
-"MTN","Vail Resorts, Inc.",N/A,N/A
-"VALE","VALE S.A.  American Depositary ",N/A,N/A
-"VALE.P",N/A,N/A,N/A
-"VRX","Valeant Pharmaceuticals Interna",N/A,N/A
-"VLO","Valero Energy Corporation",N/A,N/A
-"VLP","Valero Energy Partners LP Commo",N/A,N/A
-"VHI","Valhi, Inc.",N/A,N/A
-"VR","Validus Holdings, Ltd.",N/A,N/A
-"VR^A",N/A,N/A,N/A
-"VLY","Valley National Bancorp",N/A,N/A
-"VLY.WS",N/A,N/A,N/A
-"VLY^A",N/A,N/A,N/A
-"VMI","Valmont Industries, Inc.",N/A,N/A
-"VAL","Valspar Corporation (The)",N/A,N/A
-"VVV","Valvoline Inc.",N/A,N/A
-"VNTV","Vantiv, Inc. Class A",N/A,N/A
-"VAR","Varian Medical Systems, Inc.",N/A,N/A
-"VGR","Vector Group Ltd.",N/A,N/A
-"VVC","Vectren Corporation",N/A,N/A
-"VEC","Vectrus, Inc.",N/A,N/A
-"VEDL","Vedanta Limited  American Depos",N/A,N/A
-"VEEV","Veeva Systems Inc. Class A",N/A,N/A
-"VTRB","Ventas Realty, Limited Partners",N/A,N/A
-"VTR","Ventas, Inc.",N/A,N/A
-"VER","VEREIT, Inc.",N/A,N/A
-"VER^F",N/A,N/A,N/A
-"PAY","Verifone Systems, Inc.",N/A,N/A
-"VRTV","Veritiv Corporation",N/A,N/A
-"VZ","Verizon Communications Inc.",N/A,N/A
-"VZA","Verizon Communications Inc. 5.9",N/A,N/A
-"VET","Vermilion Energy Inc. Common (C",N/A,N/A
-"VRS","Verso Corporation",N/A,N/A
-"VSM","Versum Materials, Inc.",N/A,N/A
-"VVI","Viad Corp",N/A,N/A
-"VCO","Vina Concha Y Toro",N/A,N/A
-"VNCE","Vince Holding Corp.",N/A,N/A
-"VIPS","Vipshop Holdings Limited Americ",N/A,N/A
-"ZTR","Virtus Global Dividend & Income",N/A,N/A
-"VGI","Virtus Global Multi-Sector Inco",N/A,N/A
-"ZF","Virtus Total Return Fund Inc.",N/A,N/A
-"V","Visa Inc.",N/A,N/A
-"VSH","Vishay Intertechnology, Inc.",N/A,N/A
-"VPG","Vishay Precision Group, Inc.",N/A,N/A
-"VSTO","Vista Outdoor Inc.",N/A,N/A
-"VC","Visteon Corporation",N/A,N/A
-"VST","Vistra Energy Corp.",N/A,N/A
-"VSI","Vitamin Shoppe, Inc",N/A,N/A
-"VSLR","Vivint Solar, Inc.",N/A,N/A
-"VMW","Vmware, Inc. Common stock, Clas",N/A,N/A
+"VEACW",1.20,"5/22/2017","3:45pm",-0.09,1.29,1.29,1.10,9400
+"VREX",33.87,"5/22/2017","4:00pm",-0.35,34.18,34.33,33.50,163481
+"VRNS",36.55,"5/22/2017","4:00pm",+0.60,35.95,36.85,35.85,495716
+"VDSI",14.25,"5/22/2017","4:00pm",+0.30,14.05,14.30,14.00,102018
+"VBLT",5.90,"5/22/2017","4:00pm",+0.30,5.65,5.90,5.65,75885
+"VBIV",4.20,"5/22/2017","4:00pm",-0.05,4.31,4.42,4.14,86215
+"WOOF",91.85,"5/22/2017","4:00pm",+0.05,91.88,91.93,91.82,547260
+"VECO",31.60,"5/22/2017","4:00pm",+0.20,31.50,31.80,31.10,399038
+"DGLD",48.60,"5/22/2017","4:00pm",-0.67,48.98,48.98,48.36,30748
+"DSLV",24.78,"5/22/2017","4:00pm",-1.49,25.42,25.46,24.49,309423
+"UGLD",10.59,"5/22/2017","4:00pm",+0.13,10.52,10.65,10.51,483306
+"USLV",13.25,"5/22/2017","4:00pm",+0.70,12.97,13.40,12.93,3506208
+"TVIZ",18.3872,"5/22/2017","3:57pm",-0.6428,18.3000,18.4500,18.2000,28644
+"TVIX",25.60,"5/22/2017","4:00pm",-2.57,26.55,26.56,25.32,7663218
+"ZIV",64.70,"5/22/2017","4:00pm",+1.12,64.71,65.03,64.41,116753
+"XIV",76.90,"5/22/2017","4:00pm",+3.23,75.70,77.28,75.60,13907295
+"VIIZ",8.52,"5/22/2017","3:36pm",-0.18,8.53,8.52,8.48,548
+"VIIX",23.62,"5/22/2017","4:00pm",-1.10,24.01,24.02,23.47,128579
+"VEON",3.93,"5/22/2017","4:00pm",-0.01,3.94,3.98,3.86,1338974
+"VRA",7.89,"5/22/2017","4:00pm",+0.16,7.74,7.98,7.70,283922
+"VCYT",8.28,"5/22/2017","4:00pm",+0.05,8.26,8.36,7.99,107974
+"VSTM",2.48,"5/22/2017","4:00pm",+0.13,2.48,2.50,2.43,402332
+"VCEL",2.65,"5/22/2017","3:59pm",+0.00,2.65,2.70,2.65,81438
+"VRNT",40.55,"5/22/2017","4:00pm",+0.55,40.00,40.60,39.95,240798
+"VRSN",89.93,"5/22/2017","4:00pm",+0.74,89.41,90.74,89.33,1102919
+"VRSK",79.91,"5/22/2017","4:00pm",+0.50,79.39,79.94,79.34,660336
+"VBTX",25.39,"5/22/2017","4:00pm",-0.17,25.55,25.83,25.08,184805
+"VERI",14.91,"5/22/2017","4:00pm",+0.02,15.00,15.10,14.10,145655
+"VRML",1.79,"5/22/2017","4:00pm",+0.01,1.78,1.80,1.69,47040
+"VRNA",15.60,"5/22/2017","3:59pm",+2.08,13.72,17.50,13.53,38050
+"VSAR",16.35,"5/22/2017","4:00pm",+0.40,15.90,16.35,15.65,181222
+"VTNR",1.11,"5/22/2017","4:00pm",+0.11,0.95,1.20,0.95,257071
+"VRTX",118.94,"5/22/2017","4:00pm",+0.92,118.57,119.27,117.51,1062021
+"VIA",38.30,"5/22/2017","4:00pm",+0.10,38.45,38.61,38.00,42535
+"VIAB",35.24,"5/22/2017","4:00pm",+0.04,35.21,35.63,35.01,5288713
+"VMET",N/A,N/A,N/A,+0.00,N/A,N/A,N/A,0
+"VSAT",63.85,"5/22/2017","4:00pm",-0.30,64.25,64.75,63.80,669232
+"VIAV",11.38,"5/22/2017","4:00pm",+0.43,10.96,11.38,10.96,2568239
+"VICL",2.29,"5/22/2017","4:00pm",+0.02,2.25,2.31,2.25,23797
+"VICR",17.15,"5/22/2017","4:00pm",+0.30,16.70,17.15,16.70,16196
+"CIZ",32.28,"5/22/2017","3:59pm",+0.06,32.10,32.28,32.10,7070
+"VSDA",25.7273,"5/22/2017","3:57pm",+0.1073,N/A,25.7273,25.7150,2649
+"CEZ",27.8273,"5/22/2017","2:00pm",-0.0335,27.9100,27.9154,27.8273,1152
+"CID",34.81,"5/22/2017","3:59pm",+0.15,34.93,34.90,34.81,7478
+"CIL",37.1695,"5/22/2017","1:11pm",+0.0195,37.0900,37.1900,37.0900,1059
+"CFO",43.18,"5/22/2017","3:59pm",+0.29,43.07,43.21,43.01,45201
+"CFA",43.2372,"5/22/2017","3:44pm",+0.3175,43.0800,43.2372,42.9900,33618
+"CSF",40.38,"5/22/2017","3:59pm",+0.29,40.25,40.38,40.15,5306
+"CDC",42.82,"5/22/2017","3:59pm",+0.30,42.74,42.87,42.65,36252
+"CDL",41.71,"5/22/2017","3:58pm",+0.31,41.45,41.73,41.45,9181
+"CSB",39.6299,"5/22/2017","3:59pm",+0.2799,39.4500,39.6600,39.4500,8020
+"CSA",41.2637,"5/22/2017","3:26pm",+0.0837,41.5600,41.2700,41.1201,4989
+"VBND",49.84,"5/22/2017","3:59pm",+0.00,49.83,49.87,49.80,12285
+"VUSE",29.15,"5/22/2017","3:59pm",+0.19,29.03,29.19,29.03,18540
+"VIDI",25.30,"5/22/2017","3:30pm",+0.12,25.20,25.35,25.25,41220
+"VDTH",11.03,"5/22/2017","4:00pm",-0.08,11.09,11.20,10.91,169382
+"VRAY",6.18,"5/22/2017","4:00pm",+0.31,5.87,6.21,5.85,401540
+"VKTX",1.28,"5/22/2017","4:00pm",+0.03,1.25,1.28,1.25,44601
+"VKTXW",0.40,"5/11/2017","12:20pm",+0.00,N/A,N/A,N/A,0
+"VBFC",29.95,"5/22/2017","9:30am",+0.00,29.95,29.95,29.95,178
+"VLGEA",25.39,"5/22/2017","4:00pm",+0.38,24.99,25.49,24.99,16234
+"VNOM",17.88,"5/22/2017","4:00pm",-0.15,18.04,18.10,17.69,91274
+"VIRC",4.55,"5/22/2017","3:59pm",+0.10,4.40,4.55,4.45,9210
+"VIRT",15.95,"5/22/2017","4:00pm",+0.40,15.60,15.95,15.60,424810
+"VRTS",104.65,"5/22/2017","4:00pm",+0.95,103.65,105.05,102.40,46744
+"VRTSP",96.54,"5/22/2017","3:53pm",-1.04,94.88,96.61,95.73,944
+"VRTU",29.17,"5/22/2017","4:00pm",+0.97,28.25,29.40,28.11,467670
+"VTGN",1.99,"5/22/2017","4:00pm",+0.02,1.96,2.02,1.92,32553
+"VIST",N/A,N/A,N/A,+0.00,N/A,N/A,N/A,0
+"VTL",3.05,"5/22/2017","4:00pm",-0.08,3.10,3.15,2.90,151851
+"VIVE",7.39,"5/22/2017","4:00pm",-0.03,7.50,7.56,7.30,175406
+"VVPR",3.78,"5/22/2017","3:25pm",-0.02,3.74,3.78,3.74,5423
+"VVUS",1.08,"5/22/2017","4:00pm",+0.04,1.04,1.08,1.04,901168
+"VOD",29.62,"5/22/2017","4:00pm",+0.44,29.56,29.80,29.55,5995045
+"VOXX",6.10,"5/22/2017","4:00pm",+0.20,6.00,6.19,5.90,95007
+"VYGR",9.23,"5/22/2017","4:00pm",+0.04,9.19,9.34,9.07,59327
+"VSEC",43.14,"5/22/2017","4:00pm",+0.47,42.93,43.65,43.00,13823
+"VTVT",4.93,"5/22/2017","4:00pm",-0.04,4.98,5.24,4.88,14030
+"VUZI",5.80,"5/22/2017","4:00pm",-0.05,5.80,5.90,5.70,175320
+"VWR",32.97,"5/22/2017","4:00pm",+0.08,32.87,33.09,32.87,371859
+"WBA",81.34,"5/22/2017","4:00pm",+0.73,80.59,81.44,80.21,5724315
+"WAFD",32.30,"5/22/2017","4:00pm",+0.25,32.10,32.35,31.80,243692
+"WAFDW",16.67,"4/24/2017","9:44am",+0.00,N/A,N/A,N/A,90
+"WASH",48.55,"5/22/2017","4:00pm",+0.70,48.25,48.70,47.65,29167
+"WFBI",33.84,"5/22/2017","4:00pm",+0.05,34.07,34.07,33.73,143247
+"WSBF",18.50,"5/22/2017","4:00pm",-0.10,18.65,18.65,18.33,55184
+"WVE",20.90,"5/22/2017","4:00pm",+0.05,21.00,21.20,20.60,23534
+"WNFM",N/A,N/A,N/A,+0.00,N/A,N/A,N/A,0
+"WAYN",17.70,"5/18/2017","10:09am",+0.00,17.60,N/A,N/A,103
+"WSTG",20.50,"5/22/2017","3:59pm",+0.10,20.50,20.50,20.40,2160
+"WCFB",10.35,"5/22/2017","3:59pm",+0.00,10.35,10.35,10.18,567
+"WDFC",103.50,"5/22/2017","4:00pm",+1.47,102.10,103.70,102.10,49640
+"FLAG",37.921,"5/22/2017","3:45pm",+0.158,37.590,38.000,37.590,2345
+"WEB",21.30,"5/22/2017","4:00pm",+0.60,20.75,21.30,20.75,213727
+"WBMD",56.37,"5/22/2017","4:00pm",+0.57,55.88,56.87,55.73,561872
+"WCST",2.86,"5/22/2017","4:00pm",+0.07,2.81,2.96,2.76,142050
+"WB",80.75,"5/22/2017","4:00pm",+2.44,79.90,81.36,78.50,2832099
+"WEBK",26.75,"5/17/2017","11:42am",+0.00,27.05,N/A,N/A,54
+"WEN",16.075,"5/22/2017","4:00pm",+0.055,16.010,16.170,15.960,1065563
+"WERN",26.35,"5/22/2017","4:00pm",+0.50,25.90,26.40,25.65,831497

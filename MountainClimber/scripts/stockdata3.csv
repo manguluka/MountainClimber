@@ -1,200 +1,100 @@
-"CMCT","CIM Commercial Trust Corporatio",N/A,N/A
-"CMPR","Cimpress N.V - Ordinary Shares ",N/A,N/A
-"CINF","Cincinnati Financial Corporatio",N/A,N/A
-"CIDM","Cinedigm Corp",4.40,1.65
-"CTAS","Cintas Corporation",N/A,N/A
-"CRUS","Cirrus Logic, Inc.",66.89,63.09
-"CSCO","Cisco Systems, Inc.",31.22,31.19
-"CTRN","Citi Trends, Inc.",N/A,N/A
-"CZNC","Citizens & Northern Corp",N/A,N/A
-"CZWI","Citizens Community Bancorp, Inc",N/A,N/A
-"CZFC","Citizens First Corporation",N/A,N/A
-"CIZN","Citizens Holding Company",N/A,N/A
-"CTXS","Citrix Systems, Inc.",86.99,80.01
-"CHCO","City Holding Company",N/A,N/A
-"CIVB","Civista Bancshares, Inc.",N/A,N/A
-"CIVBP","Civista Bancshares, Inc.  - Dep",N/A,N/A
-"CDTI","Clean Diesel Technologies, Inc.",4.99,3.00
-"CLNE","Clean Energy Fuels Corp.",2.58,2.38
-"CLNT","Cleantech Solutions Internation",3.99,3.01
-"CACG","ClearBridge All Cap Growth ETF",24.75,N/A
-"CLFD","Clearfield, Inc.",N/A,N/A
-"CLRO","ClearOne, Inc.",N/A,N/A
-"CLSD","Clearside Biomedical, Inc.",25.00,5.00
-"CLIR","ClearSign Combustion Corporatio",N/A,N/A
-"CLIRW","ClearSign Combustion Corporatio",N/A,N/A
-"CBLI","Cleveland BioLabs, Inc.",4.13,3.15
-"CSBK","Clifton Bancorp Inc.",N/A,N/A
-"CLVS","Clovis Oncology, Inc.",52.24,52.00
-"CMFN","CM Finance Inc",10.80,8.65
-"CME","CME Group Inc.",130.98,94.14
-"CCNE","CNB Financial Corporation",N/A,N/A
-"CWAY","Coastway Bancorp, Inc.",N/A,N/A
-"COBZ","CoBiz Financial Inc.",N/A,N/A
-"COKE","Coca-Cola Bottling Co. Consolid",N/A,N/A
-"CDXS","Codexis, Inc.",N/A,N/A
-"CVLY","Codorus Valley Bancorp, Inc",N/A,N/A
-"JVA","Coffee Holding Co., Inc.",11.300,4.450
-"CCOI","Cogent Communications Holdings,",N/A,N/A
-"CGNT","Cogentix Medical, Inc.",N/A,N/A
-"COGT","Cogint, Inc.",9.95,4.40
-"CGNX","Cognex Corporation",93.87,66.00
-"CTSH","Cognizant Technology Solutions ",66.99,64.00
-"COHR","Coherent, Inc.",280.00,233.33
-"CHRS","Coherus BioSciences, Inc.",23.50,17.15
-"COHU","Cohu, Inc.",N/A,N/A
-"CLCT","Collectors Universe, Inc.",N/A,N/A
-"COLL","Collegium Pharmaceutical, Inc.",N/A,N/A
-"CIGI","Colliers International Group In",N/A,N/A
-"CBAN","Colony Bankcorp, Inc.",N/A,N/A
-"COLB","Columbia Banking System, Inc.",N/A,N/A
-"COLM","Columbia Sportswear Company",N/A,N/A
-"CMCO","Columbus McKinnon Corporation",N/A,N/A
-"CBMX","CombiMatrix Corporation",6.75,5.00
-"CBMXW","CombiMatrix Corporation",N/A,1.31
-"CMCSA","Comcast Corporation",38.85,37.11
-"CBSH","Commerce Bancshares, Inc.",N/A,N/A
-"CBSHP","Commerce Bancshares, Inc. - Dep",26.20,25.00
-"CUBN","Commerce Union Bancshares, Inc.",N/A,N/A
-"CHUBA","CommerceHub, Inc. - Series A",N/A,N/A
-"CHUBK","CommerceHub, Inc. - Series C",17.87,16.85
-"CVGI","Commercial Vehicle Group, Inc.",10.01,7.50
-"COMM","CommScope Holding Company, Inc.",N/A,N/A
-"JCS","Communications Systems, Inc.",N/A,N/A
-"ESXB","Community Bankers Trust Corpora",N/A,N/A
-"CCFI",N/A,N/A,N/A
-"CFBI","Community First Bancshares, Inc",13.75,12.75
-"CYHHZ","Community Health Systems, Inc. ",4.0000,0.0061
-"CTBI","Community Trust Bancorp, Inc.",N/A,N/A
-"CWBC","Community West Bancshares",N/A,N/A
-"CVLT","Commvault Systems, Inc.",N/A,N/A
-"CGEN","Compugen Ltd. - Ordinary Shares",6.45,3.30
-"CPSI","Computer Programs and Systems, ",33.85,28.80
-"CTG","Computer Task Group, Incorporat",N/A,N/A
-"CHCI","Comstock Holding Companies, Inc",N/A,N/A
-"CMTL","Comtech Telecommunications Corp",N/A,N/A
-"CNAT","Conatus Pharmaceuticals Inc.",5.55,3.70
-"CNCE","Concert Pharmaceuticals, Inc.",18.45,14.50
-"CXRX","Concordia International Corp.",1.7500,1.2500
-"CCUR","Concurrent Computer Corporation",9.75,5.00
-"CDOR","Condor Hospitality Trust, Inc.",N/A,N/A
-"CFMS","ConforMIS, Inc.",5.15,3.15
-"CNFR","Conifer Holdings, Inc.",N/A,N/A
-"CNMD","CONMED Corporation",N/A,N/A
-"CTWS","Connecticut Water Service, Inc.",N/A,N/A
-"CNOB","ConnectOne Bancorp, Inc.",N/A,N/A
-"CNXR","Connecture, Inc.",1.75,0.32
-"CONN","Conn's, Inc.",16.50,12.40
-"CNSL","Consolidated Communications Hol",20.54,18.87
-"CWCO","Consolidated Water Co. Ltd. - O",13.45,9.50
-"CPSS","Consumer Portfolio Services, In",10.00,4.20
-"CFRX","ContraFect Corporation",2.25,1.25
-"CTRV","ContraVir Pharmaceuticals Inc",1.00,0.32
-"CTRL","Control4 Corporation",24.69,14.38
-"CPAA","Conyers Park Acquisition Corp.",N/A,N/A
-"CPAAU","Conyers Park Acquisition Corp. ",N/A,N/A
-"CPAAW","Conyers Park Acquisition Corp. ",N/A,N/A
-"CPRT","Copart, Inc.",N/A,N/A
-"CRBP","Corbus Pharmaceuticals Holdings",7.95,6.45
-"CORT","Corcept Therapeutics Incorporat",12.15,11.60
-"CORE","Core-Mark Holding Company, Inc.",33.84,30.07
-"CORI","Corium International, Inc.",6.90,2.90
-"CSOD","Cornerstone OnDemand, Inc.",36.86,30.13
-"CRVL","CorVel Corp.",N/A,N/A
-"CRVS","Corvus Pharmaceuticals, Inc.",11.87,8.50
-"CSGP","CoStar Group, Inc.",N/A,N/A
-"COST","Costco Wholesale Corporation",171.70,169.50
-"CPAH","CounterPath Corporation",N/A,N/A
-"ICBK","County Bancorp, Inc.",N/A,N/A
-"COUP","Coupa Software Incorporated",32.00,30.13
-"CVTI","Covenant Transportation Group, ",N/A,N/A
-"COVS","Covisint Corporation",N/A,N/A
-"COWN","Cowen Group, Inc.",N/A,N/A
-"COWNL","Cowen Group, Inc. - 8.25% Senio",N/A,N/A
-"PMTS","CPI Card Group Inc.",N/A,N/A
-"CPSH","CPS Technologies Corp.",N/A,N/A
-"CRAI","CRA International,Inc.",N/A,N/A
-"CBRL","Cracker Barrel Old Country Stor",N/A,N/A
-"BREW","Craft Brew Alliance, Inc.",21.50,15.85
-"CRAY","Cray Inc",N/A,N/A
-"CACC","Credit Acceptance Corporation",N/A,N/A
-"GLDI","Credit Suisse AG - Credit Suiss",N/A,N/A
-"USOI","Credit Suisse AG - Credit Suiss",N/A,N/A
-"SLVO","Credit Suisse AG - Credit Suiss",9.16,7.93
-"CREE","Cree, Inc.",27.42,22.75
-"CRESY","Cresud S.A.C.I.F. y A. - Americ",21.00,16.00
-"CRSP","CRISPR Therapeutics AG",N/A,N/A
-"CRTO","Criteo S.A. - American Deposita",52.99,46.00
-"CROX","Crocs, Inc.",6.63,6.11
-"CCRN","Cross Country Healthcare, Inc.",N/A,N/A
-"XRDC","Crossroads Capital, Inc.",2.26,2.15
-"CRDS","Crossroads Systems, Inc.",4.140,3.390
-"CRWS","Crown Crafts, Inc.",7.90,7.05
-"CYRX","CryoPort, Inc.",N/A,N/A
-"CYRXW","CryoPort, Inc. - Warrants",N/A,N/A
-"CSGS","CSG Systems International, Inc.",N/A,N/A
-"CCLP","CSI Compressco LP",9.85,5.90
-"CSPI","CSP Inc.",N/A,N/A
-"CSWI","CSW Industrials, Inc.",N/A,N/A
-"CSX","CSX Corporation",50.46,50.02
-"CTIC","CTI BioPharma Corp.",5.75,0.32
-"CTIB","CTI Industries Corporation",N/A,N/A
-"CTRP","Ctrip.com International, Ltd. -",56.86,54.00
-"CUNB","CU Bancorp (CA)",N/A,N/A
-"CUI","CUI Global, Inc.",N/A,N/A
-"CPIX","Cumberland Pharmaceuticals Inc.",N/A,N/A
-"CMLS","Cumulus Media Inc.",0.6300,0.3000
-"CRIS","Curis, Inc.",2.23,1.60
-"CUTR","Cutera, Inc.",N/A,N/A
-"CVBF","CVB Financial Corporation",N/A,N/A
-"CVV","CVD Equipment Corporation",14.80,11.46
-"CYAN","Cyanotech Corporation",N/A,N/A
-"CYBR","CyberArk Software Ltd. - Ordina",46.97,45.15
-"CYBE","CyberOptics Corporation",N/A,N/A
-"CYCC","Cyclacel Pharmaceuticals, Inc.",6.60,0.85
-"CYCCP","Cyclacel Pharmaceuticals, Inc. ",N/A,N/A
-"CBAY","CymaBay Therapeutics Inc.",N/A,N/A
-"CY","Cypress Semiconductor Corporati",14.00,12.51
-"CYRN","CYREN Ltd. - Ordinary Shares",30.00,2.05
-"CONE","CyrusOne Inc",54.85,45.00
-"CYTK","Cytokinetics, Incorporated",N/A,N/A
-"CTMX","CytomX Therapeutics, Inc.",15.01,10.15
-"CYTX","Cytori Therapeutics Inc",1.33,0.80
-"CYTXW","Cytori Therapeutics Inc",9.94,N/A
-"CTSO","Cytosorbents Corporation",4.90,3.90
-"CYTR","CytRx Corporation",0.5400,0.4110
-"DJCO","Daily Journal Corp. (S.C.)",N/A,N/A
-"DAKT","Daktronics, Inc.",N/A,N/A
-"DRIO","DarioHealth Corp.",N/A,N/A
-"DRIOW","DarioHealth Corp. - Warrant",N/A,N/A
-"DZSI","DASAN Zhone Solutions, Inc.",N/A,N/A
-"DSKE","Daseke, Inc.",N/A,N/A
-"DSKEW","Daseke, Inc.",N/A,0.02
-"DAIO","Data I/O Corporation",N/A,N/A
-"DRAM","Dataram Corporation",N/A,N/A
-"DWCH","Datawatch Corporation",N/A,N/A
-"PLAY","Dave & Buster's Entertainment, ",68.00,51.25
-"DTEA","DAVIDsTEA Inc.",N/A,N/A
-"DFNL","Davis Select Financial ETF",N/A,N/A
-"DUSA","Davis Select U.S. Equity ETF",20.7700,N/A
-"DWLD","Davis Select Worldwide ETF",N/A,N/A
-"DWSN","Dawson Geophysical Company",N/A,N/A
-"DBVT","DBV Technologies S.A. - America",N/A,N/A
-"DFRG","Del Frisco's Restaurant Group, ",35.00,15.15
-"TACO","Del Taco Restaurants, Inc.",13.54,11.90
-"TACOW","Del Taco Restaurants, Inc. - Wa",N/A,N/A
-"DCTH","Delcath Systems, Inc.",0.0341,0.0180
-"DMPI","DelMar Pharmaceuticals, Inc.",3.00,2.21
-"DGAS","Delta Natural Gas Company, Inc.",N/A,N/A
-"DELT","Delta Technology Holdings Limit",2.86,1.50
-"DELTW","Delta Technology Holdings Limit",N/A,N/A
-"DENN","Denny's Corporation",N/A,N/A
-"XRAY","DENTSPLY SIRONA Inc.",65.35,55.52
-"DEPO","Depomed, Inc.",14.90,10.02
-"DERM","Dermira, Inc.",29.89,1.00
-"DEST","Destination Maternity Corporati",4.29,3.38
-"DXLG","Destination XL Group, Inc.",5.10,2.05
-"DSWL","Deswell Industries, Inc.",7.90,1.86
-"DTRM","Determine, Inc.",N/A,N/A
-"DXCM","DexCom, Inc.",82.00,40.00
-"DXTR","Dextera Surgical Inc.",1.18,0.16
+"BOSC",2.09,"5/22/2017","12:17pm",+0.01,2.13,2.13,2.04,10145
+"BIDU",191.69,"5/22/2017","4:00pm",+2.93,190.00,193.56,188.08,2921536
+"BCPC",79.49,"5/22/2017","4:00pm",+0.45,79.21,79.88,79.00,52617
+"BWINA",23.75,"5/22/2017","3:59pm",+0.52,23.91,23.75,23.23,1357
+"BWINB",24.25,"5/22/2017","4:00pm",+0.35,24.15,24.30,23.45,44839
+"BLDP",2.80,"5/22/2017","4:00pm",+0.02,2.78,2.85,2.78,747496
+"BANF",93.60,"5/22/2017","4:00pm",+1.25,92.90,93.95,91.71,20363
+"BANFP",27.94,"5/22/2017","3:37pm",+0.18,27.82,27.94,27.82,458
+"BCTF",13.0826,"5/22/2017","3:41pm",+0.1023,N/A,13.1000,12.9832,2104
+"BKMU",9.05,"5/22/2017","4:00pm",+0.10,9.00,9.15,8.95,82014
+"BOCH",10.85,"5/22/2017","4:00pm",-0.25,11.10,11.10,10.80,32761
+"BMRC",61.95,"5/22/2017","4:00pm",+1.25,61.20,62.32,61.12,8952
+"BMLP",51.0279,"5/18/2017","10:38am",+0.0000,N/A,N/A,N/A,0
+"BKSC",20.2199,"5/22/2017","3:29pm",-0.2801,20.0500,20.2199,19.3501,1073
+"BOTJ",15.05,"5/22/2017","10:53am",+0.05,15.00,15.05,15.00,741
+"OZRK",47.39,"5/22/2017","4:00pm",+0.36,47.19,47.51,46.74,797758
+"BFIN",14.60,"5/22/2017","4:00pm",+0.08,14.58,14.88,14.50,20749
+"BWFG",33.82,"5/22/2017","4:00pm",-0.01,33.94,34.25,33.68,3340
+"BANR",53.67,"5/22/2017","4:00pm",+0.51,53.36,54.04,52.97,105713
+"BZUN",21.20,"5/22/2017","4:00pm",-0.49,21.75,21.83,20.80,1588672
+"TAPR",23.824,"5/19/2017","10:36am",+0.000,23.390,N/A,N/A,30
+"BHAC",10.24,"5/19/2017","2:22pm",+0.00,N/A,N/A,N/A,0
+"BHACR",0.4499,"5/22/2017","12:26pm",+0.0199,0.4500,0.4500,0.4499,3019
+"BHACU",10.7999,"5/16/2017","10:14am",+0.0000,N/A,N/A,N/A,0
+"BHACW",0.1599,"5/22/2017","3:58pm",-0.0001,0.1600,0.1600,0.1312,33381
+"BBSI",57.35,"5/22/2017","4:00pm",+0.00,57.61,57.77,56.48,32385
+"BSET",28.05,"5/22/2017","4:00pm",+0.20,27.80,28.15,27.75,20787
+"BYBK",7.00,"5/22/2017","3:47pm",+0.00,6.90,7.00,6.80,9534
+"BV",4.55,"5/22/2017","4:00pm",+0.00,4.55,4.65,4.50,76728
+"BCBP",15.75,"5/22/2017","4:00pm",+0.00,15.80,15.85,15.70,20055
+"BECN",48.82,"5/22/2017","4:00pm",+0.30,48.64,49.09,48.53,181815
+"BSF",8.85,"5/22/2017","4:00pm",+0.11,8.81,8.92,8.66,12286
+"BBGI",8.80,"5/22/2017","4:00pm",+0.40,8.30,8.80,8.30,21354
+"BEBE",3.79,"5/22/2017","3:59pm",-0.19,3.96,3.97,3.73,36499
+"BBBY",35.32,"5/22/2017","4:00pm",-0.01,35.50,35.69,35.20,1514142
+"BGNE",37.55,"5/22/2017","4:00pm",+0.61,36.91,37.93,36.91,94025
+"BELFA",21.2295,"5/19/2017","10:00am",+0.0000,N/A,N/A,N/A,10
+"BELFB",24.05,"5/22/2017","4:00pm",+0.15,23.90,24.20,23.50,54488
+"BLPH",1.50,"5/22/2017","4:00pm",-0.06,1.61,1.61,1.38,860226
+"BLCM",12.35,"5/22/2017","4:00pm",-0.25,12.63,12.69,12.14,314736
+"BNCL",14.65,"5/22/2017","4:00pm",+0.05,14.60,14.75,14.40,217226
+"BNFT",31.10,"5/22/2017","4:00pm",+0.30,30.80,31.20,30.65,176975
+"BNTC",2.37,"5/22/2017","3:59pm",+0.02,2.61,2.61,2.35,21280
+"BNTCW",0.3781,"5/19/2017","3:58pm",+0.0000,N/A,N/A,N/A,0
+"BYSI",29.2499,"5/22/2017","3:59pm",+1.2813,28.3900,29.4892,28.2990,7017
+"BGCP",11.52,"5/22/2017","4:00pm",+0.24,11.31,11.54,11.31,1348626
+"BGFV",13.40,"5/22/2017","4:00pm",+0.10,13.30,13.55,13.20,326750
+"BASI",1.57,"5/22/2017","3:52pm",-0.06,1.61,1.66,1.57,24399
+"ORPN",0.431,"5/22/2017","4:00pm",-0.089,0.520,0.526,0.431,13902
+"BIOC",1.52,"5/22/2017","4:00pm",+0.09,1.79,1.85,1.44,7528832
+"BCRX",5.24,"5/22/2017","4:00pm",-0.24,5.50,5.64,5.17,1316047
+"BDSI",2.35,"5/22/2017","4:00pm",-0.10,2.50,2.55,2.35,868840
+"BIIB",250.04,"5/22/2017","4:00pm",-0.05,250.69,251.00,249.00,1331163
+"BIOL",1.20,"5/22/2017","4:00pm",+0.02,1.18,1.21,1.18,18238
+"BLFS",2.20,"5/22/2017","3:56pm",-0.01,2.25,2.26,2.17,10511
+"BOLT",N/A,N/A,N/A,+0.00,N/A,N/A,N/A,0
+"BLRX",0.8804,"5/22/2017","3:59pm",+0.0193,0.8900,0.9100,0.8650,763236
+"BMRN",90.49,"5/22/2017","4:00pm",+1.26,89.27,90.73,88.81,731641
+"BMRA",2.6094,"5/22/2017","12:57pm",-0.0206,2.6100,2.6500,2.6094,3320
+"BVXV",7.82,"5/22/2017","3:59pm",+0.02,7.89,8.29,7.82,11661
+"BVXVW",1.60,"5/22/2017","2:58pm",-0.03,1.52,1.72,1.52,3567
+"BPTH",0.4292,"5/22/2017","4:00pm",-0.0469,0.4800,0.4810,0.4200,486108
+"BIOP",3.65,"5/22/2017","3:54pm",+0.02,3.69,3.93,3.56,4564
+"BIOS",1.72,"5/22/2017","4:00pm",+0.02,1.70,1.75,1.67,819832
+"BBC",22.10,"5/22/2017","3:46pm",-0.10,22.43,22.43,21.76,9673
+"BBP",36.47,"5/22/2017","3:38pm",-0.27,36.93,36.93,36.22,6592
+"BSTC",51.10,"5/22/2017","4:00pm",+0.19,51.45,51.97,50.37,29642
+"BSTG",0.235,"5/22/2017","3:59pm",-0.065,0.290,0.290,0.221,3275231
+"BSPM",1.65,"5/22/2017","4:00pm",-0.08,1.72,1.73,1.65,11511
+"TECH",110.34,"5/22/2017","4:00pm",+0.39,110.07,110.48,108.73,132185
+"BEAT",28.35,"5/22/2017","4:00pm",+0.05,28.30,28.55,28.11,313415
+"BIVV",54.69,"5/22/2017","4:00pm",-0.17,55.04,55.04,53.62,773665
+"BJRI",46.05,"5/22/2017","4:00pm",-0.70,46.55,46.62,45.80,430655
+"BBOX",8.65,"5/22/2017","4:00pm",-0.15,8.70,8.95,8.55,131609
+"BDE",5.95,"5/22/2017","4:00pm",-0.05,6.00,6.00,5.90,58089
+"BLKB",81.90,"5/22/2017","4:00pm",+1.56,80.53,82.00,79.83,201691
+"BBRY",11.32,"5/22/2017","4:00pm",+0.94,10.43,11.38,10.40,22138352
+"HAWK",43.05,"5/22/2017","4:00pm",+1.10,42.20,43.30,42.20,564181
+"BL",32.68,"5/22/2017","4:00pm",+0.35,32.03,33.01,31.25,171748
+"BKCC",7.66,"5/22/2017","4:00pm",+0.09,7.57,7.70,7.55,707975
+"ADRA",30.47,"5/22/2017","10:04am",+0.04,30.45,30.47,30.45,327
+"ADRD",22.36,"5/22/2017","3:54pm",+0.05,N/A,22.36,22.34,831
+"ADRE",38.15,"5/22/2017","3:59pm",+0.06,38.05,38.22,38.00,6629
+"ADRU",22.02,"5/19/2017","10:47am",+0.00,N/A,N/A,N/A,0
+"BLMN",20.25,"5/22/2017","4:00pm",+0.13,20.14,20.30,20.01,1106004
+"BCOR",20.85,"5/22/2017","4:00pm",+0.30,20.55,20.85,20.35,720229
+"BLBD",18.15,"5/22/2017","4:00pm",+0.20,18.15,18.20,17.95,23866
+"BUFF",23.15,"5/22/2017","4:00pm",-0.10,23.29,23.39,23.10,1324749
+"BHBK",18.15,"5/22/2017","4:00pm",+0.15,18.05,18.20,18.05,26811
+"BLUE",78.95,"5/22/2017","4:00pm",-3.50,82.60,83.40,77.30,1030131
+"BKEP",6.95,"5/22/2017","3:59pm",+0.00,6.95,6.99,6.84,7716
+"BKEPP",7.85,"5/22/2017","3:57pm",-0.02,7.90,7.95,7.84,34620
+"BPMC",39.90,"5/22/2017","4:00pm",+0.29,39.50,40.01,38.45,203263
+"ITEQ",29.905,"5/22/2017","3:58pm",+0.135,29.850,29.910,29.795,15810
+"BMCH",20.50,"5/22/2017","4:00pm",+0.00,20.60,20.65,20.20,487886
+"BNCN",32.15,"5/22/2017","4:00pm",+0.45,31.85,32.15,31.50,67804
+"BOBE",72.54,"5/22/2017","4:00pm",+1.11,71.62,72.90,71.50,455916
+"BOFI",22.88,"5/22/2017","4:00pm",+0.40,22.21,22.99,22.03,853891
+"BOFIL",25.35,"5/22/2017","2:58pm",-0.21,25.14,25.37,25.14,4144
+"WIFI",16.00,"5/22/2017","4:00pm",+0.31,15.70,16.06,15.43,494441

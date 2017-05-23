@@ -1,200 +1,100 @@
-"APTO","Aptose Biosciences, Inc.",1.10,0.82
-"AQMS","Aqua Metals, Inc.",24.84,10.75
-"AQB","AquaBounty Technologies, Inc.",12.93,1.15
-"AQXP","Aquinox Pharmaceuticals, Inc.",N/A,N/A
-"ARDM","Aradigm Corporation",1.48,1.00
-"ARLZ","Aralez Pharmaceuticals Inc.",1.55,1.38
-"PETX","Aratana Therapeutics, Inc.",6.20,4.12
-"ABUS","Arbutus Biopharma Corporation",3.95,3.30
-"ARCW","ARC Group Worldwide, Inc.",N/A,N/A
-"ABIO","ARCA biopharma, Inc.",N/A,N/A
-"RKDA","Arcadia Biosciences, Inc.",N/A,N/A
-"ARCB","ArcBest Corporation",N/A,N/A
-"ACGL","Arch Capital Group Ltd.",N/A,N/A
-"ACGLP","Arch Capital Group Ltd. - Depos",N/A,N/A
-"APLP","Archrock Partners, L.P.  repres",N/A,N/A
-"ARDX","Ardelyx, Inc.",6.950,6.000
-"ARNA","Arena Pharmaceuticals, Inc.",1.35,1.34
-"ARCC","Ares Capital Corporation - Clos",17.24,16.35
-"AGII","Argo Group International Holdin",N/A,N/A
-"AGIIL","Argo Group International Holdin",N/A,N/A
-"ARGS","Argos Therapeutics, Inc.",3.0100,0.3640
-"ARIS","ARI Network Services, Inc.",N/A,N/A
-"ARKR","Ark Restaurants Corp.",26.0200,18.1200
-"ARTX","Arotech Corporation",3.75,2.90
-"ARQL","ArQule, Inc.",1.40,1.14
-"ARRY","Array BioPharma Inc.",8.28,7.88
-"ARRS","ARRIS International plc - Ordin",28.68,20.15
-"DWAT","Arrow DWA Tactical ETF",N/A,N/A
-"AROW","Arrow Financial Corporation",N/A,N/A
-"ARWR","Arrowhead Pharmaceuticals, Inc.",1.99,1.25
-"ARTNA","Artesian Resources Corporation ",N/A,N/A
-"ARTW","Art's-Way Manufacturing Co., In",6.00,0.05
-"ASBB","ASB Bancorp, Inc.",N/A,N/A
-"ASNA","Ascena Retail Group, Inc.",2.11,2.06
-"ASND","Ascendis Pharma A/S - American ",N/A,N/A
-"ASCMA","Ascent Capital Group, Inc. - Se",N/A,N/A
-"APWC","Asia Pacific Wire & Cable Corpo",N/A,N/A
-"ASML","ASML Holding N.V. - ADS represe",139.99,131.90
-"AZPN","Aspen Technology, Inc.",65.00,52.70
-"ASMB","Assembly Biosciences, Inc.",N/A,N/A
-"ASFI","Asta Funding, Inc.",N/A,N/A
-"ASTE","Astec Industries, Inc.",N/A,N/A
-"ATRO","Astronics Corporation",N/A,N/A
-"ALOT","AstroNova, Inc.",N/A,N/A
-"ASTC","Astrotech Corporation",1.14,0.09
-"ASUR","Asure Software Inc",N/A,N/A
-"ASV","ASV Holdings, Inc.",N/A,N/A
-"ATAI","ATA Inc. - American Depositary ",N/A,N/A
-"ATRA","Atara Biotherapeutics, Inc.",17.00,12.15
-"ATHN","athenahealth, Inc.",132.89,128.36
-"ATHX","Athersys, Inc.",2.17,1.35
-"AAPC","Atlantic Alliance Partnership C",N/A,N/A
-"AAME","Atlantic American Corporation",N/A,N/A
-"ACBI","Atlantic Capital Bancshares, In",N/A,N/A
-"ACFC","Atlantic Coast Financial Corpor",N/A,N/A
-"ABY","Atlantica Yield plc - Ordinary ",20.71,16.01
-"ATLC","Atlanticus Holdings Corporation",N/A,N/A
-"AAWW","Atlas Air Worldwide Holdings",N/A,N/A
-"AFH","Atlas Financial Holdings, Inc. ",30.00,0.05
-"AFHBL","Atlas Financial Holdings, Inc. ",N/A,N/A
-"TEAM","Atlassian Corporation Plc - Cla",39.94,33.50
-"ATNI","ATN International, Inc.",N/A,N/A
-"ATOM","Atomera Incorporated",N/A,N/A
-"ATOS","Atossa Genetics Inc.",N/A,N/A
-"ATRC","AtriCure, Inc.",N/A,N/A
-"ATRI","Atrion Corporation",N/A,N/A
-"ATTU","Attunity Ltd. - Ordinary Shares",N/A,N/A
-"LIFE","aTyr Pharma, Inc.",3.80,3.00
-"AUBN","Auburn National Bancorporation,",N/A,N/A
-"BOLD","Audentes Therapeutics, Inc.",N/A,N/A
-"AUDC","AudioCodes Ltd. - Ordinary Shar",N/A,N/A
-"AUPH","Aurinia Pharmaceuticals Inc",7.30,7.08
-"EARS","Auris Medical Holding AG",0.680,0.510
-"ABTL","Autobytel Inc.",14.75,11.77
-"ADSK","Autodesk, Inc.",110.25,109.78
-"ADP","Automatic Data Processing, Inc.",98.60,70.02
-"AVDL","Avadel Pharmaceuticals plc - Am",N/A,N/A
-"AVEO","AVEO Pharmaceuticals, Inc.",0.800,0.540
-"AVXS","AveXis, Inc.",68.52,66.15
-"AVNW","Aviat Networks, Inc.",N/A,N/A
-"AVID","Avid Technology, Inc.",N/A,N/A
-"AVGR","Avinger, Inc.",0.620,0.320
-"AVIR","Aviragen Therapeutics, Inc.",0.720,0.320
-"CAR","Avis Budget Group, Inc.",24.95,21.49
-"AHPA","Avista Healthcare Public Acquis",N/A,N/A
-"AHPAU","Avista Healthcare Public Acquis",N/A,N/A
-"AHPAW","Avista Healthcare Public Acquis",N/A,N/A
-"AWRE","Aware, Inc.",N/A,N/A
-"AXAR","Axar Acquisition Corp.",N/A,N/A
-"AXARU","Axar Acquisition Corp. - Unit",N/A,N/A
-"AXARW","Axar Acquisition Corp.",N/A,N/A
-"ACLS","Axcelis Technologies, Inc.",21.80,19.30
-"AXGN","AxoGen, Inc.",14.85,8.15
-"AAXN","Axon Enterprise, Inc.",33.28,22.87
-"AXSM","Axsome Therapeutics, Inc.",4.25,3.80
-"AXTI","AXT Inc",N/A,N/A
-"AZRX","AzurRx BioPharma, Inc.",N/A,N/A
-"BCOM","B Communications Ltd. - Ordinar",N/A,N/A
-"RILY","B. Riley Financial, Inc.",N/A,N/A
-"RILYL","B. Riley Financial, Inc. - 7.50",N/A,N/A
-"BOSC","B.O.S. Better Online Solutions ",2.35,1.90
-"BIDU","Baidu, Inc. - American Deposita",188.76,188.50
-"BCPC","Balchem Corporation",N/A,N/A
-"BWINA","Baldwin & Lyons, Inc. - Class A",N/A,N/A
-"BWINB","Baldwin & Lyons, Inc. - Class B",7692.90,22.80
-"BLDP","Ballard Power Systems, Inc.",2.87,2.00
-"BANF","BancFirst Corporation",N/A,N/A
-"BANFP","BancFirst Corporation - 7.2% Cu",N/A,N/A
-"BCTF","Bancorp 34, Inc.",N/A,N/A
-"BKMU","Bank Mutual Corporation",N/A,N/A
-"BOCH","Bank of Commerce Holdings (CA)",N/A,N/A
-"BMRC","Bank of Marin Bancorp",N/A,N/A
-"BMLP","Bank Of Montreal - BMO Elkhorn ",N/A,N/A
-"BKSC","Bank of South Carolina Corp.",N/A,N/A
-"BOTJ","Bank of the James Financial Gro",N/A,N/A
-"OZRK","Bank of the Ozarks",N/A,N/A
-"BFIN","BankFinancial Corporation",N/A,N/A
-"BWFG","Bankwell Financial Group, Inc.",N/A,N/A
-"BANR","Banner Corporation",56.54,7.04
-"BZUN","Baozun Inc. - American Deposita",23.37,21.00
-"TAPR","Barclays PLC - Barclays Inverse",N/A,N/A
-"BHAC","Barington/Hilco Acquisition Cor",N/A,N/A
-"BHACR","Barington/Hilco Acquisition Cor",N/A,N/A
-"BHACU","Barington/Hilco Acquisition Cor",18.0000,N/A
-"BHACW","Barington/Hilco Acquisition Cor",N/A,N/A
-"BBSI","Barrett Business Services, Inc.",N/A,N/A
-"BSET","Bassett Furniture Industries, I",N/A,N/A
-"BYBK","Bay Bancorp, Inc.",N/A,N/A
-"BV","Bazaarvoice, Inc.",N/A,N/A
-"BCBP","BCB Bancorp, Inc. (NJ)",N/A,N/A
-"BECN","Beacon Roofing Supply, Inc.",N/A,N/A
-"BSF","Bear State Financial, Inc.",N/A,N/A
-"BBGI","Beasley Broadcast Group, Inc.",N/A,N/A
-"BEBE","bebe stores, inc.",4.24,3.25
-"BBBY","Bed Bath & Beyond Inc.",40.00,34.70
-"BGNE","BeiGene, Ltd. - American Deposi",45.00,29.00
-"BELFA","Bel Fuse Inc.",N/A,N/A
-"BELFB","Bel Fuse Inc. - Class B",N/A,N/A
-"BLPH","Bellerophon Therapeutics, Inc.",1.70,0.80
-"BLCM","Bellicum Pharmaceuticals, Inc.",16.00,12.00
-"BNCL","Beneficial Bancorp, Inc.",14.50,12.10
-"BNFT","Benefitfocus, Inc.",N/A,N/A
-"BNTC","Benitec Biopharma Limited - Ame",3.49,2.16
-"BNTCW","Benitec Biopharma Limited - War",N/A,N/A
-"BYSI","BeyondSpring, Inc.",28.5000,26.6000
-"BGCP","BGC Partners, Inc.",11.77,10.90
-"BGFV","Big 5 Sporting Goods Corporatio",16.25,13.40
-"BASI","Bioanalytical Systems, Inc.",2.33,1.05
-"ORPN","Bioblast Pharma Ltd. - Ordinary",1.00,0.32
-"BIOC","Biocept, Inc.",1.50,1.33
-"BCRX","BioCryst Pharmaceuticals, Inc.",8.25,5.31
-"BDSI","BioDelivery Sciences Internatio",2.85,2.40
-"BIIB","Biogen Inc.",251.50,250.00
-"BIOL","Biolase, Inc.",1.99,1.02
-"BLFS","BioLife Solutions, Inc.",2.94,1.60
-"BOLT",N/A,N/A,N/A
-"BLRX","BioLineRx Ltd. - American Depos",1.2000,0.7600
-"BMRN","BioMarin Pharmaceutical Inc.",91.50,89.22
-"BMRA","Biomerica, Inc.",N/A,N/A
-"BVXV","BiondVax Pharmaceuticals Ltd. -",8.59,7.37
-"BVXVW","BiondVax Pharmaceuticals Ltd. -",N/A,N/A
-"BPTH","Bio-Path Holdings, Inc.",0.6500,0.4450
-"BIOP","Bioptix, Inc",6.10,2.75
-"BIOS","BioScrip, Inc.",1.84,1.56
-"BBC","BioShares Biotechnology Clinica",24.91,22.25
-"BBP","BioShares Biotechnology Product",N/A,N/A
-"BSTC","BioSpecifics Technologies Corp",N/A,N/A
-"BSTG","Biostage, Inc.",0.36,0.16
-"BSPM","Biostar Pharmaceuticals, Inc.",2.35,1.81
-"TECH","Bio-Techne Corp",N/A,N/A
-"BEAT","BioTelemetry, Inc.",28.35,27.05
-"BIVV","Bioverativ Inc.",56.50,53.00
-"BJRI","BJ's Restaurants, Inc.",46.90,30.05
-"BBOX","Black Box Corporation",12.25,6.85
-"BDE","Black Diamond, Inc.",N/A,N/A
-"BLKB","Blackbaud, Inc.",N/A,N/A
-"BBRY","BlackBerry Limited",10.31,10.27
-"HAWK","Blackhawk Network Holdings, Inc",45.00,41.40
-"BL","BlackLine, Inc.",34.00,12.22
-"BKCC","BlackRock Capital Investment Co",7.75,7.22
-"ADRA","BLDRS Asia 50 ADR Index Fund",38.88,30.27
-"ADRD","BLDRS Developed Markets 100 ADR",28.64,22.15
-"ADRE","BLDRS Emerging Markets 50 ADR I",48.39,37.78
-"ADRU","BLDRS Europe 100 ADR Index Fund",28.41,21.91
-"BLMN","Bloomin' Brands, Inc.",22.20,17.11
-"BCOR","Blucora, Inc.",31.75,6.40
-"BLBD","Blue Bird Corporation",N/A,N/A
-"BUFF","Blue Buffalo Pet Products, Inc.",24.52,22.50
-"BHBK","Blue Hills Bancorp, Inc.",N/A,18.05
-"BLUE","bluebird bio, Inc.",86.45,82.75
-"BKEP","Blueknight Energy Partners L.P.",N/A,N/A
-"BKEPP","Blueknight Energy Partners L.P.",N/A,N/A
-"BPMC","Blueprint Medicines Corporation",N/A,N/A
-"ITEQ","BlueStar TA-BIGITech Israel Tec",N/A,N/A
-"BMCH","BMC Stock Holdings, Inc.",N/A,N/A
-"BNCN","BNC Bancorp",34.00,10.00
-"BOBE","Bob Evans Farms, Inc.",N/A,N/A
-"BOFI","BofI Holding, Inc.",22.49,20.26
-"BOFIL","BofI Holding, Inc. - 6.25% Subo",N/A,N/A
-"WIFI","Boingo Wireless, Inc.",N/A,N/A
+"ALCO",30.60,"5/22/2017","4:00pm",-0.05,30.65,30.80,30.55,2652
+"ALGN",138.10,"5/22/2017","4:00pm",-0.33,139.23,139.42,138.04,982949
+"ALIM",1.45,"5/22/2017","4:00pm",-0.05,1.49,1.51,1.43,226490
+"ALJJ",3.35,"5/22/2017","4:00pm",-0.05,3.39,3.40,3.29,62900
+"ALKS",58.32,"5/22/2017","4:00pm",+0.41,57.95,58.37,57.62,541990
+"ABTX",37.70,"5/22/2017","4:00pm",-0.45,38.30,38.30,37.40,76792
+"ALGT",142.20,"5/22/2017","4:00pm",-0.45,143.25,144.17,142.08,57285
+"AIQ",13.20,"5/22/2017","3:58pm",+0.00,13.10,13.25,13.15,18760
+"AHGP",28.92,"5/22/2017","4:00pm",-0.02,29.10,29.44,28.58,169466
+"AMMA",1.28,"5/22/2017","3:58pm",+0.03,1.25,1.28,1.20,44912
+"ARLP",22.15,"5/22/2017","4:00pm",-0.15,22.45,22.45,21.77,208055
+"AHPI",1.85,"5/22/2017","2:56pm",+0.01,1.82,1.85,1.78,6205
+"AMOT",24.77,"5/22/2017","4:00pm",+0.15,24.64,24.96,24.41,55352
+"ALQA",0.40,"5/22/2017","4:00pm",+0.00,0.41,0.41,0.37,157016
+"ALLT",5.07,"5/22/2017","4:00pm",+0.17,4.93,5.12,4.93,52378
+"MDRX",11.93,"5/22/2017","4:00pm",+0.03,11.95,12.14,11.86,1292931
+"AFAM",55.70,"5/22/2017","4:00pm",-0.45,56.15,56.50,55.55,90124
+"ALNY",73.93,"5/22/2017","4:00pm",+2.26,71.89,74.02,70.79,995885
+"AOSL",18.69,"5/22/2017","4:00pm",+0.27,18.52,19.37,18.45,192751
+"GOOG",941.86,"5/22/2017","4:00pm",+7.85,935.46,941.88,935.00,1120384
+"GOOGL",964.07,"5/22/2017","4:00pm",+9.42,958.00,964.82,956.56,1387340
+"SMCP",24.5827,"5/22/2017","11:17am",+0.0527,24.6000,24.6000,24.5827,515
+"ATEC",2.09,"5/22/2017","3:59pm",+0.02,2.11,2.25,2.01,52683
+"SWIN",26.6761,"5/22/2017","1:14pm",+0.1061,26.5800,26.7000,26.6700,2695
+"ALT",4.64,"5/22/2017","4:00pm",+0.21,4.38,4.74,4.38,89603
+"ASPS",20.34,"5/22/2017","4:00pm",+0.30,20.17,20.88,19.75,266114
+"AIMC",42.35,"5/22/2017","4:00pm",-0.10,42.60,43.32,41.80,77765
+"AMAG",18.50,"5/22/2017","4:00pm",-0.40,18.90,19.05,18.35,968763
+"AMRN",2.97,"5/22/2017","4:00pm",+0.01,2.99,3.00,2.95,728313
+"AMRK",16.87,"5/22/2017","4:00pm",-0.13,16.90,17.30,16.14,11536
+"AYA",18.90,"5/22/2017","4:00pm",-0.10,19.00,19.05,18.90,31081
+"AMZN",970.67,"5/22/2017","4:00pm",+10.83,963.89,971.38,962.90,2640918
+"AMBC",16.64,"5/22/2017","4:00pm",+0.15,16.48,16.72,16.09,535461
+"AMBCW",7.80,"5/22/2017","3:54pm",+0.30,7.75,7.95,7.39,8400
+"AMBA",64.05,"5/22/2017","4:00pm",+1.02,63.40,64.59,63.26,580446
+"AMCX",53.49,"5/22/2017","4:00pm",+0.27,53.40,53.72,53.02,723549
+"DOX",63.98,"5/22/2017","4:00pm",+0.01,63.89,64.48,63.75,710954
+"AMDA",0.3765,"5/22/2017","3:58pm",-0.0005,0.3770,0.3790,0.3701,143851
+"AMED",58.91,"5/22/2017","4:00pm",+0.03,59.08,59.46,58.44,106067
+"UHAL",384.37,"5/22/2017","4:00pm",+5.63,380.90,386.53,379.50,42677
+"ATAX",5.85,"5/22/2017","4:00pm",-0.05,5.85,5.85,5.80,77747
+"AMOV",15.69,"5/22/2017","4:00pm",+0.06,15.94,15.94,15.59,2490
+"AAL",46.21,"5/22/2017","4:00pm",+0.99,45.33,46.25,45.33,4428568
+"ACSF",13.50,"5/22/2017","4:00pm",+0.00,13.45,13.65,13.35,28384
+"AETI",1.70,"5/22/2017","3:59pm",+0.00,1.80,1.80,1.70,16711
+"AMNB",35.80,"5/22/2017","4:00pm",+0.20,35.85,35.90,35.55,4635
+"ANAT",115.15,"5/22/2017","4:00pm",+1.79,113.57,115.53,113.24,15507
+"AOBC",22.61,"5/22/2017","4:00pm",-0.27,22.91,23.13,22.53,968802
+"APEI",23.25,"5/22/2017","4:00pm",+0.35,22.90,23.33,22.90,43650
+"ARII",36.71,"5/22/2017","4:00pm",+0.20,36.75,36.81,35.94,92077
+"AMRB",13.51,"5/22/2017","3:55pm",-0.16,13.54,13.70,13.47,11136
+"AMSWA",10.54,"5/22/2017","4:00pm",+0.10,10.45,10.56,10.44,97984
+"AMSC",4.20,"5/22/2017","4:00pm",+0.06,4.15,4.24,4.05,99421
+"AMWD",88.00,"5/22/2017","4:00pm",-0.30,88.30,89.80,87.45,88104
+"CRMT",35.20,"5/22/2017","4:00pm",+0.20,35.00,35.95,34.92,80226
+"ABCB",44.40,"5/22/2017","4:00pm",+0.45,44.05,44.65,43.62,90533
+"AMSF",51.70,"5/22/2017","4:00pm",-0.25,52.15,52.51,51.65,118646
+"ASRV",4.00,"5/22/2017","4:00pm",+0.00,4.00,4.05,3.95,39732
+"ASRVP",27.883,"5/22/2017","2:53pm",-0.117,N/A,27.883,27.883,400
+"ATLO",30.85,"5/22/2017","4:00pm",-0.20,31.10,31.10,30.70,5519
+"AMGN",153.02,"5/22/2017","4:00pm",-3.49,153.70,154.60,152.45,6911279
+"FOLD",8.41,"5/22/2017","4:00pm",+0.64,7.81,8.43,7.62,4730672
+"AMKR",11.12,"5/22/2017","4:00pm",+0.16,10.99,11.15,10.92,923445
+"AMPH",15.54,"5/22/2017","4:00pm",+0.09,15.48,15.71,15.39,160602
+"IBUY",33.57,"5/22/2017","4:00pm",+0.26,33.58,34.00,33.48,275624
+"ASYS",8.23,"5/22/2017","4:00pm",+0.20,8.02,8.40,8.02,73980
+"AFSI",11.96,"5/22/2017","4:00pm",-0.17,12.15,12.30,11.80,1925854
+"AMRS",0.2893,"5/22/2017","4:00pm",+0.0023,0.2900,0.3194,0.2800,4237125
+"ADI",82.09,"5/22/2017","4:00pm",+0.85,81.54,82.36,81.43,2009527
+"ALOG",72.50,"5/22/2017","4:00pm",+0.95,71.65,73.00,70.75,60085
+"ANAB",26.91,"5/22/2017","4:00pm",+0.01,26.75,26.93,26.54,11059
+"AVXL",5.85,"5/22/2017","4:00pm",+0.12,5.83,5.93,5.76,328414
+"ANCB",25.00,"5/22/2017","3:42pm",-0.05,25.00,25.00,25.00,299
+"ANDA",10.17,"5/19/2017","9:30am",+0.00,N/A,N/A,N/A,1
+"ANDAR",0.4425,"5/22/2017","3:49pm",-0.0075,0.4425,0.4500,0.4200,14300
+"ANDAU",10.84,"5/22/2017","11:27am",+0.00,10.84,10.84,10.84,1000
+"ANDAW",0.2801,"5/22/2017","3:58pm",+0.0027,0.2801,0.2801,0.2801,100
+"ANGI",11.41,"5/22/2017","4:00pm",+0.17,11.25,11.75,11.18,635353
+"ANGO",15.66,"5/22/2017","4:00pm",+0.16,15.52,15.71,15.52,122943
+"ANIP",47.01,"5/22/2017","4:00pm",-0.67,47.63,47.65,46.55,124338
+"ANIK",46.81,"5/22/2017","4:00pm",-0.22,46.98,47.61,46.64,79132
+"ANSS",124.12,"5/22/2017","4:00pm",+1.92,122.52,124.56,121.64,611609
+"ATRS",2.45,"5/22/2017","4:00pm",-0.13,2.57,2.58,2.42,1605054
+"ANTH",1.79,"5/22/2017","4:00pm",+0.16,1.64,1.80,1.60,244654
+"ABAC",1.95,"5/22/2017","3:59pm",-0.13,2.08,2.14,1.95,6231
+"APOG",51.51,"5/22/2017","4:00pm",+0.03,51.52,52.44,51.42,171838
+"APEN",6.29,"5/22/2017","10:57am",-0.01,6.13,6.29,6.29,501
+"AINV",6.31,"5/22/2017","4:00pm",+0.05,6.29,6.33,6.22,984762
+"APPF",27.85,"5/22/2017","4:00pm",+0.00,27.65,27.90,27.20,24948
+"AAPL",153.99,"5/22/2017","4:00pm",+0.93,154.06,154.58,152.91,22965286
+"ARCI",0.90,"5/22/2017","3:37pm",+0.00,0.89,0.90,0.84,6489
+"APDN",1.425,"5/22/2017","3:59pm",+0.025,1.500,1.500,1.400,78072
+"APDNW",0.37,"5/19/2017","3:37pm",+0.00,N/A,N/A,N/A,10
+"AGTC",5.40,"5/22/2017","4:00pm",+0.15,5.20,5.40,5.20,110496
+"AMAT",44.73,"5/22/2017","4:00pm",+0.65,44.19,45.00,43.62,12606243
+"AAOI",71.24,"5/22/2017","4:00pm",+7.70,66.00,71.34,65.80,6770837
+"AREX",2.95,"5/22/2017","4:00pm",+0.01,2.95,3.06,2.90,774008
+"APTI",15.69,"5/22/2017","4:00pm",+0.56,15.24,15.74,15.21,713340
+"APRI",1.04,"5/22/2017","4:00pm",+0.01,1.03,1.07,1.00,146946
+"APVO",2.09,"5/22/2017","4:00pm",+0.01,2.07,2.10,2.04,46416

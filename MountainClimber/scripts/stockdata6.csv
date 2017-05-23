@@ -1,200 +1,100 @@
-"GENE","Genetic Technologies Ltd - Amer",1.24,1.01
-"GNUS","Genius Brands International, In",N/A,N/A
-"GNMK","GenMark Diagnostics, Inc.",N/A,N/A
-"GNCA","Genocea Biosciences, Inc.",7.10,5.99
-"GHDX","Genomic Health, Inc.",29.64,27.00
-"GNST",N/A,N/A,N/A
-"GNTX","Gentex Corporation",20.00,18.73
-"THRM","Gentherm Inc",36.35,33.50
-"GNVC","GenVec, Inc.",7.5900,7.0100
-"GTWN","Georgetown Bancorp, Inc.",26.050,25.900
-"GEOS","Geospace Technologies Corporati",N/A,N/A
-"GABC","German American Bancorp, Inc.",N/A,N/A
-"GERN","Geron Corporation",3.23,2.67
-"GEVO","Gevo, Inc.",1.490,0.891
-"ROCK","Gibraltar Industries, Inc.",N/A,N/A
-"GIGM","GigaMedia Limited - Ordinary Sh",4.35,2.20
-"GIGA","Giga-tronics Incorporated",1.84,0.75
-"GIII","G-III Apparel Group, LTD.",25.25,17.17
-"GILT","Gilat Satellite Networks Ltd. -",N/A,N/A
-"GILD","Gilead Sciences, Inc.",64.23,63.94
-"GBCI","Glacier Bancorp, Inc.",N/A,N/A
-"GLAD","Gladstone Capital Corporation -",11.58,9.60
-"GLADO","Gladstone Capital Corporation -",N/A,N/A
-"GOOD","Gladstone Commercial Corporatio",23.00,14.00
-"GOODM","Gladstone Commercial Corporatio",26.49,25.30
-"GOODO","Gladstone Commercial Corporatio",199999.9844,25.0000
-"GOODP","Gladstone Commercial Corporatio",N/A,N/A
-"GAIN","Gladstone Investment Corporatio",9.95,8.53
-"GAINM","Gladstone Investment Corporatio",25.5300,25.3200
-"GAINN","Gladstone Investment Corporatio",25.61,24.64
-"GAINO","Gladstone Investment Corporatio",N/A,N/A
-"LAND","Gladstone Land Corporation",13.00,10.50
-"LANDP","Gladstone Land Corporation - 6.",26.1600,25.4500
-"GLBZ","Glen Burnie Bancorp",N/A,N/A
-"GBT","Global Blood Therapeutics, Inc.",29.85,29.80
-"GLBR","Global Brokerage, Inc.",2.00,1.75
-"ENT","Global Eagle Entertainment Inc.",3.54,2.92
-"GBLI","Global Indemnity Limited - Clas",N/A,N/A
-"GBLIL","Global Indemnity Limited - 7.87",25.15,24.70
-"GBLIZ","Global Indemnity Limited - 7.75",N/A,N/A
-"GPAC","Global Partner Acquisition Corp",N/A,N/A
-"GPACU","Global Partner Acquisition Corp",N/A,N/A
-"GPACW","Global Partner Acquisition Corp",N/A,N/A
-"SELF","Global Self Storage, Inc.",N/A,N/A
-"GSOL","Global Sources Ltd.",N/A,N/A
-"GWRS","Global Water Resources, Inc.",N/A,N/A
-"KRMA","Global X Conscious Companies ET",N/A,N/A
-"FINX","Global X FinTech ETF",17.56,15.50
-"ACTX","Global X Guru Activist ETF",N/A,N/A
-"BFIT","RONALD S LAURA ENT I",N/A,15.20
-"SNSR","Global X Internet of Things ETF",19.040,18.000
-"LNGR","Global X Longevity Thematic ETF",N/A,N/A
-"MILN","Global X Millennials Thematic E",N/A,N/A
-"EFAS","Global X MSCI SuperDividend EAF",N/A,N/A
-"QQQC","Global X NASDAQ China Technolog",N/A,N/A
-"BOTZ","Global X Robotics & Artificial ",20.00,17.00
-"CATH","Global X S&P 500 Catholic Value",29.18,N/A
-"SOCL","Global X Social Media ETF",29.69,14.02
-"ALTY","Global X SuperDividend Alternat",N/A,N/A
-"SRET","Global X SuperDividend REIT ETF",15.0200,13.2900
-"YLCO","Global X Yieldco Index ETF",15.98,10.50
-"GLBS","Globus Maritime Limited",1.85,1.00
-"GLUU","Glu Mobile Inc.",2.70,2.55
-"GLYC","GlycoMimetics, Inc.",12.65,12.50
-"GOGO","Gogo Inc.",13.60,10.20
-"GLNG","Golar LNG Limited",35.00,8.42
-"GMLP","Golar LNG Partners LP  Represen",21.50,20.00
-"GDEN","Golden Entertainment, Inc.",N/A,N/A
-"GOGL","Golden Ocean Group Limited",7.26,6.12
-"GBDC","Golub Capital BDC, Inc.",20.46,19.05
-"GTIM","Good Times Restaurants Inc.",N/A,N/A
-"GPRO","GoPro, Inc.",8.57,7.80
-"GSHT","Gores Holdings II, Inc.",N/A,N/A
-"GSHTU","Gores Holdings II, Inc. - Unit",N/A,N/A
-"GSHTW","Gores Holdings II, Inc. - Warra",N/A,N/A
-"GOV","Government Properties Income Tr",22.84,18.50
-"GOVNI","Government Properties Income Tr",N/A,N/A
-"GPIA","GP Investments Acquisition Corp",N/A,N/A
-"GPIAU","GP Investments Acquisition Corp",N/A,N/A
-"GPIAW","GP Investments Acquisition Corp",N/A,N/A
-"LOPE","Grand Canyon Education, Inc.",N/A,N/A
-"GRVY","GRAVITY Co., Ltd. - American de",N/A,N/A
-"FULLL","Great Elm Capital Corp. - 8.25%",26.00,25.27
-"GECC","Great Elm Capital Corp.",N/A,N/A
-"GEC","Great Elm Capital Group, Inc.",3.70,3.00
-"GLDD","Great Lakes Dredge & Dock Corpo",12.10,3.60
-"GSBC","Great Southern Bancorp, Inc.",N/A,N/A
-"GNBC","Green Bancorp, Inc.",N/A,N/A
-"GRBK","Green Brick Partners, Inc.",N/A,N/A
-"GPP","Green Plains Partners LP",20.50,17.80
-"GPRE","Green Plains, Inc.",N/A,N/A
-"GCBC","Greene County Bancorp, Inc.",N/A,N/A
-"GLRE","Greenlight Reinsurance, Ltd. - ",28.85,18.75
-"GSUM","Gridsum Holding Inc. - American",13.98,11.40
-"GRIF","Griffin Industrial Realty, Inc.",7921.86,10.67
-"GRFS","Grifols, S.A. - American Deposi",N/A,N/A
-"GRPN","Groupon, Inc.",3.35,3.31
-"OMAB","Grupo Aeroportuario del Centro ",49.22,42.68
-"GGAL","Grupo Financiero Galicia S.A. -",42.87,40.95
-"GSIT","GSI Technology, Inc.",N/A,N/A
-"GSVC","GSV Capital Corp",14.55,4.40
-"GTXI","GTx, Inc.",5.49,0.00
-"GTYH","GTY Technology Holdings, Inc. -",N/A,N/A
-"GTYHU","GTY Technology Holdings, Inc. -",N/A,N/A
-"GTYHW","GTY Technology Holdings, Inc. -",1.05,0.25
-"GBNK","Guaranty Bancorp",N/A,N/A
-"GNTY","Guaranty Bancshares, Inc.",N/A,N/A
-"GFED","Guaranty Federal Bancshares, In",N/A,N/A
-"GUID","Guidance Software, Inc.",N/A,N/A
-"GIFI","Gulf Island Fabrication, Inc.",24.90,9.00
-"GURE","Gulf Resources, Inc.",2.08,0.02
-"GPOR","Gulfport Energy Corporation",22.01,15.00
-"GWPH","GW Pharmaceuticals Plc - Americ",106.50,106.14
-"GWGH","GWG Holdings, Inc",N/A,N/A
-"GYRO","Gyrodyne , LLC",N/A,N/A
-"HEES","H&E Equipment Services, Inc.",22.10,12.15
-"HLG","Hailiang Education Group Inc. -",N/A,N/A
-"HNRG","Hallador Energy Company",8.65,6.19
-"HALL","Hallmark Financial Services, In",N/A,N/A
-"HALO","Halozyme Therapeutics, Inc.",12.96,12.85
-"HBK","Hamilton Bancorp, Inc.",N/A,N/A
-"HLNE","Hamilton Lane Incorporated",21.73,19.04
-"HBHC","Hancock Holding Company",N/A,N/A
-"HBHCL","Hancock Holding Company - 5.95%",N/A,N/A
-"HNH","Handy & Harman Ltd.",N/A,N/A
-"HAFC","Hanmi Financial Corporation",N/A,N/A
-"HQCL","Hanwha Q CELLS Co., Ltd.  - Ame",11.00,6.62
-"HONE","HarborOne Bancorp, Inc.",N/A,N/A
-"HDNG","Hardinge Inc.",7830.96,8.50
-"HLIT","Harmonic Inc.",6.55,3.65
-"HRMN","Harmony Merger Corp.",N/A,N/A
-"HRMNU","Harmony Merger Corp. - Unit",N/A,N/A
-"HRMNW","Harmony Merger Corp. - Warrant",N/A,N/A
-"HBIO","Harvard Bioscience, Inc.",2.50,2.30
-"HCAP","Harvest Capital Credit Corporat",14.50,12.02
-"HCAPL","Harvest Capital Credit Corporat",199999.98,25.13
-"HAS","Hasbro, Inc.",N/A,N/A
-"HA","Hawaiian Holdings, Inc.",57.00,45.65
-"HCOM","Hawaiian Telcom Holdco, Inc.",N/A,N/A
-"HWKN","Hawkins, Inc.",N/A,N/A
-"HWBK","Hawthorn Bancshares, Inc.",N/A,N/A
-"HAYN","Haynes International, Inc.",N/A,N/A
-"HDS","HD Supply Holdings, Inc.",N/A,N/A
-"HIIQ","Health Insurance Innovations, I",30.95,20.50
-"HCSG","Healthcare Services Group, Inc.",46.60,38.00
-"HQY","HealthEquity, Inc.",48.98,37.63
-"HSTM","HealthStream, Inc.",N/A,N/A
-"HTLD","Heartland Express, Inc.",N/A,N/A
-"HTLF","Heartland Financial USA, Inc.",N/A,N/A
-"HTBX","Heat Biologics, Inc.",0.890,0.640
-"HEBT","Hebron Technology Co., Ltd.",4.150,3.560
-"HSII","Heidrick & Struggles Internatio",N/A,N/A
-"HELE","Helen of Troy Limited",N/A,N/A
-"HMNY","Helios and Matheson Analytics I",3.2000,1.7500
-"HMTV","Hemisphere Media Group, Inc.",N/A,N/A
-"HNNA","Hennessy Advisors, Inc.",N/A,N/A
-"HSIC","Henry Schein, Inc.",N/A,N/A
-"HTBK","Heritage Commerce Corp",N/A,N/A
-"HFWA","Heritage Financial Corporation",N/A,N/A
-"HCCI","Heritage-Crystal Clean, Inc.",N/A,N/A
-"MLHR","Herman Miller, Inc.",N/A,N/A
-"HRTX","Heron Therapeutics, Inc.",17.90,12.15
-"HSKA","Heska Corporation",N/A,N/A
-"HIBB","Hibbett Sports, Inc.",28.85,23.80
-"SNLN","Highland/iBoxx Senior Loan ETF",N/A,N/A
-"HPJ","Highpower International Inc",4.85,4.30
-"HIHO","Highway Holdings Limited",4.70,3.05
-"HIMX","Himax Technologies, Inc. - Amer",8.43,6.78
-"HIFS","Hingham Institution for Savings",N/A,N/A
-"HSGX","Histogenics Corporation",2.25,1.30
-"HMNF","HMN Financial, Inc.",N/A,N/A
-"HMSY","HMS Holdings Corp",N/A,N/A
-"HOLI","Hollysys Automation Technologie",18.88,12.14
-"HOLX","Hologic, Inc.",46.43,40.01
-"HBCP","Home Bancorp, Inc.",N/A,N/A
-"HOMB","Home BancShares, Inc.",N/A,N/A
-"HFBL","Home Federal Bancorp, Inc. of L",N/A,N/A
-"HMST","HomeStreet, Inc.",N/A,N/A
-"HMTA","HomeTown Bankshares Corporation",N/A,N/A
-"HTBI","HomeTrust Bancshares, Inc.",N/A,N/A
-"HMU","HomeUnion Holdings Inc. Common ",N/A,N/A
-"HOFT","Hooker Furniture Corporation",49.70,27.50
-"HOPE","Hope Bancorp, Inc.",N/A,N/A
-"HFBC","HopFed Bancorp, Inc.",N/A,N/A
-"HBNC","Horizon Bancorp (IN)",N/A,N/A
-"HZNP","Horizon Pharma plc",10.65,10.40
-"HRZN","Horizon Technology Finance Corp",14.01,7.12
-"DAX","Horizons DAX Germany ETF",N/A,N/A
-"QYLD","Recon Capital NASDAQ-100 Covere",N/A,N/A
-"HDP","Hortonworks, Inc.",15.00,10.63
-"HPT","Hospitality Properties Trust - ",29.49,27.00
-"TWNK","Hostess Brands, Inc.",N/A,N/A
-"TWNKW","Hostess Brands, Inc. - Warrants",N/A,N/A
-"HMHC","Houghton Mifflin Harcourt Compa",12.85,8.15
-"HWCC","Houston Wire & Cable Company",10.55,6.30
-"HOVNP","Hovnanian Enterprises Inc - Dep",N/A,N/A
-"HBMD","Howard Bancorp, Inc.",N/A,N/A
-"HSNI","HSN, Inc.",N/A,N/A
-"HTGM","HTG Molecular Diagnostics, Inc.",4.05,3.59
-"HUBG","Hub Group, Inc.",N/A,N/A
+"CMCT",15.60,"5/22/2017","11:59am",-0.25,15.90,15.90,15.57,4428
+"CMPR",87.60,"5/22/2017","4:00pm",+0.79,87.00,88.30,86.83,107807
+"CINF",69.53,"5/22/2017","4:00pm",+0.49,69.25,69.65,69.06,347915
+"CIDM",1.7107,"5/22/2017","3:59pm",+0.0307,1.6900,1.7500,1.6800,21570
+"CTAS",121.74,"5/22/2017","4:00pm",+0.72,121.14,121.91,120.83,414924
+"CRUS",65.07,"5/22/2017","4:00pm",+0.37,65.22,65.29,64.62,781879
+"CSCO",31.59,"5/22/2017","4:00pm",+0.38,31.20,31.98,31.15,35085249
+"CTRN",18.26,"5/22/2017","4:00pm",+0.67,17.40,18.40,17.38,110913
+"CZNC",22.43,"5/22/2017","4:00pm",+0.15,22.25,22.49,22.17,21513
+"CZWI",14.10,"5/22/2017","2:36pm",+0.00,14.34,14.34,14.10,8889
+"CZFC",21.29,"5/22/2017","12:33pm",+0.54,20.79,21.29,20.75,2707
+"CIZN",23.80,"5/22/2017","3:56pm",+0.00,23.90,23.93,23.80,1220
+"CTXS",82.95,"5/22/2017","4:00pm",+0.16,82.64,83.35,82.56,1487361
+"CHCO",65.45,"5/22/2017","4:00pm",+0.65,65.60,65.60,64.41,47546
+"CIVB",20.94,"5/22/2017","4:00pm",-0.06,21.04,21.05,20.65,27721
+"CIVBP",67.25,"5/17/2017","9:43am",+0.00,N/A,N/A,N/A,0
+"CDTI",3.35,"5/22/2017","4:00pm",+0.11,3.43,3.43,3.24,116790
+"CLNE",2.43,"5/22/2017","4:00pm",-0.05,2.49,2.50,2.41,1177466
+"CLNT",3.80,"5/22/2017","4:00pm",+0.20,3.60,3.93,3.60,249010
+"CACG",24.8864,"5/22/2017","3:26pm",+0.1364,24.8000,24.8864,24.8400,607
+"CLFD",13.95,"5/22/2017","4:00pm",+0.35,13.65,14.30,13.65,107731
+"CLRO",9.85,"5/22/2017","4:00pm",-0.05,9.95,9.85,9.80,100551
+"CLSD",7.47,"5/22/2017","4:00pm",-0.56,8.02,8.23,7.40,148089
+"CLIR",4.00,"5/22/2017","4:00pm",-0.25,4.25,4.21,3.95,71215
+"CLIRW",1.60,"5/22/2017","1:16pm",-0.24,1.71,1.77,1.25,12185
+"CBLI",3.55,"5/22/2017","4:00pm",+0.12,3.41,3.60,3.39,52399
+"CSBK",16.30,"5/22/2017","4:00pm",-0.01,16.35,16.35,16.23,67585
+"CLVS",54.44,"5/22/2017","4:00pm",+2.20,52.56,54.71,52.50,1383963
+"CMFN",10.45,"5/22/2017","4:00pm",+0.20,10.00,10.55,10.00,19332
+"CME",116.91,"5/22/2017","4:00pm",+0.08,117.37,117.48,116.41,1257667
+"CCNE",22.00,"5/22/2017","4:00pm",+0.15,22.00,22.12,21.75,10853
+"CWAY",20.40,"5/22/2017","3:40pm",+0.15,20.25,20.40,20.25,10408
+"COBZ",15.93,"5/22/2017","4:00pm",+0.11,15.89,16.11,15.71,69447
+"COKE",214.42,"5/22/2017","4:00pm",+10.00,205.47,216.05,205.46,66124
+"CDXS",4.60,"5/22/2017","4:00pm",+0.25,4.40,4.60,4.35,58461
+"CVLY",25.77,"5/22/2017","4:00pm",+0.39,25.44,25.84,25.31,10305
+"JVA",4.8604,"5/22/2017","3:59pm",+0.1354,4.6500,4.8850,4.6100,24066
+"CCOI",38.70,"5/22/2017","4:00pm",+0.55,38.25,38.95,38.10,323315
+"CGNT",1.63,"5/22/2017","4:00pm",-0.02,1.63,1.86,1.63,105635
+"COGT",5.30,"5/22/2017","4:00pm",+0.00,5.30,5.35,5.20,135189
+"CGNX",92.77,"5/22/2017","4:00pm",+1.87,91.60,92.83,91.18,554102
+"CTSH",65.79,"5/22/2017","4:00pm",+0.37,65.40,65.86,65.17,3313689
+"COHR",249.85,"5/22/2017","4:00pm",+4.11,248.95,252.14,245.50,289821
+"CHRS",21.10,"5/22/2017","4:00pm",-1.20,22.25,22.50,21.00,847313
+"COHU",18.13,"5/22/2017","4:00pm",+0.08,18.00,18.21,17.84,140396
+"CLCT",25.25,"5/22/2017","4:00pm",-0.25,25.36,25.48,24.80,25424
+"COLL",8.44,"5/22/2017","4:00pm",-0.22,8.68,8.83,8.38,191869
+"CIGI",51.80,"5/22/2017","4:00pm",+0.10,51.90,52.20,51.60,17566
+"CBAN",13.50,"5/22/2017","3:52pm",-0.15,13.65,13.63,13.50,4350
+"COLB",38.14,"5/22/2017","4:00pm",+0.47,37.81,38.16,37.52,230466
+"COLM",53.17,"5/22/2017","4:00pm",+0.51,52.80,53.83,52.72,157404
+"CMCO",24.46,"5/22/2017","4:00pm",+0.08,24.47,24.58,24.07,74399
+"CBMX",5.75,"5/22/2017","4:00pm",+0.00,5.85,5.85,5.50,82212
+"CBMXW",1.60,"5/22/2017","3:41pm",-0.04,N/A,1.66,1.53,6100
+"CMCSA",39.49,"5/22/2017","4:00pm",+0.64,38.98,39.56,38.76,13108845
+"CBSH",54.21,"5/22/2017","4:00pm",+0.09,54.35,54.45,53.78,252566
+"CBSHP",25.803,"5/22/2017","3:50pm",-0.007,25.670,25.840,25.670,15826
+"CUBN",21.99,"5/22/2017","4:00pm",+0.24,21.75,21.99,21.72,9867
+"CHUBA",17.16,"5/22/2017","4:00pm",+0.13,17.18,17.42,17.11,34303
+"CHUBK",17.30,"5/22/2017","4:00pm",+0.13,17.30,17.54,17.26,65844
+"CVGI",8.30,"5/22/2017","4:00pm",-0.21,8.39,8.64,8.06,624906
+"COMM",37.53,"5/22/2017","4:00pm",+0.53,37.08,37.61,36.99,1779410
+"JCS",4.44,"5/22/2017","4:00pm",+0.25,4.48,4.60,4.31,38007
+"ESXB",8.20,"5/22/2017","4:00pm",+0.35,8.00,8.20,7.75,69381
+"CCFI",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"CFBI",13.06,"5/22/2017","3:58pm",+0.01,13.07,13.08,13.00,33756
+"CYHHZ",0.01,"5/22/2017","3:58pm",-0.00,0.01,0.01,0.01,168679
+"CTBI",42.50,"5/22/2017","4:00pm",+0.55,42.10,42.55,41.80,51105
+"CWBC",10.20,"5/22/2017","3:58pm",+0.05,10.10,10.20,10.00,7301
+"CVLT",55.25,"5/22/2017","4:00pm",-0.45,55.95,55.95,55.00,364637
+"CGEN",5.05,"5/22/2017","4:00pm",+0.30,4.90,5.10,4.75,202900
+"CPSI",33.65,"5/22/2017","4:00pm",+0.25,33.45,33.95,33.40,145832
+"CTG",5.76,"5/22/2017","4:00pm",+0.06,5.68,5.82,5.57,34203
+"CHCI",1.8801,"5/22/2017","2:43pm",+0.0501,1.8800,2.0900,1.7100,58167
+"CMTL",14.19,"5/22/2017","4:00pm",+0.21,14.00,14.35,14.00,125877
+"CNAT",5.30,"5/22/2017","4:00pm",+0.08,5.19,5.33,5.02,776143
+"CNCE",14.04,"5/22/2017","4:00pm",-0.43,14.54,15.32,13.85,189225
+"CXRX",1.31,"5/22/2017","4:00pm",+0.00,1.31,1.32,1.29,146205
+"CCUR",6.39,"5/22/2017","4:00pm",+0.01,6.24,6.46,6.22,59332
+"CDOR",10.105,"5/22/2017","3:59pm",+0.045,10.150,10.203,10.080,27997
+"CFMS",4.70,"5/22/2017","4:00pm",+0.02,4.71,4.82,4.68,241882
+"CNFR",7.30,"5/22/2017","3:58pm",-0.38,7.70,7.55,7.10,286857
+"CNMD",49.94,"5/22/2017","4:00pm",+0.22,49.82,50.17,49.51,99359
+"CTWS",52.96,"5/22/2017","4:00pm",+0.49,52.55,53.45,52.49,16429
+"CNOB",21.55,"5/22/2017","4:00pm",+0.00,21.65,21.90,21.50,182697
+"CNXR",0.82,"5/22/2017","4:00pm",-0.02,0.86,0.85,0.82,32835
+"CONN",15.75,"5/22/2017","4:00pm",-0.05,15.80,16.30,15.68,274751
+"CNSL",19.47,"5/22/2017","4:00pm",-0.13,19.64,19.94,19.45,291656
+"CWCO",11.65,"5/22/2017","4:00pm",-0.15,11.75,11.85,11.60,40455
+"CPSS",4.42,"5/22/2017","4:00pm",-0.17,4.64,4.72,4.41,70954
+"CFRX",1.30,"5/22/2017","4:00pm",+0.05,1.30,1.35,1.23,11805
+"CTRV",0.6858,"5/22/2017","3:58pm",-0.0142,0.6700,0.7001,0.6600,480910
+"CTRL",18.31,"5/22/2017","4:00pm",+0.61,17.76,18.39,17.60,494755
+"CPAA",11.94,"5/22/2017","4:00pm",+0.00,11.87,11.95,11.87,38475
+"CPAAU",12.90,"5/22/2017","3:34pm",-0.15,12.92,13.03,12.90,500
+"CPAAW",2.87,"5/22/2017","2:00pm",-0.03,2.87,2.87,2.65,2705
+"CPRT",29.70,"5/22/2017","4:00pm",+0.39,29.39,29.76,29.37,1009473
+"CRBP",6.55,"5/22/2017","4:00pm",+0.10,6.50,6.60,6.35,317686
+"CORT",11.89,"5/22/2017","4:00pm",+0.11,11.86,12.23,11.64,1209725
+"CORE",34.78,"5/22/2017","4:00pm",+1.03,34.00,35.42,33.87,346507

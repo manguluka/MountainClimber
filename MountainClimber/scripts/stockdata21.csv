@@ -1,200 +1,100 @@
-"ETW","Eaton Vance Corporation Eaton V",N/A,N/A
-"EV","Eaton Vance Corporation",N/A,N/A
-"EOI","Eaton Vance Enhance Equity Inco",N/A,N/A
-"EOS","Eaton Vance Enhance Equity Inco",N/A,N/A
-"EFT","Eaton Vance Floating Rate Incom",N/A,N/A
-"EFF","Eaton vance Floating-Rate Incom",N/A,N/A
-"EHT","Eaton Vance High Income 2021 Ta",N/A,N/A
-"ETX","Eaton Vance Municipal Income 20",N/A,N/A
-"EOT","Eaton Vance Municipal Income Tr",N/A,N/A
-"EVN","Eaton Vance Municipal Income Tr",N/A,N/A
-"ETJ","Eaton Vance Risk-Managed Divers",N/A,N/A
-"EFR","Eaton Vance Senior Floating-Rat",N/A,N/A
-"EVF","Eaton Vance Senior Income Trust",N/A,N/A
-"EVG","Eaton Vance Short Diversified I",N/A,N/A
-"EVT","Eaton Vance Tax Advantaged Divi",N/A,N/A
-"ETO","Eaton Vance Tax-Advantage Globa",N/A,N/A
-"EXD","Eaton Vance Tax-Advantaged Bond",N/A,N/A
-"ETG","Eaton Vance Tax-Advantaged Glob",N/A,N/A
-"ETB","Eaton Vance Tax-Managed Buy-Wri",N/A,N/A
-"ETY","Eaton Vance Tax-Managed Diversi",N/A,N/A
-"EXG","Eaton Vance Tax-Managed Global ",N/A,N/A
-"ECT","ECA Marcellus Trust I Common Un",N/A,N/A
-"ECR","Eclipse Resources Corporation",N/A,N/A
-"ECL","Ecolab Inc.",N/A,N/A
-"EC","Ecopetrol S.A. American Deposit",N/A,N/A
-"EIX","Edison International",N/A,N/A
-"EDR","Education Realty Trust, Inc.",N/A,N/A
-"EW","Edwards Lifesciences Corporatio",N/A,N/A
-"EHIC","eHi Car Services Limited Americ",N/A,N/A
-"EP^C",N/A,N/A,N/A
-"EE","El Paso Electric Company",N/A,N/A
-"EGO","Eldorado Gold Corporation Ordin",N/A,N/A
-"ELVT","Elevate Credit, Inc.",N/A,N/A
-"LLY","Eli Lilly and Company",N/A,N/A
-"ELLI","Ellie Mae, Inc.",N/A,N/A
-"EFC","Ellington Financial LLC  repres",N/A,N/A
-"EARN","Ellington Residential Mortgage ",N/A,N/A
-"AKO.A",N/A,N/A,N/A
-"AKO.B",N/A,N/A,N/A
-"ERJ","Embraer S.A.",N/A,N/A
-"EME","EMCOR Group, Inc.",N/A,N/A
-"EEX","Emerald Expositions Events, Inc",N/A,N/A
-"EMES","Emerge Energy Services LP Commo",N/A,N/A
-"EBS","Emergent Biosolutions, Inc.",N/A,N/A
-"EMR","Emerson Electric Company",N/A,N/A
-"ESRT","Empire State Realty Trust, Inc.",N/A,N/A
-"EIG","Employers Holdings Inc",N/A,N/A
-"EDN","Empresa Distribuidora Y Comerci",N/A,N/A
-"ENBL","Enable Midstream Partners, LP C",N/A,N/A
-"EEQ","Enbridge Energy Management LLC ",N/A,N/A
-"EEP","Enbridge Energy, L.P. Class A C",N/A,N/A
-"ENB","Enbridge Inc",N/A,N/A
-"ECA","Encana Corporation",N/A,N/A
-"EXK","Endeavour Silver Corporation Or",N/A,N/A
-"ENH^C",N/A,N/A,N/A
-"NDRO","Enduro Royalty Trust Trust Unit",N/A,N/A
-"ENIA","Enel Americas S.A. American Dep",N/A,N/A
-"ENIC","Enel Chile S.A. American Deposi",N/A,N/A
-"EOCC","Enel Generacion Chile S.A. Amer",N/A,N/A
-"EGN","Energen Corporation",N/A,N/A
-"ENR","Energizer Holdings, Inc.",N/A,N/A
-"EPC","Edgewell Personal Care Company",N/A,N/A
-"ETE","Energy Transfer Equity, L.P. En",N/A,N/A
-"ETP","Energy Transfer Partners, L.P. ",N/A,N/A
-"ERF","Enerplus Corporation",N/A,N/A
-"ENS","Enersys",N/A,N/A
-"EGL","Engility Holdings, Inc.",N/A,N/A
-"E","ENI S.p.A.",N/A,N/A
-"ENLK","EnLink Midstream Partners, LP C",N/A,N/A
-"ENLC","EnLink Midstream, LLC Common Un",N/A,N/A
-"EBF","Ennis, Inc.",N/A,N/A
-"ENVA","Enova International, Inc.",N/A,N/A
-"NPO","EnPro Industries Inc",N/A,N/A
-"ESV","Ensco plc Class A Ordinary Shar",N/A,N/A
-"ETM","Entercom Communications Corpora",N/A,N/A
-"EAB","Entergy Arkansas, Inc. First Mo",N/A,N/A
-"EAE","Entergy Arkansas, Inc. First Mo",N/A,N/A
-"EAI","Entergy Arkansas, Inc. First Mo",N/A,N/A
-"ETR","Entergy Corporation",N/A,N/A
-"ELC","Entergy Louisiana, Inc. Collate",N/A,N/A
-"ELJ","Entergy Louisiana, Inc. First M",N/A,N/A
-"ELU","Entergy Louisiana, Inc. First M",N/A,N/A
-"EMP","Entergy Mississippi, Inc. First",N/A,N/A
-"ENJ","Entergy New Orleans, Inc. First",N/A,N/A
-"ENO","Entergy New Orleans, Inc. First",N/A,N/A
-"EZT","Entergy Texas Inc First Mortgag",N/A,N/A
-"EPD","Enterprise Products Partners L.",N/A,N/A
-"EVC","Entravision Communications Corp",N/A,N/A
-"ENV","Envestnet, Inc",N/A,N/A
-"EVHC","Envision Healthcare Corporation",N/A,N/A
-"EVHC^",N/A,N/A,N/A
-"EVA","Enviva Partners, LP Common unit",N/A,N/A
-"ENZ","Enzo Biochem, Inc.  ($0.01 Par ",N/A,N/A
-"EOG","EOG Resources, Inc.",N/A,N/A
-"EPE","EP Energy Corporation Class A",N/A,N/A
-"EPAM","EPAM Systems, Inc.",N/A,N/A
-"EPR","EPR Properties",N/A,N/A
-"EPR^C",N/A,N/A,N/A
-"EPR^E",N/A,N/A,N/A
-"EPR^F",N/A,N/A,N/A
-"EQT","EQT Corporation",N/A,N/A
-"EQGP","EQT GP Holdings, LP Common Unit",N/A,N/A
-"EQM","EQT Midstream Partners, LP Comm",N/A,N/A
-"EFX","Equifax, Inc.",N/A,N/A
-"EQC","Equity Commonwealth  of Benefic",N/A,N/A
-"EQC^D",N/A,N/A,N/A
-"EQCO","Equity Commonwealth 5.75% Senio",N/A,N/A
-"ELS","Equity Lifestyle Properties, In",N/A,N/A
-"ELS^C",N/A,N/A,N/A
-"EQR","Equity Residential  of Benefici",N/A,N/A
-"EQS","Equus Total Return, Inc.",N/A,N/A
-"ERA","Era Group, Inc.",N/A,N/A
-"EROS","Eros International PLC A Ordina",N/A,N/A
-"ESE","ESCO Technologies Inc.",N/A,N/A
-"ESNT","Essent Group Ltd.",N/A,N/A
-"ESS","Essex Property Trust, Inc.",N/A,N/A
-"EL","Estee Lauder Companies, Inc. (T",N/A,N/A
-"ESL","Esterline Technologies Corporat",N/A,N/A
-"ETH","Ethan Allen Interiors Inc.",N/A,N/A
-"EURN","Euronav NV Ordinary Shares",N/A,N/A
-"EEA","The European Equity Fund, Inc.",N/A,N/A
-"EVER","EverBank Financial Corp.",N/A,N/A
-"EVER^A",N/A,N/A,N/A
-"EVR","Evercore Partners Inc Class A",N/A,N/A
-"RE","Everest Re Group, Ltd.",N/A,N/A
-"EVRI","Everi Holdings Inc.",N/A,N/A
-"ES","Eversource Energy (D/B/A)",N/A,N/A
-"EVTC","Evertec, Inc.",N/A,N/A
-"EVH","Evolent Health, Inc Class A",N/A,N/A
-"XCO","EXCO Resources, Inc. Exco Resou",N/A,N/A
-"EXC","Exelon Corporation",N/A,N/A
-"EXCU","Exelon Corp. Conv Unit",N/A,N/A
-"EXPR","Express, Inc.",N/A,N/A
-"STAY","Extended Stay America, Inc.",N/A,N/A
-"EXTN","Exterran Corporation",N/A,N/A
-"EXR","Extra Space Storage Inc",N/A,N/A
-"XOM","Exxon Mobil Corporation",N/A,N/A
-"FNB","F.N.B. Corporation",N/A,N/A
-"FNB^E",N/A,N/A,N/A
-"FN","Fabrinet Ordinary Shares",N/A,N/A
-"FDS","FactSet Research Systems Inc.",N/A,N/A
-"FICO","Fair Isaac Corproation",N/A,N/A
-"FMSA","Fairmount Santrol Holdings Inc.",N/A,N/A
-"SFUN","Fang Holdings Limited American ",N/A,N/A
-"FPI","Farmland Partners Inc.",N/A,N/A
-"FBK","FB Financial Corporation",N/A,N/A
-"FFG","FBL Financial Group, Inc.",N/A,N/A
-"FCB","FCB Financial Holdings, Inc. Cl",N/A,N/A
-"AGM","Federal Agricultural Mortgage C",N/A,N/A
-"AGM.A",N/A,N/A,N/A
-"AGM^A",N/A,N/A,N/A
-"AGM^B",N/A,N/A,N/A
-"AGM^C",N/A,N/A,N/A
-"FRT","Federal Realty Investment Trust",N/A,N/A
-"FSS","Federal Signal Corporation",N/A,N/A
-"FII","Federated Investors, Inc.",N/A,N/A
-"FPT","Federated Premier Intermediate ",N/A,N/A
-"FMN","Federated Premier Municipal Inc",N/A,N/A
-"FDX","FedEx Corporation",N/A,N/A
-"FCH","FelCor Lodging Trust Incorporat",N/A,N/A
-"FCH^A",N/A,N/A,N/A
-"RACE","Ferrari N.V.",N/A,N/A
-"FGP","Ferrellgas Partners, L.P.",N/A,N/A
-"FOE","Ferro Corporation",N/A,N/A
-"FCAU","Fiat Chrysler Automobiles N.V.",N/A,N/A
-"FBR","Fibria Celulose S.A.",N/A,N/A
-"FGL","Fidelity & Guaranty Life",N/A,N/A
-"FNF","FNF Group of Fidelity National ",N/A,N/A
-"FNFV","FNFV Group of Fidelity National",N/A,N/A
-"FIS","Fidelity National Information S",N/A,N/A
-"FMO","Fiduciary/Claymore MLP Opportun",N/A,N/A
-"FSCE","Fifth Street Finance Corp. 5.87",N/A,N/A
-"FAC","First Acceptance Corporation",N/A,N/A
-"FAF","First American Corporation (New",N/A,N/A
-"FBP","First BanCorp. New",N/A,N/A
-"FCFS","First Cash, Inc.",N/A,N/A
-"FCF","First Commonwealth Financial Co",N/A,N/A
-"FDC","First Data Corporation Class A",N/A,N/A
-"FHN","First Horizon National Corporat",N/A,N/A
-"FHN^A",N/A,N/A,N/A
-"FR","First Industrial Realty Trust, ",N/A,N/A
-"AG","First Majestic Silver Corp. Ord",N/A,N/A
-"FPO","First Potomac Realty Trust  of ",N/A,N/A
-"FRC","FIRST REPUBLIC BANK",N/A,N/A
-"FRC^B.CL",N/A,N/A,N/A
-"FRC^C",N/A,N/A,N/A
-"FRC^D",N/A,N/A,N/A
-"FRC^E",N/A,N/A,N/A
-"FRC^F",N/A,N/A,N/A
-"FRC^G",N/A,N/A,N/A
-"FFA","First Trust Enhanced Equity Inc",N/A,N/A
-"FMY","First Trust Motgage Income Fund",N/A,N/A
-"FDEU","First Trust Dynamic Europe Equi",N/A,N/A
-"FIF","First Trust Energy Infrastructu",N/A,N/A
-"FSD","First Trust High Income Long Sh",N/A,N/A
-"FPF","First Trust Intermediate Durati",N/A,N/A
-"FEI","First Trust MLP and Energy Inco",N/A,N/A
-"FPL","First Trust New Opportunities M",N/A,N/A
-"FIV","First Trust Senior Floating Rat",N/A,N/A
-"FCT","First Trust Senior Floating Rat",N/A,N/A
+"ZEUS",17.36,"5/22/2017","4:00pm",-0.09,17.52,17.92,17.20,197664
+"OFLX",59.25,"5/22/2017","4:00pm",+0.30,58.95,60.60,59.00,18482
+"OMER",15.81,"5/22/2017","4:00pm",-0.26,15.91,16.13,15.56,378046
+"OMNT",9.66,"5/22/2017","4:00pm",-0.08,9.80,9.80,9.46,13532
+"OMCL",41.35,"5/22/2017","4:00pm",+0.40,40.90,41.45,40.55,165913
+"ON",15.57,"5/22/2017","4:00pm",+0.15,15.46,16.08,15.35,3657428
+"OTIV",1.33,"5/22/2017","3:59pm",-0.02,1.37,1.37,1.31,69227
+"ONS",1.39,"5/22/2017","3:59pm",+0.02,1.36,1.48,1.35,43444
+"ONSIW",0.38,"5/22/2017","2:11pm",-0.03,0.41,0.39,0.38,3331
+"ONSIZ",0.1203,"5/22/2017","3:58pm",-0.0197,0.1203,0.1203,0.1203,100
+"OGXI",0.36,"5/22/2017","3:58pm",+0.01,0.35,0.37,0.35,120325
+"OMED",3.66,"5/22/2017","4:00pm",+0.04,3.64,3.67,3.54,244835
+"ONTX",2.04,"5/22/2017","3:58pm",-0.05,2.09,2.10,2.01,43461
+"ONTXW",0.53,"5/16/2017","1:48pm",+0.00,N/A,N/A,N/A,0
+"ONCS",0.90,"5/22/2017","3:59pm",-0.05,0.95,0.95,0.89,131863
+"OHGI",1.0576,"5/22/2017","3:59pm",-0.0224,1.0700,1.0900,1.0100,22447
+"ONVI",4.50,"5/22/2017","3:28pm",+0.15,4.35,4.50,4.50,2569
+"OTEX",32.53,"5/22/2017","4:00pm",+0.28,32.40,32.58,32.32,357439
+"OPXA",0.6749,"5/22/2017","3:59pm",+0.0764,0.5910,0.6800,0.5700,235921
+"OPXAW",0.03,"5/22/2017","3:59pm",+0.01,0.02,0.04,0.02,3888263
+"OPGN",0.66,"5/22/2017","3:59pm",-0.11,0.78,0.78,0.66,298421
+"OPGNW",0.04,"5/22/2017","1:57pm",+0.00,0.04,0.04,0.04,14816
+"OPHT",2.51,"5/22/2017","4:00pm",+0.05,2.48,2.52,2.41,699249
+"OPK",6.52,"5/22/2017","4:00pm",-0.09,6.58,6.59,6.37,4235869
+"OBAS",10.20,"5/22/2017","3:59pm",+1.20,9.25,10.20,8.90,5093
+"OCC",2.95,"5/22/2017","4:00pm",+0.15,2.85,3.05,2.80,15524
+"OPHC",2.8501,"5/19/2017","3:53pm",+0.0000,N/A,N/A,N/A,17
+"OPB",22.40,"5/22/2017","4:00pm",-0.05,22.55,22.60,22.02,229480
+"ORMP",8.38,"5/22/2017","3:59pm",-0.10,8.50,8.64,8.31,94925
+"OSUR",14.59,"5/22/2017","4:00pm",+0.07,14.57,14.62,14.47,493125
+"ORBC",9.65,"5/22/2017","4:00pm",+0.10,9.55,9.69,9.55,153506
+"ORBK",34.50,"5/22/2017","4:00pm",-2.22,36.81,37.19,30.27,5587396
+"ORLY",248.46,"5/22/2017","4:00pm",-2.90,251.65,251.80,248.26,1831379
+"OREX",3.03,"5/22/2017","4:00pm",-0.12,3.15,3.22,2.96,160244
+"ONVO",2.81,"5/22/2017","4:00pm",+0.02,2.82,2.85,2.73,747831
+"SEED",1.66,"5/22/2017","3:59pm",+0.03,1.65,1.66,1.62,12006
+"OACQ",10.50,"5/18/2017","4:00pm",+0.00,10.50,N/A,N/A,25
+"OACQR",0.18,"5/22/2017","3:10pm",+0.00,0.18,0.20,0.18,10000
+"OACQU",10.60,"2/22/2017","10:49am",+0.00,N/A,N/A,N/A,0
+"OACQW",0.10,"5/22/2017","2:43pm",+0.00,0.10,0.10,0.10,1470
+"OESX",1.30,"5/22/2017","3:57pm",-0.09,1.38,1.39,1.28,102261
+"ORIT",16.55,"5/22/2017","4:00pm",+0.05,16.55,16.65,16.50,117525
+"ORRF",21.75,"5/22/2017","4:00pm",+0.05,21.85,21.95,21.75,2169
+"OFIX",41.73,"5/22/2017","4:00pm",-0.04,41.83,42.14,40.81,82481
+"OSIS",77.58,"5/22/2017","4:00pm",+0.57,77.19,77.66,77.00,51084
+"OSN",2.22,"5/22/2017","2:43pm",+0.06,2.22,2.26,2.21,11747
+"OTEL",6.75,"5/22/2017","1:47pm",+0.00,6.60,6.75,6.60,3825
+"OTG",N/A,N/A,N/A,+0,N/A,N/A,N/A,0
+"OTIC",13.25,"5/22/2017","4:00pm",-0.15,13.40,13.60,13.10,69779
+"OTTW",13.35,"5/22/2017","3:30pm",-0.15,13.36,13.53,13.35,3554
+"OTTR",38.00,"5/22/2017","4:00pm",+0.45,37.45,38.00,37.30,91539
+"OVAS",1.29,"5/22/2017","4:00pm",-0.03,1.33,1.39,1.26,521636
+"OSTK",14.75,"5/22/2017","4:00pm",+0.25,14.45,14.95,14.45,96759
+"OVID",14.97,"5/22/2017","4:00pm",-0.03,15.05,15.05,14.76,25766
+"OXBR",5.80,"5/22/2017","3:59pm",+0.00,5.85,5.95,5.80,20240
+"OXBRW",0.60,"5/22/2017","3:58pm",-0.05,0.65,0.65,0.60,252
+"OXFD",13.94,"5/22/2017","4:00pm",+0.01,13.93,14.27,13.78,51151
+"OXLC",10.99,"5/22/2017","4:00pm",-0.01,11.00,11.05,10.97,123370
+"OXLCN",25.639,"5/22/2017","2:24pm",-0.074,25.660,25.640,25.620,1033
+"OXLCO",25.5114,"5/22/2017","2:53pm",-0.1558,N/A,25.6600,25.4900,6088
+"PFIN",6.05,"5/22/2017","3:59pm",-0.15,6.23,6.29,6.00,16702
+"PTSI",17.17,"5/22/2017","4:00pm",+0.48,16.66,17.54,16.66,23338
+"PCAR",62.88,"5/22/2017","4:00pm",+0.05,63.06,63.38,62.72,2025674
+"PACB",3.83,"5/22/2017","4:00pm",-0.07,3.94,3.95,3.82,590767
+"PCBK",24.35,"5/22/2017","4:00pm",+0.35,24.15,24.35,23.95,69459
+"PEIX",6.45,"5/22/2017","4:00pm",+0.12,6.30,6.45,6.25,471274
+"PMBC",7.90,"5/22/2017","4:00pm",+0.00,7.90,8.00,7.85,23016
+"PPBI",33.90,"5/22/2017","4:00pm",+0.15,33.75,33.97,33.60,136485
+"PAAC",10.45,"5/22/2017","9:34am",+0.05,10.45,10.45,10.45,100
+"PAACR",0.4935,"5/22/2017","3:37pm",+0.0185,0.4600,0.4935,0.4500,32884
+"PAACU",11.34,"5/22/2017","2:39pm",+0.04,11.34,11.34,11.30,270
+"PAACW",0.425,"5/22/2017","3:26pm",+0.035,0.430,0.450,0.400,221529
+"PCRX",47.00,"5/22/2017","4:00pm",-1.30,48.35,48.72,47.00,555918
+"PACW",47.27,"5/22/2017","4:00pm",+0.17,47.32,47.43,46.81,593522
+"PTIE",3.92,"5/22/2017","4:00pm",-0.34,4.21,4.24,3.79,109008
+"PAAS",17.57,"5/22/2017","4:00pm",+0.27,17.45,17.86,17.41,1319791
+"PNRA",313.08,"5/22/2017","4:00pm",+0.03,313.05,313.22,312.95,408543
+"PANL",3.19,"5/22/2017","3:37pm",-0.11,3.30,3.45,3.19,61995
+"PZZA",78.44,"5/22/2017","4:00pm",+0.26,78.69,79.86,78.39,377865
+"FRSH",5.04,"5/22/2017","4:00pm",+0.03,5.01,5.19,4.91,367313
+"PBNC",51.27,"5/22/2017","4:00pm",+0.31,51.15,51.79,51.20,1889
+"PRTK",21.35,"5/22/2017","4:00pm",-0.20,21.75,21.80,20.85,336079
+"PRXL",79.31,"5/22/2017","4:00pm",+0.16,79.18,79.53,78.85,1407187
+"PCYG",12.20,"5/22/2017","4:00pm",+0.25,11.95,12.25,11.85,27204
+"PSTB",11.56,"5/22/2017","4:00pm",+0.04,11.54,11.64,11.39,356946
+"PKBK",20.95,"5/22/2017","4:00pm",+0.12,20.85,21.50,20.75,16171
+"PRKR",2.03,"5/22/2017","4:00pm",-0.04,2.12,2.12,2.02,99667
+"PKOH",35.55,"5/22/2017","4:00pm",+0.15,35.50,36.00,34.90,44365
+"PTNR",5.30,"5/22/2017","3:15pm",+0.28,5.35,5.43,5.23,8641
+"PBHC",15.29,"5/19/2017","1:03pm",+0.00,N/A,N/A,N/A,6
+"PATK",68.50,"5/22/2017","4:00pm",+1.75,67.30,71.70,67.05,115379
+"PNBK",16.50,"5/22/2017","1:15pm",+0.64,16.50,16.50,16.50,117
+"PATI",19.71,"5/22/2017","4:00pm",-0.79,19.71,19.71,19.71,100
+"PEGI",22.21,"5/22/2017","4:00pm",+0.21,22.02,22.22,21.92,487602
+"PDCO",43.49,"5/22/2017","4:00pm",+0.70,42.96,43.73,42.54,1902594
+"PTEN",22.47,"5/22/2017","4:00pm",-0.35,23.04,23.04,22.42,3631534
+"PAVM",3.57,"5/22/2017","3:12pm",-0.13,3.61,3.67,3.45,630
+"PAVMW",4.5251,"5/22/2017","4:04pm",+2.7751,0.7350,4.5251,4.5251,235
+"PAYX",57.82,"5/22/2017","4:00pm",+0.31,57.74,58.04,57.61,1517980
+"PCTY",44.00,"5/22/2017","4:00pm",+0.07,44.08,44.20,43.62,240926

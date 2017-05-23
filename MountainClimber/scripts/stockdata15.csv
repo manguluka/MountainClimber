@@ -1,200 +1,100 @@
-"VEACW","Vantage Energy Acquisition Corp",N/A,N/A
-"VREX","Varex Imaging Corporation",34.40,24.15
-"VRNS","Varonis Systems, Inc.",N/A,N/A
-"VDSI","VASCO Data Security Internation",15.00,10.15
-"VBLT","Vascular Biogenics Ltd. - Ordin",6.45,5.25
-"VBIV","VBI Vaccines, Inc. - Ordinary S",15.06,3.81
-"WOOF","VCA Inc.",91.96,91.75
-"VECO","Veeco Instruments Inc.",N/A,N/A
-"DGLD","VS 3X INV GOLD",N/A,N/A
-"DSLV","VS 3X INV SILVER",27.75,17.00
-"UGLD","VS 3X GOLD",12.03,9.10
-"USLV","VS 3X SILVER",12.64,11.00
-"TVIZ","VelocityShares Daily 2x VIX Med",N/A,N/A
-"TVIX","VelocityShares Daily 2x VIX Sho",27.82,27.70
-"ZIV","VelocityShares Daily Inverse VI",70.00,63.02
-"XIV","VelocityShares Daily Inverse VI",74.50,74.16
-"VIIZ","VelocityShares Daily Long VIX M",N/A,N/A
-"VIIX","VelocityShares Daily Long VIX S",N/A,N/A
-"VEON","VEON Ltd. - American Depositary",4.13,2.50
-"VRA","Vera Bradley, Inc.",9.79,7.50
-"VCYT","Veracyte, Inc.",8.26,6.19
-"VSTM","Verastem, Inc.",2.55,1.61
-"VCEL","Vericel Corporation",2.70,2.25
-"VRNT","Verint Systems Inc.",N/A,N/A
-"VRSN","VeriSign, Inc.",N/A,N/A
-"VRSK","Verisk Analytics, Inc.",82.20,74.54
-"VBTX","Veritex Holdings, Inc.",N/A,N/A
-"VERI","Veritone, Inc.",N/A,N/A
-"VRML","Vermillion, Inc.",3.49,0.90
-"VRNA","Verona Pharma plc - American De",N/A,N/A
-"VSAR","Versartis, Inc.",150.00,14.00
-"VTNR","Vertex Energy, Inc",1.68,0.76
-"VRTX","Vertex Pharmaceuticals Incorpor",119.00,100.40
-"VIA","Viacom Inc.",N/A,N/A
-"VIAB","Viacom Inc. - Class B",39.28,33.71
-"VMET","Viamet Pharmaceuticals Corp. Co",N/A,N/A
-"VSAT","ViaSat, Inc.",N/A,N/A
-"VIAV","Viavi Solutions Inc.",11.87,9.08
-"VICL","Vical Incorporated",2.68,2.05
-"VICR","Vicor Corporation",17.35,16.15
-"CIZ","Compass EMP International 500 E",N/A,N/A
-"VSDA","VictoryShares Dividend Accelera",N/A,N/A
-"CEZ","Victory CEMP Emerging Market Vo",N/A,N/A
-"CID","Compass EMP International High",N/A,N/A
-"CIL","Compass EMP International 500 V",N/A,N/A
-"CFO","VictoryShares US 500 Enhanced V",N/A,N/A
-"CFA","Compass EMP U.S. 500 Volatility",N/A,N/A
-"CSF","Compass EMP U.S. Discovery 500",N/A,N/A
-"CDC","Compass EMP US EQIncome 100 Enh",N/A,N/A
-"CDL","Compass EMP US Large Cap High D",N/A,N/A
-"CSB","Compass EMP US Small Cap High D",N/A,N/A
-"CSA","Compass EMP US Small Cap 500 Vo",N/A,N/A
-"VBND","Vident Core U.S. Bond Fund",N/A,N/A
-"VUSE","Vident Core U.S. Equity ETF",N/A,N/A
-"VIDI","Vident international Equity Fun",N/A,N/A
-"VDTH","Videocon d2h Limited - American",N/A,N/A
-"VRAY","ViewRay, Inc.",6.45,5.51
-"VKTX","Viking Therapeutics, Inc.",1.28,1.24
-"VKTXW","Viking Therapeutics, Inc.",N/A,0.25
-"VBFC","Village Bank and Trust Financia",N/A,N/A
-"VLGEA","Village Super Market, Inc.",N/A,N/A
-"VNOM","Viper Energy Partners LP",28.85,17.09
-"VIRC","Virco Manufacturing Corporation",N/A,N/A
-"VIRT","Virtu Financial, Inc.",18.00,15.05
-"VRTS","Virtus Investment Partners, Inc",N/A,N/A
-"VRTSP","Virtus Investment Partners, Inc",N/A,N/A
-"VRTU","Virtusa Corporation",N/A,N/A
-"VTGN","VistaGen Therapeutics, Inc.",2.30,1.88
-"VIST",N/A,N/A,N/A
-"VTL","Vital Therapies, Inc.",3.250,0.050
-"VIVE","Viveve Medical, Inc.",10.95,7.08
-"VVPR","VivoPower International PLC - O",N/A,N/A
-"VVUS","VIVUS, Inc.",1.10,0.80
-"VOD","Vodafone Group Plc - American D",30.00,29.01
-"VOXX","VOXX International Corporation",6.60,3.90
-"VYGR","Voyager Therapeutics, Inc.",11.24,6.30
-"VSEC","VSE Corporation",N/A,N/A
-"VTVT","vTv Therapeutics Inc.",6.43,4.80
-"VUZI","Vuzix Corporation",5.90,5.20
-"VWR","VWR Corporation",33.42,32.50
-"WBA","Walgreens Boots Alliance, Inc.",80.90,80.50
-"WAFD","Washington Federal, Inc.",N/A,N/A
-"WAFDW","Washington Federal, Inc. - Warr",N/A,N/A
-"WASH","Washington Trust Bancorp, Inc.",N/A,N/A
-"WFBI","WashingtonFirst Bankshares Inc",N/A,N/A
-"WSBF","Waterstone Financial, Inc.",19.70,0.05
-"WVE","WAVE Life Sciences Ltd. - Ordin",N/A,N/A
-"WNFM",N/A,N/A,N/A
-"WAYN","Wayne Savings Bancshares Inc.",N/A,N/A
-"WSTG","Wayside Technology Group, Inc.",N/A,N/A
-"WCFB","WCF Bancorp, Inc.",N/A,N/A
-"WDFC","WD-40 Company",N/A,N/A
-"FLAG","Forensic Accounting ETF",N/A,N/A
-"WEB","Web.com Group, Inc.",N/A,N/A
-"WBMD","WebMD Health Corp",N/A,N/A
-"WCST","Wecast Network, Inc.",3.43,2.67
-"WB","Weibo Corporation - American De",78.31,77.60
-"WEBK","Wellesley Bancorp, Inc.",N/A,N/A
-"WEN","Wendy's Company (The)",16.07,13.00
-"WERN","Werner Enterprises, Inc.",N/A,N/A
-"WSBC","WesBanco, Inc.",N/A,N/A
-"WTBA","West Bancorporation",N/A,N/A
-"WSTC","West Corporation",26.90,22.91
-"WMAR","West Marine, Inc.",7805.41,8.40
-"WABC","Westamerica Bancorporation",N/A,N/A
-"WBB","Westbury Bancorp, Inc.",21.90,19.81
-"WSTL","Westell Technologies, Inc.",0.8240,0.4000
-"WDC","Western Digital Corporation",86.99,86.66
-"WNEB","Western New England Bancorp, In",13.15,10.00
-"WLB","Westmoreland Coal Company",12.88,5.00
-"WPRT","Westport Fuel Systems Inc",1.58,1.35
-"WEYS","Weyco Group, Inc.",N/A,N/A
-"WHLR","Wheeler Real Estate Investment ",12.97,8.25
-"WHLRD","Wheeler Real Estate Investment ",25.000,22.500
-"WHLRP","Wheeler Real Estate Investment ",N/A,N/A
-"WHLRW","Wheeler Real Estate Investment ",N/A,N/A
-"WHF","WhiteHorse Finance, Inc.",14.19,12.09
-"WHFBL","WhiteHorse Finance, Inc. - 6.50",N/A,N/A
-"WFM","Whole Foods Market, Inc.",36.19,35.23
-"WILN","Wi-LAN Inc",1.700,1.300
-"WHLM","Wilhelmina International, Inc.",N/A,N/A
-"WVVI","Willamette Valley Vineyards, In",N/A,N/A
-"WVVIP","Willamette Valley Vineyards, In",N/A,N/A
-"WLDN","Willdan Group, Inc.",N/A,N/A
-"WLFC","Willis Lease Finance Corporatio",N/A,N/A
-"WLTW","Willis Towers Watson Public Lim",N/A,N/A
-"WIN","Windstream Holdings, Inc.",5.80,4.00
-"WING","Wingstop Inc.",N/A,N/A
-"WINA","Winmark Corporation",7793.70,110.15
-"WINS","Wins Finance Holdings Inc. - Or",N/A,N/A
-"WTFC","Wintrust Financial Corporation",N/A,N/A
-"WTFCM","Wintrust Financial Corporation ",N/A,N/A
-"WTFCW","Wintrust Financial Corporation ",N/A,N/A
-"AGZD","WisdomTree Barclays U.S. Aggreg",N/A,N/A
-"AGND","WisdomTree Barclays U.S. Aggreg",N/A,N/A
-"CXSE","WisdomTree China Dividend Ex-Fi",N/A,N/A
-"EMCG","WisdomTree Emerging Markets Con",N/A,N/A
-"EMCB","WisdomTree Emerging Markets Cor",72.50,71.39
-"DGRE","WisdomTree Emerging Markets Div",N/A,N/A
-"DXGE","WisdomTree Germany Hedged Equit",33.50,27.00
-"HYZD","WisdomTree BofA Merrill Lynch H",N/A,N/A
-"WETF","WisdomTree Investments, Inc.",9.96,8.19
-"DXJS","WisdomTree Japan Hedged SmallCa",N/A,N/A
-"GULF","WisdomTree Middle East Dividend",17.80,11.15
-"HYND","WisdomTree BofA Merrill Lynch H",N/A,N/A
-"CRDT","WisdomTree Global Corporate Bon",N/A,N/A
-"DGRW","WisdomTree U.S. Dividend Growth",35.98,35.64
-"DGRS","WisdomTree U.S. SmallCap Divide",N/A,32.42
-"DXPS","WisdomTree United Kingdom Hedge",24.60,21.21
-"UBND","WisdomTree Western Asset Uncons",N/A,N/A
-"WIX","Wix.com Ltd. - Ordinary Shares",74.10,70.35
-"WMIH","WMIH Corp.",1.60,1.10
-"WBKC","Wolverine Bancorp, Inc.",N/A,N/A
-"WWD","Woodward, Inc.",N/A,N/A
-"WKHS","Workhorse Group, Inc.",3.74,2.76
-"WRLD","World Acceptance Corporation",N/A,N/A
-"WPCS","WPCS International Incorporated",N/A,N/A
-"WPPGY","WPP plc - American Depositary S",N/A,N/A
-"WMGI","Wright Medical Group N.V. - Ord",N/A,N/A
-"WMGIZ","Wright Medical Group N.V. - Con",N/A,N/A
-"WSFS","WSFS Financial Corporation",N/A,N/A
-"WSFSL","WSFS Financial Corporation - 6.",N/A,N/A
-"WSCI","WSI Industries Inc.",3.35,2.50
-"WVFC","WVS Financial Corp.",N/A,N/A
-"WYNN","Wynn Resorts, Limited",121.99,112.95
-"XBIT","XBiotech Inc.",19.98,7.60
-"XELB","Xcel Brands, Inc",2.40,2.00
-"XCRA","Xcerra Corporation",9.78,9.61
-"XNCR","Xencor, Inc.",N/A,N/A
-"XBIO","Xenetic Biosciences, Inc.",N/A,N/A
-"XBKS","Xenith Bankshares, Inc.",N/A,N/A
-"XENE","Xenon Pharmaceuticals Inc.",4.35,0.70
-"XGTI","XG Technology, Inc",1.84,1.71
-"XGTIW","XG Technology, Inc - Warrants (",N/A,N/A
-"XLNX","Xilinx, Inc.",66.99,62.26
-"XOMA","XOMA Corporation",6.80,4.75
-"XPER","Xperi Corporation",40.00,25.15
-"XPLR","Xplore Technologies Corp",N/A,N/A
-"XTLB","XTL Biopharmaceuticals Ltd. - A",N/A,N/A
-"XNET","Xunlei Limited - American Depos",3.83,3.60
-"YHOO","Yahoo! Inc.",50.26,50.07
-"YNDX","Yandex N.V. - Class A Ordinary ",30.39,20.00
-"YERR","Yangtze River Development Limit",13.49,10.55
-"YTRA","Yatra Online, Inc. - Ordinary S",N/A,N/A
-"YTEN","Yield10 Bioscience, Inc.",N/A,N/A
-"YIN","Yintech Investment Holdings Lim",16.81,10.10
-"YRCW","YRC Worldwide, Inc.",8.95,7.66
-"YECO","Yulong Eco-Materials Limited - ",1.4000,0.3200
-"YY","YY Inc. - American Depositary S",54.86,51.51
-"ZFGN","Zafgen, Inc.",7.93,3.84
-"ZAGG","ZAGG Inc",N/A,N/A
-"ZAIS","ZAIS Group Holdings, Inc.",2.98,1.98
-"ZBRA","Zebra Technologies Corporation",N/A,N/A
-"Z","Zillow Group, Inc.",41.04,40.50
-"ZG","Zillow Group, Inc.",47.29,41.00
-"ZN","Zion Oil & Gas Inc",2.49,1.56
-"ZNWAA","Zion Oil & Gas Inc",N/A,0.01
-"ZION","Zions Bancorporation",44.75,32.73
-"ZIONW","Zions Bancorporation - Warrants",N/A,N/A
-"ZIONZ","Zions Bancorporation",N/A,N/A
+"ISCA",35.20,"5/22/2017","4:00pm",-0.30,35.55,35.70,35.20,142514
+"IGLD",11.40,"5/19/2017","9:33am",+0.00,11.50,N/A,N/A,301
+"IIJI",9.79,"5/22/2017","11:09am",+0.09,9.75,9.79,9.79,303
+"IDXG",2.18,"5/22/2017","4:00pm",-0.18,2.16,2.26,2.13,930612
+"XENT",23.20,"5/22/2017","4:00pm",+0.45,22.85,23.35,22.55,463096
+"INTX",4.85,"5/22/2017","4:00pm",-0.24,5.12,5.20,4.85,41114
+"IVAC",13.20,"5/22/2017","4:00pm",+0.50,12.70,13.40,12.70,198078
+"INTL",34.41,"5/22/2017","4:00pm",+0.29,34.11,34.70,34.11,49334
+"ITCI",10.60,"5/22/2017","4:00pm",-0.09,10.71,10.89,10.41,249154
+"IIN",7.60,"5/22/2017","4:00pm",-0.15,7.60,7.73,7.50,31080
+"INTU",127.16,"5/22/2017","4:00pm",+1.78,125.50,127.28,125.16,1719844
+"ISRG",892.04,"5/22/2017","4:00pm",+21.71,877.00,897.36,876.09,444297
+"INVT",0.17,"5/22/2017","3:59pm",+0.00,0.18,0.19,0.17,370570
+"SNAK",4.35,"5/22/2017","4:00pm",+0.13,4.24,4.39,4.24,118683
+"ISTR",22.50,"5/22/2017","4:00pm",+0.05,22.60,22.70,22.45,13628
+"ISBC",13.19,"5/22/2017","4:00pm",+0.08,13.15,13.25,13.05,2044428
+"ITIC",189.87,"5/22/2017","4:00pm",+1.04,188.88,190.01,188.45,4309
+"NVIV",2.05,"5/22/2017","4:00pm",-0.10,2.15,2.20,2.00,345333
+"IVTY",7.70,"5/22/2017","4:00pm",+0.35,7.50,7.90,7.45,373702
+"IONS",44.76,"5/22/2017","4:00pm",+1.21,43.69,44.82,43.07,1296310
+"IPAS",1.32,"5/22/2017","4:00pm",+0.04,1.27,1.36,1.27,240052
+"DTYS",16.6176,"5/22/2017","3:11pm",+0.1476,16.3100,16.6400,16.3100,6250
+"DTYL",76.61,"4/6/2017","11:49am",+0.00,N/A,N/A,N/A,0
+"DTUS",30.459,"5/19/2017","3:48pm",+0.000,N/A,N/A,N/A,114
+"DTUL",63.84,"3/27/2017","9:30am",+0.00,N/A,N/A,N/A,0
+"DFVS",28.0297,"5/18/2017","3:34pm",+0.0000,N/A,N/A,N/A,8
+"DFVL",66.2895,"5/11/2017","12:23pm",+0.0000,N/A,N/A,N/A,0
+"FLAT",59.77,"5/10/2017","11:25am",+0.00,N/A,N/A,N/A,0
+"DLBS",17.70,"5/22/2017","3:59pm",-0.26,17.70,17.80,17.70,303
+"DLBL",74.42,"3/17/2017","12:08pm",+0.00,N/A,N/A,N/A,0
+"STPP",33.33,"5/22/2017","1:27pm",-0.42,33.26,33.33,33.26,250
+"IPGP",136.89,"5/22/2017","4:00pm",+0.92,136.50,137.39,135.72,222595
+"IRMD",8.30,"5/22/2017","4:00pm",-0.15,8.40,8.41,8.30,23191
+"IRTC",35.03,"5/22/2017","4:00pm",-0.47,35.50,35.59,34.73,225930
+"IRIX",8.95,"5/22/2017","4:00pm",-0.08,9.02,9.73,8.70,70449
+"IRDM",9.95,"5/22/2017","4:00pm",+0.00,9.90,10.07,9.88,503220
+"IRDMB",354.00,"4/10/2017","10:00am",+0.00,N/A,N/A,N/A,0
+"IRBT",96.02,"5/22/2017","4:00pm",+2.80,94.47,96.23,94.01,562889
+"IRWD",18.00,"5/22/2017","4:00pm",+0.34,17.70,18.05,17.63,758174
+"IRCP",45.825,"5/22/2017","3:19pm",-0.275,46.290,46.000,45.825,581
+"PMPT",24.85,"5/19/2017","1:59pm",+0.00,N/A,N/A,N/A,0
+"SLQD",50.56,"5/22/2017","3:47pm",+0.00,50.56,50.56,50.54,31300
+"TLT",123.37,"5/22/2017","4:00pm",-0.34,123.43,123.56,123.26,4063071
+"AIA",56.33,"5/22/2017","4:00pm",+0.45,56.11,56.38,56.11,18506
+"COMT",33.82,"5/22/2017","4:00pm",+0.22,33.75,33.83,33.71,14693
+"IXUS",57.83,"5/22/2017","4:00pm",+0.10,57.82,57.89,57.73,260626
+"FALN",27.49,"5/22/2017","3:58pm",+0.18,27.46,27.49,27.43,4204
+"IFEU",37.92,"5/22/2017","3:44pm",+0.45,37.72,37.93,37.72,4295
+"IFGL",28.75,"5/22/2017","4:00pm",+0.14,28.70,28.78,28.70,84845
+"IGF",44.19,"5/22/2017","4:00pm",+0.30,44.08,44.25,43.94,57053
+"GNMA",49.91,"5/22/2017","4:00pm",-0.10,49.90,50.04,49.89,7915
+"HYXE",52.0825,"5/22/2017","9:33am",+0.1125,N/A,52.0825,52.0700,227
+"JKI",146.07,"5/22/2017","3:59pm",+0.84,145.45,146.07,145.45,16960
+"ACWX",46.05,"5/22/2017","4:00pm",+0.12,46.04,46.10,45.97,338782
+"ACWI",65.51,"5/22/2017","4:00pm",+0.26,65.36,65.54,65.36,1498813
+"AAXJ",66.62,"5/22/2017","4:00pm",+0.20,66.58,66.71,66.49,710312
+"EWZS",12.51,"5/22/2017","3:59pm",-0.50,12.78,12.80,12.31,139624
+"MCHI",53.85,"5/22/2017","4:00pm",+0.61,53.69,53.93,53.61,980995
+"ESGD",63.74,"5/22/2017","3:59pm",+0.24,63.87,63.87,63.69,9206
+"SCZ",58.07,"5/22/2017","4:00pm",+0.13,58.06,58.16,58.03,724368
+"ESGE",63.78,"5/22/2017","3:54pm",+0.07,63.75,63.81,63.72,10621
+"EEMA",63.99,"5/22/2017","4:00pm",+0.39,63.80,63.99,63.80,17785
+"EUFN",22.18,"5/22/2017","3:59pm",+0.01,22.26,22.26,22.11,1606558
+"IEUS",52.74,"5/22/2017","3:58pm",+0.29,52.86,52.86,52.61,32935
+"MPCT",54.45,"5/22/2017","3:52pm",+0.60,54.58,54.58,54.45,3491
+"ENZL",43.55,"5/22/2017","4:00pm",+0.33,43.23,43.74,43.23,18032
+"QAT",18.86,"5/22/2017","3:51pm",-0.21,18.87,19.02,18.86,841
+"UAE",17.17,"5/22/2017","3:59pm",-0.22,17.39,17.28,17.17,3190
+"ESGU",52.42,"5/22/2017","3:45pm",+0.18,52.34,52.42,52.34,404
+"IBB",291.32,"5/22/2017","4:00pm",+0.87,290.52,291.47,288.85,876624
+"SOXX",145.26,"5/22/2017","4:00pm",+1.57,144.62,145.32,144.29,666693
+"EMIF",30.98,"5/22/2017","3:51pm",-0.26,31.27,31.27,30.98,1788
+"ICLN",8.58,"5/22/2017","3:59pm",-0.01,8.60,8.64,8.58,28451
+"WOOD",60.00,"5/22/2017","4:00pm",+0.48,59.56,60.12,59.56,9208
+"INDY",33.48,"5/22/2017","4:00pm",-0.04,33.50,33.51,33.40,57479
+"ISHG",80.9771,"5/22/2017","3:31pm",+0.1371,81.2700,81.1049,80.8300,3216
+"IGOV",94.78,"5/22/2017","3:59pm",+0.06,94.88,95.10,94.73,66288
+"ISRL",116.95,"5/22/2017","2:13pm",+5.75,109.10,116.95,112.50,431
+"ITI",5.91,"5/22/2017","4:00pm",+0.08,5.87,5.95,5.73,93319
+"ITRI",66.40,"5/22/2017","4:00pm",+1.00,65.60,66.75,65.50,166622
+"ITRN",31.25,"5/22/2017","4:00pm",+0.05,31.30,31.45,31.05,37744
+"ITUS",1.00,"5/22/2017","4:00pm",+0.00,1.05,1.05,0.95,39053
+"IVENC",99.99,"3/8/2017","4:52pm",+0.00,N/A,N/A,N/A,0
+"IVFGC",99.99,"3/8/2017","4:52pm",+0.00,N/A,N/A,N/A,0
+"IVFVC",99.99,"3/8/2017","4:52pm",+0.00,N/A,N/A,N/A,0
+"IXYS",14.85,"5/22/2017","4:00pm",+0.15,14.60,14.90,14.45,102520
+"IZEA",2.66,"5/22/2017","10:05am",-0.08,2.78,2.78,2.66,703
+"JJSF",133.49,"5/22/2017","4:00pm",+2.74,131.00,134.90,130.05,77101
+"MAYS",40.9752,"5/12/2017","9:36am",+0.0000,40.6000,N/A,N/A,1
+"JBHT",84.25,"5/22/2017","4:00pm",+0.11,84.43,84.50,83.62,562893
+"JCOM",82.09,"5/22/2017","4:00pm",+0.59,81.49,82.30,80.79,209778
+"JASO",7.20,"5/22/2017","4:00pm",+0.00,7.32,7.32,7.10,182890
+"JKHY",102.14,"5/22/2017","4:00pm",+1.50,101.09,102.96,100.92,1113283
+"JACK",102.55,"5/22/2017","4:00pm",-1.53,104.13,105.47,101.79,909074
+"JXSB",30.00,"5/22/2017","1:11pm",+0.00,30.00,30.00,29.50,2894
+"JAGX",0.69,"5/22/2017","3:52pm",-0.02,0.70,0.71,0.68,73831
+"JAKK",4.40,"5/22/2017","4:00pm",+0.05,4.35,4.55,4.30,127614
+"JMBA",7.49,"5/22/2017","4:00pm",+0.23,7.23,7.56,7.22,130544
+"JRVR",40.78,"5/22/2017","4:00pm",+0.82,40.00,40.92,39.89,81588
+"SGQI",27.8405,"5/22/2017","11:21am",-0.0315,N/A,27.8600,27.8110,4125

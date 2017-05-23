@@ -9,6 +9,8 @@
 
 # Tyler: http://www.alphavantage.co/support/#api-key
 
+
+
 require 'net/http'
 require 'open-uri'
 require 'openssl'
@@ -34,8 +36,8 @@ counter = 0
 output.each do |row|
 	filename = "stockdata" + counter.to_s + ".csv"
 	`wget -nv -O "#{filename}" "#{row}"`
+	sleep 1
 	counter = counter + 1
-	sleep 2
 end
 
 puts

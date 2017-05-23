@@ -1,199 +1,100 @@
-"BHP","BHP Billiton Limited",N/A,N/A
-"BBL","BHP Billiton plc Sponsored ADR",N/A,N/A
-"BIG","Big Lots, Inc.",N/A,N/A
-"BH","Biglari Holdings Inc.",N/A,N/A
-"BBG","Bill Barrett Corporation",N/A,N/A
-"BIOA","BioAmber Inc.",N/A,N/A
-"BHVN","Biohaven Pharmaceutical Holding",N/A,N/A
-"BIO","Bio-Rad Laboratories, Inc. Clas",N/A,N/A
-"BIO.B",N/A,N/A,N/A
-"BITA","Bitauto Holdings Limited Americ",N/A,N/A
-"BKH","Black Hills Corporation",N/A,N/A
-"BKHU","Black Hills Corporation Corpora",N/A,N/A
-"BKFS","Black Knight Financial Services",N/A,N/A
-"BSM","Black Stone Minerals, L.P. Comm",N/A,N/A
-"BGIO","BlackRock 2022 Global Income Op",N/A,N/A
-"BJZ","Blackrock California Municipal ",N/A,N/A
-"BFZ","BlackRock California Municipal ",N/A,N/A
-"CII","Blackrock Capital and Income Fu",N/A,N/A
-"BHK","Blackrock Core Bond Trust Black",N/A,N/A
-"HYT","Blackrock Corporate High Yield ",N/A,N/A
-"BTZ","BlackRock Credit Allocation Inc",N/A,N/A
-"DSU","Blackrock Debt Strategies Fund,",N/A,N/A
-"BHL","Blackrock Defined Opportunity C",N/A,N/A
-"BGR","BlackRock Energy and Resources ",N/A,N/A
-"BDJ","Blackrock Enhanced Equity Divid",N/A,N/A
-"EGF","Blackrock Enhanced Government F",N/A,N/A
-"FRA","Blackrock Floating Rate Income ",N/A,N/A
-"BFO","Blackrock Florida Municipal 202",N/A,N/A
-"BGT","BlackRock Floating Rate Income ",N/A,N/A
-"BOE","Blackrock Global Blackrock Glob",N/A,N/A
-"BME","Blackrock Health Sciences Trust",N/A,N/A
-"BAF","BlackRock Municipal Income Inve",N/A,N/A
-"BKT","BlackRock Income Trust Inc. (Th",N/A,N/A
-"BGY","BLACKROCK INTERNATIONAL, LTD. B",N/A,N/A
-"BKN","BlackRock Investment Quality Mu",N/A,N/A
-"BTA","BlackRock Long-Term Municipal A",N/A,N/A
-"BIT","BlackRock Multi-Sector Income T",N/A,N/A
-"MUI","Blackrock Muni Intermediate Dur",N/A,N/A
-"MNE","Blackrock Muni New York Interme",N/A,N/A
-"MUA","Blackrock MuniAssets Fund, Inc",N/A,N/A
-"BPK","Blackrock Municipal 2018 Term T",N/A,N/A
-"BKK","Blackrock Municipal 2020 Term T",N/A,N/A
-"BBK","Blackrock Municipal Bond Trust",N/A,N/A
-"BBF","BlackRock Municipal Income Inve",N/A,N/A
-"BYM","Blackrock Municipal Income Qual",N/A,N/A
-"BFK","BlackRock Municipal Income Trus",N/A,N/A
-"BTT","BlackRock Municipal 2030 Target",N/A,N/A
-"MEN","Blackrock MuniEnhanced Fund, In",N/A,N/A
-"MUC","Blackrock MuniHoldings Californ",N/A,N/A
-"MUH","Blackrock MuniHoldings Fund II,",N/A,N/A
-"MHD","Blackrock MuniHoldings Fund, In",N/A,N/A
-"MFL","Blackrock MuniHoldings Investme",N/A,N/A
-"MUJ","Blackrock MuniHoldings New Jers",N/A,N/A
-"MHN","Blackrock MuniHoldings New York",N/A,N/A
-"MUE","Blackrock MuniHoldings Quality ",N/A,N/A
-"MUS","Blackrock MuniHoldings Quality ",N/A,N/A
-"MVT","Blackrock MuniVest Fund II, Inc",N/A,N/A
-"MYC","Blackrock MuniYield California ",N/A,N/A
-"MCA","Blackrock MuniYield California ",N/A,N/A
-"MYD","Blackrock MuniYield Fund, Inc.",N/A,N/A
-"MYF","Blackrock MuniYield Investment ",N/A,N/A
-"MFT","Blackrock MuniYield Investment ",N/A,N/A
-"MIY","Blackrock MuniYield Michigan Qu",N/A,N/A
-"MYJ","Blackrock MuniYield New Jersey ",N/A,N/A
-"MYN","Blackrock MuniYield New York Qu",N/A,N/A
-"MPA","Blackrock MuniYield Pennsylvani",N/A,N/A
-"MQT","Blackrock MuniYield Quality Fun",N/A,N/A
-"MYI","Blackrock MuniYield Quality Fun",N/A,N/A
-"MQY","Blackrock MuniYield Quality Fun",N/A,N/A
-"BNJ","BlackRock New Jersey Municipal ",N/A,N/A
-"BNY","BlackRock New York Municipal In",N/A,N/A
-"BLH","Blackrock New York Municipal 20",N/A,N/A
-"BQH","Blackrock New York Municipal Bo",N/A,N/A
-"BSE","Blackrock New York Municipal In",N/A,N/A
-"BCX","BlackRock Resources  of Benefic",N/A,N/A
-"BST","BlackRock Science and Technolog",N/A,N/A
-"BSD","BlackRock Strategic Municipal T",N/A,N/A
-"BUI","BlackRock Utility and Infrastru",N/A,N/A
-"BLK","BlackRock, Inc.",N/A,N/A
-"BGB","Blackstone / GSO Strategic Cred",N/A,N/A
-"BGX","Blackstone GSO Long Short Credi",N/A,N/A
-"BSL","Blackstone GSO Senior Floating ",N/A,N/A
-"BCRH","Blue Capital Reinsurance Holdin",N/A,N/A
-"BXC","Bluelinx Holdings Inc.",N/A,N/A
-"BWP","Boardwalk Pipeline Partners LP ",N/A,N/A
-"BA","Boeing Company (The)",N/A,N/A
-"BCC","Boise Cascade, L.L.C.",N/A,N/A
-"BCEI","Bonanza Creek Energy, Inc.",N/A,N/A
-"BOOT","Boot Barn Holdings, Inc.",N/A,N/A
-"BAH","Booz Allen Hamilton Holding Cor",N/A,N/A
-"BWA","BorgWarner Inc.",N/A,N/A
-"SAM","Boston Beer Company, Inc. (The)",N/A,N/A
-"BXP","Boston Properties, Inc.",N/A,N/A
-"BXP^B",N/A,N/A,N/A
-"BSX","Boston Scientific Corporation",N/A,N/A
-"BOX","Box, Inc. Class A",N/A,N/A
-"BYD","Boyd Gaming Corporation",N/A,N/A
-"BP","BP p.l.c.",N/A,N/A
-"BPT","BP Prudhoe Bay Royalty Trust",N/A,N/A
-"BRC","Brady Corporation",N/A,N/A
-"BDN","Brandywine Realty Trust",N/A,N/A
-"LND","Brasilagro Brazilian Agric Real",N/A,N/A
-"BAK","Braskem SA ADR",N/A,N/A
-"BRFS","BRF S.A.",N/A,N/A
-"BPI","Bridgepoint Education, Inc.",N/A,N/A
-"BGG","Briggs & Stratton Corporation",N/A,N/A
-"BFAM","Bright Horizons Family Solution",N/A,N/A
-"BEDU","BRIGHT SCHOLAR EDUCATION HOLDIN",N/A,N/A
-"EAT","Brinker International, Inc.",N/A,N/A
-"BCO","Brinks Company (The)",N/A,N/A
-"BMY","Bristol-Myers Squibb Company",N/A,N/A
-"BRS","Bristow Group Inc.",N/A,N/A
-"BRX","Brixmor Property Group Inc.",N/A,N/A
-"BR","Broadridge Financial Solutions,",N/A,N/A
-"BKD","Brookdale Senior Living Inc.",N/A,N/A
-"BAM","Brookfield Asset Management Inc",N/A,N/A
-"BBU","Brookfield Business Partners L.",N/A,N/A
-"BOXC","Brookfield Canada Office Proper",N/A,N/A
-"DTLA^",N/A,N/A,N/A
-"INF","Brookfield Global Listed Infras",N/A,N/A
-"BIP","Brookfield Infrastructure Partn",N/A,N/A
-"BPY","Brookfield Property Partners L.",N/A,N/A
-"RA","Brookfield Real Assets Income F",N/A,N/A
-"BEP","Brookfield Renewable Partners L",N/A,N/A
-"BRO","Brown & Brown, Inc.",N/A,N/A
-"BF.A",N/A,N/A,N/A
-"BF.B",N/A,N/A,N/A
-"BRT","BRT Apartments Corp. (MD)",N/A,N/A
-"BC","Brunswick Corporation",N/A,N/A
-"BT","BT Group plc American Depositar",N/A,N/A
-"BPL","Buckeye Partners L.P.",N/A,N/A
-"BKE","Buckle, Inc. (The)",N/A,N/A
-"BVN","Buenaventura Mining Company Inc",N/A,N/A
-"BBW","Build-A-Bear Workshop, Inc.",N/A,N/A
-"BG","Bunge Limited",N/A,N/A
-"BURL","Burlington Stores, Inc.",N/A,N/A
-"BWXT","BWX Technologies, Inc.",N/A,N/A
-"CJ","C&J Energy Services, Inc.",N/A,N/A
-"BCR","C.R. Bard, Inc.",N/A,N/A
-"GYB","CABCO Series 2004-101 Trust Gol",N/A,N/A
-"PFH","Cabco Tr Jcp 7.625",N/A,N/A
-"CAB","Cabela's Inc Class A",N/A,N/A
-"CABO","Cable One, Inc.",N/A,N/A
-"CBT","Cabot Corporation",N/A,N/A
-"COG","Cabot Oil & Gas Corporation",N/A,N/A
-"CACI","CACI International, Inc. Class ",N/A,N/A
-"CADE","Cadence Bancorporation Class A",N/A,N/A
-"CAE","CAE Inc. Ordinary Shares",N/A,N/A
-"CAI","CAI International, Inc.",N/A,N/A
-"CAA","CalAtlantic Group, Inc.",N/A,N/A
-"CAL","Caleres, Inc.",N/A,N/A
-"CCC","Calgon Carbon Corporation",N/A,N/A
-"CRC","California Resources Corporatio",N/A,N/A
-"CWT","California Water Service Group",N/A,N/A
-"CALX","Calix, Inc",N/A,N/A
-"ELY","Callaway Golf Company",N/A,N/A
-"CPE","Callon Petroleum Company",N/A,N/A
-"CPE^A",N/A,N/A,N/A
-"CPN","Calpine Corporation",N/A,N/A
-"CBM","Cambrex Corporation",N/A,N/A
-"CPT","Camden Property Trust",N/A,N/A
-"CCJ","Cameco Corporation",N/A,N/A
-"CPB","Campbell Soup Company",N/A,N/A
-"CWH","Camping World Holdings, Inc. Cl",N/A,N/A
-"GOOS","Canada Goose Holdings Inc. Subo",N/A,N/A
-"CM","Canadian Imperial Bank of Comme",N/A,N/A
-"CNI","Canadian National Railway Compa",N/A,N/A
-"CNQ","Canadian Natural Resources Limi",N/A,N/A
-"CP","Canadian Pacific Railway Limite",N/A,N/A
-"CAJ","Canon, Inc. American Depositary",N/A,N/A
-"CMD","Cantel Medical Corp.",N/A,N/A
-"COF","Capital One Financial Corporati",N/A,N/A
-"COF.WS",N/A,N/A,N/A
-"COF^C",N/A,N/A,N/A
-"COF^D",N/A,N/A,N/A
-"COF^F",N/A,N/A,N/A
-"COF^G",N/A,N/A,N/A
-"COF^H",N/A,N/A,N/A
-"COF^P",N/A,N/A,N/A
-"CSU","Capital Senior Living Corporati",N/A,N/A
-"BXMT","Blackstone Mortgage Trust, Inc.",N/A,N/A
-"CLA","Capitala Finance Corp. 7.125% N",N/A,N/A
-"CMO","Capstead Mortgage Corporation",N/A,N/A
-"CMO^E",N/A,N/A,N/A
-"CRR","Carbo Ceramics, Inc.",N/A,N/A
-"CAH","Cardinal Health, Inc.",N/A,N/A
-"CCP","Care Capital Properties, Inc.",N/A,N/A
-"CRCM","Care.com, Inc.",N/A,N/A
-"CSL","Carlisle Companies Incorporated",N/A,N/A
-"KMX","CarMax Inc",N/A,N/A
-"CCL","Carnival Corporation",N/A,N/A
-"CUK","Carnival Plc ADS ADS",N/A,N/A
-"CRS","Carpenter Technology Corporatio",N/A,N/A
-"CSV","Carriage Services, Inc.",N/A,N/A
-"CRI","Carter's, Inc.",N/A,N/A
-"CVNA","Carvana Co. Class A",N/A,N/A
-"CSLT","Castlight Health, Inc. Class B",N/A,N/A
-"CTLT","Catalent, Inc.",N/A,N/A
-"CTT","CatchMark Timber Trust, Inc. Cl",N/A,N/A
+"MAMS",6.29,"5/22/2017","3:55pm",+0.07,6.10,6.29,6.10,654
+"TUSK",19.00,"5/22/2017","4:00pm",-0.23,19.28,19.84,18.84,37743
+"MANH",47.07,"5/22/2017","4:00pm",-0.43,47.56,47.82,47.01,848790
+"LOAN",5.40,"5/22/2017","3:55pm",+0.10,5.40,5.50,5.30,27427
+"MNTX",6.89,"5/22/2017","4:00pm",+0.04,6.87,7.00,6.74,70485
+"MTEX",14.40,"5/22/2017","3:59pm",+0.50,13.85,14.40,13.65,17892
+"MNKD",1.37,"5/22/2017","4:00pm",+0.24,1.15,1.42,1.14,8735834
+"MANT",38.24,"5/22/2017","4:00pm",+0.29,38.08,38.34,37.90,96807
+"MAPI",N/A,N/A,N/A,+0.00,N/A,N/A,N/A,0
+"MARA",0.18,"5/22/2017","3:59pm",-0.09,0.29,0.29,0.16,2729375
+"MCHX",2.88,"5/22/2017","4:00pm",-0.08,2.95,2.98,2.85,93944
+"MARPS",4.0372,"5/22/2017","3:21pm",-0.0628,4.2600,4.3500,3.9901,4967
+"MRNS",1.16,"5/22/2017","4:00pm",+0.01,1.18,1.19,1.15,177772
+"MKTX",185.40,"5/22/2017","4:00pm",-1.00,186.54,188.01,184.44,117733
+"MRLN",24.95,"5/22/2017","4:00pm",+0.15,24.85,25.00,24.85,18381
+"MAR",104.22,"5/22/2017","4:00pm",+1.40,102.93,104.33,102.69,2016397
+"MBII",1.2701,"5/22/2017","3:59pm",-0.0299,1.3000,1.3000,1.2400,23739
+"MRTN",24.05,"5/22/2017","4:00pm",+0.30,23.90,24.10,23.70,191814
+"MMLP",19.00,"5/22/2017","4:00pm",+0.40,18.60,19.10,18.60,121593
+"MRVL",16.19,"5/22/2017","4:00pm",+0.18,16.12,16.66,15.97,5693437
+"MASI",85.93,"5/22/2017","4:00pm",+0.26,85.51,86.09,85.39,503594
+"MTCH",19.65,"5/22/2017","4:00pm",+0.50,19.19,19.66,19.15,930383
+"MTLS",12.95,"5/22/2017","4:00pm",+0.30,12.46,13.17,12.41,72255
+"MPAC",9.70,"5/22/2017","3:44pm",-0.02,9.70,9.70,9.65,441800
+"MPACU",10.06,"5/22/2017","1:20pm",-0.00,10.06,10.06,10.06,1709
+"MPACW",0.45,"5/22/2017","2:59pm",+0.00,N/A,0.45,0.45,800
+"MTRX",8.75,"5/22/2017","4:00pm",-0.10,8.85,9.00,8.70,219284
+"MAT",21.89,"5/22/2017","4:00pm",-0.26,22.16,22.30,21.87,6734574
+"MATR",2.65,"5/22/2017","4:00pm",+0.10,2.60,2.70,2.59,138089
+"MATW",64.30,"5/22/2017","4:00pm",+0.90,63.75,64.40,63.60,55144
+"MXIM",46.69,"5/22/2017","4:00pm",-0.16,46.86,47.04,46.68,1978209
+"MXPT",6.72,"5/22/2017","4:00pm",-0.20,6.90,6.90,6.65,12724
+"MXWL",5.53,"5/22/2017","4:00pm",-0.07,5.60,5.61,5.47,152040
+"MZOR",42.32,"5/22/2017","4:00pm",-0.63,43.30,43.33,41.70,455670
+"MBFI",41.78,"5/22/2017","4:00pm",-0.14,42.08,42.26,40.74,361591
+"MBFIP",26.1858,"5/22/2017","2:53pm",+0.0558,N/A,26.1858,26.1684,975
+"MCFT",19.00,"5/22/2017","4:00pm",-0.21,19.26,19.31,18.77,189771
+"MGRC",34.65,"5/22/2017","4:00pm",+0.64,34.07,34.71,33.39,172523
+"MDCA",8.55,"5/22/2017","4:00pm",-0.15,8.70,8.80,8.35,352928
+"MFIN",2.62,"5/22/2017","4:00pm",-0.04,2.67,2.74,2.52,279911
+"MFINL",21.70,"5/22/2017","3:54pm",+0.85,20.74,21.79,20.98,2948
+"MTBC",2.07,"5/22/2017","4:00pm",+0.17,2.10,2.48,2.00,6465284
+"MTBCP",25.47,"5/22/2017","3:01pm",+0.01,25.49,25.50,25.33,9886
+"MNOV",5.65,"5/22/2017","4:00pm",+0.14,5.60,5.75,5.57,31977
+"MDSO",72.76,"5/22/2017","4:00pm",+2.08,71.22,73.15,70.89,456354
+"MDGS",2.30,"5/22/2017","4:00pm",+0.11,2.21,2.30,2.19,23049
+"MDWD",6.80,"5/22/2017","4:00pm",-0.05,6.80,6.90,6.50,38311
+"MDVX",1.27,"5/22/2017","3:54pm",+0.03,1.23,1.30,1.21,14687
+"MDVXW",0.1911,"5/22/2017","3:40pm",-0.0066,0.1978,0.2326,0.1910,2909
+"MEDP",26.79,"5/22/2017","4:00pm",+0.35,26.50,26.92,26.46,102584
+"MEIP",1.64,"5/22/2017","3:58pm",+0.02,1.62,1.68,1.62,127581
+"MLCO",22.04,"5/22/2017","4:00pm",+0.94,22.00,22.18,21.43,3790117
+"MLNX",47.50,"5/22/2017","4:00pm",+0.40,47.20,47.90,45.10,339062
+"MELR",16.95,"5/22/2017","3:22pm",+0.10,16.95,16.95,16.85,300
+"MTSL",0.52,"5/22/2017","3:39pm",+0.07,N/A,0.52,0.52,603
+"MELI",275.37,"5/22/2017","4:00pm",+2.80,275.50,280.69,273.65,651967
+"MBWM",31.60,"5/22/2017","4:00pm",+0.39,31.28,31.93,31.10,25003
+"MERC",11.20,"5/22/2017","4:00pm",+0.05,11.10,11.27,10.95,177292
+"MRCY",39.26,"5/22/2017","4:00pm",+0.51,39.09,39.59,39.04,384516
+"EBSB",16.55,"5/22/2017","4:00pm",+0.05,16.55,16.65,16.40,97582
+"VIVO",13.70,"5/22/2017","4:00pm",+0.10,13.65,14.05,13.60,524457
+"MRDN",3.26,"5/22/2017","3:59pm",+0.08,3.22,3.30,3.22,4739
+"MRDNW",0.41,"5/17/2017","2:36pm",+0.00,N/A,N/A,N/A,0
+"MMSI",34.00,"5/22/2017","4:00pm",+0.45,33.60,34.10,33.30,251050
+"MACK",3.54,"5/22/2017","4:00pm",+0.05,3.51,3.58,3.46,1155283
+"MSLI",1.17,"5/22/2017","4:00pm",-0.01,1.18,1.20,1.17,54545
+"MRUS",19.45,"5/22/2017","3:59pm",-0.33,20.10,20.38,19.44,15403
+"MLAB",150.49,"5/22/2017","4:00pm",+5.13,145.54,152.77,145.31,24887
+"MESO",8.83,"5/22/2017","3:57pm",-0.16,8.89,8.90,8.58,25497
+"CASH",85.05,"5/22/2017","4:00pm",+1.25,84.25,85.05,83.72,51404
+"MEOH",44.10,"5/22/2017","4:00pm",-0.10,44.65,44.90,43.85,549410
+"MGCD",8.50,"5/22/2017","3:55pm",-0.05,8.30,8.54,8.30,8795
+"MGEE",63.60,"5/22/2017","4:00pm",+0.20,63.55,64.40,62.90,109077
+"MGPI",54.08,"5/22/2017","4:00pm",+0.33,53.95,54.60,53.61,114070
+"MBOT",3.22,"5/22/2017","3:59pm",+0.00,3.26,3.30,3.15,108331
+"MCHP",81.11,"5/22/2017","4:00pm",+0.93,80.29,81.32,80.18,1689956
+"MU",28.06,"5/22/2017","4:00pm",+0.24,28.20,28.25,27.65,18025825
+"MICT",0.9891,"5/22/2017","3:57pm",-0.2054,1.2000,1.2000,0.9511,120063
+"MICTW",0.125,"5/22/2017","3:19pm",+0.015,0.116,0.128,0.119,1002
+"MSCC",48.36,"5/22/2017","4:00pm",+0.20,48.56,49.88,47.84,775307
+"MSFT",68.45,"5/22/2017","4:00pm",+0.76,67.68,68.50,67.50,16237550
+"MSTR",185.22,"5/22/2017","4:00pm",+1.44,184.08,186.07,183.20,61742
+"MVIS",2.10,"5/22/2017","4:00pm",-0.01,2.11,2.12,2.08,210095
+"MPB",27.30,"5/22/2017","3:59pm",+0.45,27.30,27.30,26.65,7435
+"MTP",2.74,"5/22/2017","3:59pm",+0.16,2.62,2.74,2.57,5193
+"MCEP",2.15,"5/22/2017","3:59pm",+0.01,2.15,2.21,2.11,42379
+"MBCN",51.00,"5/22/2017","4:00pm",-0.50,51.00,51.50,49.05,5776
+"MSEX",34.35,"5/22/2017","4:00pm",+0.85,33.50,34.40,33.34,67992
+"MSBI",34.81,"5/22/2017","4:00pm",+0.43,34.60,34.97,34.43,28730
+"MOFG",34.57,"5/22/2017","4:00pm",+0.19,34.54,34.72,34.25,18080
+"MIME",27.00,"5/22/2017","4:00pm",+1.10,25.94,27.09,25.80,393210
+"MDXG",14.33,"5/22/2017","4:00pm",+0.07,14.31,14.51,14.19,915191
+"MNDO",2.48,"5/22/2017","3:59pm",-0.04,2.50,2.51,2.41,24768
+"MB",28.20,"5/22/2017","4:00pm",+0.00,28.25,28.29,27.85,440621
+"NERV",7.65,"5/22/2017","4:00pm",-0.35,8.00,8.05,7.55,107065
+"MGEN",11.45,"5/22/2017","4:00pm",+0.26,11.24,11.50,11.21,9053
+"MRTX",3.65,"5/22/2017","4:00pm",+0.00,3.65,3.80,3.50,287245
+"MIRN",1.4014,"5/22/2017","3:59pm",+0.0114,1.4400,1.4500,1.3700,194594
+"MSON",10.80,"5/22/2017","3:44pm",+0.65,10.20,10.80,10.15,4667
+"MIND",4.02,"5/22/2017","4:00pm",+0.05,3.98,4.21,3.98,7163

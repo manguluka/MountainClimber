@@ -1,197 +1,100 @@
-"RLH","Red Lions Hotels Corporation",N/A,N/A
-"RWT","Redwood Trust, Inc.",N/A,N/A
-"RBC","Regal Beloit Corporation",N/A,N/A
-"RGC","Regal Entertainment Group Class",N/A,N/A
-"REG","Regency Centers Corporation",N/A,N/A
-"REG^G",N/A,N/A,N/A
-"RM","Regional Management Corp.",N/A,N/A
-"RF","Regions Financial Corporation",N/A,N/A
-"RF^A",N/A,N/A,N/A
-"RF^B",N/A,N/A,N/A
-"RGS","Regis Corporation",N/A,N/A
-"RGA","Reinsurance Group of America, I",N/A,N/A
-"RZA","Reinsurance Group of America, I",N/A,N/A
-"RZB","Reinsurance Group of America, I",N/A,N/A
-"RS","Reliance Steel & Aluminum Co.  ",N/A,N/A
-"RENX","RELX N.V. American Depositary S",N/A,N/A
-"RELX","RELX PLC PLC American Depositar",N/A,N/A
-"RNR","RenaissanceRe Holdings Ltd.",N/A,N/A
-"RNR^C",N/A,N/A,N/A
-"RNR^E",N/A,N/A,N/A
-"SOL","Renesola Ltd. American Depsitar",N/A,N/A
-"RENN","Renren Inc. American Depositary",N/A,N/A
-"RSG","Republic Services, Inc.",N/A,N/A
-"RMD","ResMed Inc.",N/A,N/A
-"REN","Resolute Energy Corporation Com",N/A,N/A
-"RFP","Resolute Forest Products Inc.",N/A,N/A
-"RSO","Resource Capital Corp. Resource",N/A,N/A
-"RSO^A",N/A,N/A,N/A
-"RSO^B",N/A,N/A,N/A
-"RSO^C",N/A,N/A,N/A
-"QSR","Restaurant Brands International",N/A,N/A
-"RPAI","Retail Properties of America, I",N/A,N/A
-"RPAI^A",N/A,N/A,N/A
-"REVG","REV Group, Inc.",N/A,N/A
-"REV","Revlon, Inc. New",N/A,N/A
-"REX","REX American Resources Corporat",N/A,N/A
-"REXR","Rexford Industrial Realty, Inc.",N/A,N/A
-"REXR^A",N/A,N/A,N/A
-"RXN","Rexnord Corporation",N/A,N/A
-"RXN^A",N/A,N/A,N/A
-"RAI","Reynolds American Inc",N/A,N/A
-"RH","RH",N/A,N/A
-"RICE","Rice Energy Inc.",N/A,N/A
-"RMP","Rice Midstream Partners LP Comm",N/A,N/A
-"RIC","Richmont Mines, Inc.",N/A,N/A
-"RNG","Ringcentral, Inc. Class A",N/A,N/A
-"RIO","Rio Tinto Plc",N/A,N/A
-"RBA","Ritchie Bros. Auctioneers Incor",N/A,N/A
-"RAD","Rite Aid Corporation",N/A,N/A
-"RIV","RiverNorth Opportunities Fund, ",N/A,N/A
-"OPP","RiverNorth/DoubleLine Strategic",N/A,N/A
-"RLI","RLI Corp.",N/A,N/A
-"RLJ","RLJ Lodging Trust  of Beneficia",N/A,N/A
-"RRTS","Roadrunner Transportation Syste",N/A,N/A
-"RHI","Robert Half International Inc.",N/A,N/A
-"ROK","Rockwell Automation, Inc.",N/A,N/A
-"COL","Rockwell Collins, Inc.",N/A,N/A
-"RCI","Rogers Communication, Inc.",N/A,N/A
-"ROG","Rogers Corporation",N/A,N/A
-"ROL","Rollins, Inc.",N/A,N/A
-"ROP","Roper Technologies, Inc.",N/A,N/A
-"RST","Rosetta Stone Rosetta Stone, In",N/A,N/A
-"RDC","Rowan Companies plc Class A Ord",N/A,N/A
-"RY","Royal Bank Of Canada",N/A,N/A
-"RY^S",N/A,N/A,N/A
-"RY^T",N/A,N/A,N/A
-"RBS","Royal Bank of Scotland Group Pl",N/A,N/A
-"RBS^F",N/A,N/A,N/A
-"RBS^H",N/A,N/A,N/A
-"RBS^L",N/A,N/A,N/A
-"RBS^S",N/A,N/A,N/A
-"RCL","Royal Caribbean Cruises Ltd.",N/A,N/A
-"RDS.A",N/A,N/A,N/A
-"RDS.B",N/A,N/A,N/A
-"RGT","Royce Global Value Trust, Inc.",N/A,N/A
-"RMT","Royce Micro-Cap Trust, Inc.",N/A,N/A
-"RVT","Royce Value Trust, Inc.",N/A,N/A
-"RES","RPC, Inc.",N/A,N/A
-"RPM","RPM International Inc.",N/A,N/A
-"RSPP","RSP Permian, Inc.",N/A,N/A
-"RT","Ruby Tuesday, Inc.",N/A,N/A
-"RTEC","Rudolph Technologies, Inc.",N/A,N/A
-"R","Ryder System, Inc.",N/A,N/A
-"RYI","Ryerson Holding Corporation",N/A,N/A
-"RHP","Ryman Hospitality Properties, I",N/A,N/A
-"SPGI","S&P Global Inc.",N/A,N/A
-"SBR","Sabine Royalty Trust",N/A,N/A
-"SB","Safe Bulkers, Inc  ($0.001 par ",N/A,N/A
-"SB^B",N/A,N/A,N/A
-"SB^C",N/A,N/A,N/A
-"SB^D",N/A,N/A,N/A
-"SFE","Safeguard Scientifics, Inc. New",N/A,N/A
-"CRM","Salesforce.com Inc",N/A,N/A
-"SMM","Salient Midstream  of Beneficia",N/A,N/A
-"SBH","Sally Beauty Holdings, Inc. (Na",N/A,N/A
-"SJT","San Juan Basin Royalty Trust",N/A,N/A
-"SN","Sanchez Energy Corporation",N/A,N/A
-"SD","SandRidge Energy, Inc.",N/A,N/A
-"SDT","SandRidge Mississippian Trust I",N/A,N/A
-"SDR","SandRidge Mississippian Trust I",N/A,N/A
-"PER","SandRidge Permian Trust Common ",N/A,N/A
-"SNY","Sanofi American Depositary Shar",N/A,N/A
-"SC","Santander Consumer USA Holdings",N/A,N/A
-"SOV^C",N/A,N/A,N/A
-"SAP","SAP  SE ADS",N/A,N/A
-"SAB","Saratoga Investment Corp 6.75% ",N/A,N/A
-"SAR","Saratoga Investment Corp New",N/A,N/A
-"SSL","Sasol Ltd. American Depositary ",N/A,N/A
-"BFS","Saul Centers, Inc.",N/A,N/A
-"BFS^C",N/A,N/A,N/A
-"SCG","SCANA Corporation",N/A,N/A
-"SLB","Schlumberger N.V.",N/A,N/A
-"SNDR","Schneider National, Inc.",N/A,N/A
-"SWM","Schweitzer-Mauduit Internationa",N/A,N/A
-"SAIC","SCIENCE APPLICATIONS INTERNATIO",N/A,N/A
-"SALT","Scorpio Bulkers Inc.",N/A,N/A
-"SLTB","Scorpio Bulkers Inc. 7.50% Seni",N/A,N/A
-"SBBC","Scorpio Tankers Inc. 8.25% Seni",N/A,N/A
-"SBNA","Scorpio Tankers Inc. 6.75% Seni",N/A,N/A
-"SBNB","Scorpio Tankers Inc. 7.50% Seni",N/A,N/A
-"STNG","Scorpio Tankers Inc.",N/A,N/A
-"SMG","Scotts Miracle-Gro Company (The",N/A,N/A
-"LBF","Deutsche Global High Income Fun",N/A,N/A
-"KMM","Deutsche  Multi-Market Income T",N/A,N/A
-"KTF","Deutsche Municiple Income Trust",N/A,N/A
-"KST","Deutsche Strategic Income Trust",N/A,N/A
-"KSM","Deutsche Strategic Municiple In",N/A,N/A
-"SA","Seabridge Gold, Inc. Ordinary S",N/A,N/A
-"CKH","SEACOR Holdings Inc.",N/A,N/A
-"SDRL","Seadrill Limited Ordinary Share",N/A,N/A
-"SDLP","Seadrill Partners LLC Common Un",N/A,N/A
-"SEE","Sealed Air Corporation",N/A,N/A
-"SSW","Seaspan Corporation Seaspan Cor",N/A,N/A
-"SSW^D",N/A,N/A,N/A
-"SSW^E",N/A,N/A,N/A
-"SSW^G",N/A,N/A,N/A
-"SSW^H",N/A,N/A,N/A
-"SSWN","Seaspan Corporation 6.375% Note",N/A,N/A
-"SEAS","SeaWorld Entertainment, Inc.",N/A,N/A
-"JBN","Select Asset Inc. Select Asset ",N/A,N/A
-"JBR","Select Asset Inc. Corporate Bac",N/A,N/A
-"WTTR","Select Energy Services, Inc. Cl",N/A,N/A
-"SEM","Select Medical Holdings Corpora",N/A,N/A
-"SGZA","Selective Insurance Group, Inc.",N/A,N/A
-"SEMG","Semgroup Corporation Class A",N/A,N/A
-"SMI","Semiconductor  Manufacturing In",N/A,N/A
-"SRE","Sempra Energy",N/A,N/A
-"ST","Sensata Technologies Holding N.",N/A,N/A
-"SXT","Sensient Technologies Corporati",N/A,N/A
-"SQNS","Sequans Communications S.A. Ame",N/A,N/A
-"SRG","Seritage Growth Properties Clas",N/A,N/A
-"SCI","Service Corporation Internation",N/A,N/A
-"SERV","ServiceMaster Global Holdings, ",N/A,N/A
-"NOW","ServiceNow, Inc.",N/A,N/A
-"SHAK","Shake Shack, Inc. Class A",N/A,N/A
-"SJR","Shaw Communications Inc.",N/A,N/A
-"SHLX","Shell Midstream Partners, L.P. ",N/A,N/A
-"SHW","Sherwin-Williams Company (The)",N/A,N/A
-"SHG","Shinhan Financial Group Co Ltd ",N/A,N/A
-"SFL","Ship Finance International Limi",N/A,N/A
-"SHOP","Shopify Inc. Class A Subordinat",N/A,N/A
-"SSTK","Shutterstock, Inc.",N/A,N/A
-"SBGL","Sibanye Gold Limited American D",N/A,N/A
-"SIG","Signet Jewelers Limited",N/A,N/A
-"SSNI","Silver Spring Networks, Inc.",N/A,N/A
-"SBOW","SilverBow Resorces, Inc.",N/A,N/A
-"SPG","Simon Property Group, Inc.",N/A,N/A
-"SPG^J",N/A,N/A,N/A
-"SSD","Simpson Manufacturing Company, ",N/A,N/A
-"SHI","SINOPEC Shangai Petrochemical C",N/A,N/A
-"SITE","SiteOne Landscape Supply, Inc.",N/A,N/A
-"SIX","Six Flags Entertainment Corpora",N/A,N/A
-"SJW","SJW Group  (DE)",N/A,N/A
-"SKM","SK Telecom Co., Ltd.",N/A,N/A
-"SKX","Skechers U.S.A., Inc.",N/A,N/A
-"SLG","SL Green Realty Corporation",N/A,N/A
-"SLG^I",N/A,N/A,N/A
-"SM","SM Energy Company",N/A,N/A
-"SFS","Smart & Final Stores, Inc.",N/A,N/A
-"SNN","Smith & Nephew SNATS, Inc.",N/A,N/A
-"AOS","A.O. Smith Corporation",N/A,N/A
-"SNAP","Snap Inc.",N/A,N/A
-"SNA","Snap-On Incorporated",N/A,N/A
-"SQM","Sociedad Quimica y Minera S.A.",N/A,N/A
-"SLRA","Solar Capital Ltd. 6.75% Senior",N/A,N/A
-"SOI","Solaris Oilfield Infrastructure",N/A,N/A
-"SAH","Sonic Automotive, Inc.",N/A,N/A
-"SON","Sonoco Products Company",N/A,N/A
-"SNE","Sony Corporation",N/A,N/A
-"BID","Sotheby's",N/A,N/A
-"SOR","Source Capital, Inc.",N/A,N/A
-"SJI","South Jersey Industries, Inc.",N/A,N/A
-"SXE","Southcross Energy Partners, L.P",N/A,N/A
-"SCE^F",N/A,N/A,N/A
-"SCE^G",N/A,N/A,N/A
-"SCE^H",N/A,N/A,N/A
-"SCE^J",N/A,N/A,N/A
+"TXN",80.37,"5/22/2017","4:00pm",+0.07,80.48,80.93,80.05,3672132
+"TXRH",48.24,"5/22/2017","4:00pm",-0.35,48.62,48.82,48.08,758931
+"TFSL",16.10,"5/22/2017","4:00pm",+0.09,16.02,16.16,15.95,157003
+"TGTX",11.45,"5/22/2017","4:00pm",+0.10,11.35,11.65,11.15,730771
+"ABCO",50.95,"5/22/2017","4:00pm",-0.25,51.00,51.45,50.65,227895
+"ANDE",33.75,"5/22/2017","4:00pm",-0.45,34.15,34.30,33.75,92499
+"TBBK",6.14,"5/22/2017","4:00pm",-0.08,6.23,6.23,6.11,441236
+"BONT",0.62,"5/22/2017","3:58pm",-0.06,0.67,0.70,0.61,83974
+"CG",17.85,"5/22/2017","4:00pm",+0.25,17.75,18.25,17.50,1028943
+"CAKE",58.44,"5/22/2017","4:00pm",-0.49,59.02,59.50,58.34,905443
+"CHEF",15.95,"5/22/2017","4:00pm",+1.05,14.90,16.05,14.90,272084
+"TCFC",35.25,"5/22/2017","4:00pm",+0.25,35.17,35.78,34.57,4807
+"DSGX",23.90,"5/22/2017","4:00pm",-0.20,24.15,24.20,23.85,10177
+"DXYN",4.20,"5/22/2017","4:00pm",+0.10,4.15,4.30,4.15,16060
+"ENSG",18.73,"5/22/2017","4:00pm",+0.10,18.64,18.78,18.62,109482
+"XONE",14.17,"5/22/2017","4:00pm",+0.45,13.76,14.23,13.53,197306
+"FINL",14.17,"5/22/2017","4:00pm",+0.30,14.35,14.50,13.90,2154782
+"FBMS",28.20,"5/22/2017","4:00pm",+0.10,27.80,28.30,27.55,7476
+"FLIC",27.10,"5/22/2017","4:00pm",+0.20,27.05,27.20,26.70,29180
+"GT",31.82,"5/22/2017","4:00pm",+0.09,31.90,31.92,31.33,2735781
+"HABT",19.10,"5/22/2017","4:00pm",+0.20,18.95,19.15,18.80,157371
+"HCKT",14.95,"5/22/2017","4:00pm",+0.22,14.81,14.96,14.73,182187
+"HAIN",37.36,"5/22/2017","4:00pm",+0.15,37.25,37.61,37.09,751694
+"FITS",25.721,"5/22/2017","1:23pm",-0.459,N/A,25.856,25.700,2600
+"CUBA",7.03,"5/22/2017","4:00pm",+0.03,6.99,7.06,6.99,8668
+"INTG",28.50,"5/17/2017","2:29pm",+0.00,N/A,N/A,N/A,0
+"JYNT",4.02,"5/22/2017","4:00pm",-0.08,4.10,4.11,3.88,39734
+"KEYW",8.78,"5/22/2017","4:00pm",+0.11,8.71,8.88,8.71,425643
+"KHC",91.18,"5/22/2017","4:00pm",+0.90,90.11,91.33,90.04,1830532
+"OLD",26.06,"5/22/2017","3:47pm",-0.02,26.06,26.06,26.06,1311
+"MDCO",41.06,"5/22/2017","4:00pm",-1.50,42.00,42.63,40.50,2394682
+"MEET",4.66,"5/22/2017","4:00pm",+0.00,4.67,4.68,4.60,1218652
+"MIK",20.01,"5/22/2017","4:00pm",+0.19,19.83,20.15,19.78,1996735
+"MIDD",131.14,"5/22/2017","4:00pm",+2.45,129.37,131.26,128.89,225324
+"NAVG",52.05,"5/22/2017","4:00pm",+0.30,51.80,52.35,51.45,37097
+"SLIM",24.3227,"5/10/2017","3:07pm",+0.0000,24.6700,N/A,N/A,70
+"STKS",2.20,"5/22/2017","4:00pm",+0.10,2.08,2.20,2.04,5727
+"ORG",27.8817,"5/22/2017","3:55pm",+0.6325,27.4200,27.9500,27.8817,58948
+"PCLN",1828.42,"5/22/2017","4:00pm",+20.14,1815.90,1832.46,1813.37,367375
+"PRSC",46.71,"5/22/2017","4:00pm",-0.02,46.80,47.19,46.19,63647
+"RMR",48.85,"5/22/2017","4:00pm",+0.90,47.95,49.10,47.70,52579
+"SPNC",27.20,"5/22/2017","4:00pm",-0.40,27.55,27.65,27.05,184971
+"TTD",52.51,"5/22/2017","4:00pm",+2.44,49.00,53.15,48.77,1318915
+"ULTI",214.78,"5/22/2017","4:00pm",+1.46,213.14,216.07,213.05,201407
+"YORW",32.35,"5/22/2017","4:00pm",+0.20,32.20,32.55,32.10,18638
+"NCTY",0.98,"5/22/2017","2:33pm",+0.03,0.95,0.98,0.95,11680
+"TRPX",6.38,"5/22/2017","4:00pm",-0.12,6.39,6.57,6.28,13632
+"TBPH",35.82,"5/22/2017","4:00pm",-1.01,36.91,37.13,34.85,248289
+"TST",0.93,"5/22/2017","3:58pm",+0.01,0.92,0.94,0.88,55647
+"TCRD",9.88,"5/22/2017","4:00pm",+0.23,9.66,9.88,9.66,83575
+"THLD",0.485,"5/22/2017","4:00pm",-0.008,0.480,0.500,0.470,170099
+"TICC",7.37,"5/22/2017","4:00pm",+0.28,7.14,7.38,7.13,375668
+"TICCL",25.649,"5/22/2017","3:31pm",-0.031,25.550,25.740,25.540,7692
+"TIG",17.0297,"5/22/2017","3:42pm",-0.0003,17.0500,17.1200,17.0000,6372
+"TTS",20.40,"5/22/2017","4:00pm",-0.15,20.55,20.75,20.20,169077
+"TIL",4.0999,"5/17/2017","3:09pm",+0.0000,N/A,N/A,N/A,0
+"TSBK",22.59,"5/22/2017","4:00pm",-0.01,22.60,22.60,22.49,5066
+"TIPT",6.30,"5/22/2017","4:00pm",+0.10,6.15,6.35,6.10,16316
+"TITN",15.45,"5/22/2017","4:00pm",+0.30,15.25,15.51,14.90,166661
+"TTNP",2.30,"5/22/2017","4:00pm",-0.15,2.20,2.30,2.06,80793
+"TVTY",32.60,"5/22/2017","4:00pm",+0.25,32.30,32.75,32.10,241127
+"TIVO",16.30,"5/22/2017","4:00pm",+0.35,16.05,16.35,15.90,1625808
+"TMUS",67.22,"5/22/2017","4:00pm",+0.85,66.33,67.24,66.25,2736843
+"TMUSP",109.68,"5/22/2017","3:59pm",+1.38,108.55,109.68,108.92,67276
+"TOCA",15.91,"5/22/2017","4:00pm",+0.22,15.85,16.02,15.29,76369
+"TNXP",4.30,"5/22/2017","4:00pm",-0.01,4.35,4.36,4.06,295563
+"TISA",1.24,"5/22/2017","3:59pm",-0.01,1.24,1.30,1.23,34395
+"TOPS",0.505,"5/22/2017","4:00pm",-0.160,0.700,0.700,0.500,2573169
+"TORM",8.20,"5/22/2017","4:00pm",+0.20,8.20,8.25,8.20,578
+"TRCH",1.38,"5/22/2017","4:00pm",-0.03,1.40,1.42,1.36,233067
+"TSEM",25.19,"5/22/2017","4:00pm",-0.06,25.43,25.65,25.15,596820
+"CLUB",4.00,"5/22/2017","3:59pm",+0.00,4.00,4.00,3.96,14636
+"TOWN",29.65,"5/22/2017","4:00pm",+0.30,29.60,29.80,29.35,129708
+"TPIC",16.11,"5/22/2017","4:00pm",+0.24,15.86,16.20,15.82,223274
+"TCON",3.20,"5/22/2017","4:00pm",+0.00,3.20,3.30,3.05,20662
+"TSCO",56.30,"5/22/2017","4:00pm",-1.27,57.61,57.72,56.23,2278697
+"TWMC",1.60,"5/22/2017","3:59pm",-0.25,1.70,1.70,1.56,58118
+"TACT",8.30,"5/22/2017","3:59pm",-0.05,8.30,8.36,8.30,4306
+"TRNS",12.4499,"5/22/2017","2:32pm",+0.4499,12.0000,12.4499,11.9882,8923
+"TGA",1.60,"5/22/2017","3:57pm",+0.00,1.61,1.65,1.57,43186
+"TA",3.85,"5/22/2017","4:00pm",-0.10,4.05,4.10,3.83,582635
+"TANNI",24.8834,"5/22/2017","3:56pm",-0.0666,25.0000,25.0000,24.8000,25771
+"TANNL",23.86,"5/22/2017","3:24pm",-0.19,24.09,24.30,23.80,26237
+"TANNZ",24.2499,"5/22/2017","3:58pm",+0.0599,24.2700,24.3900,24.0500,15139
+"TZOO",10.20,"5/22/2017","4:00pm",+0.10,10.15,10.35,10.00,23760
+"TRVN",2.98,"5/22/2017","4:00pm",-0.11,3.09,3.12,2.97,643002
+"TCBK",35.06,"5/22/2017","4:00pm",+0.22,34.92,35.20,34.03,72789
+"TRIL",5.70,"5/22/2017","3:59pm",-0.20,5.90,6.00,5.70,27032
+"TRS",21.85,"5/22/2017","4:00pm",+0.00,21.85,22.25,21.70,74319
+"TRMB",35.67,"5/22/2017","4:00pm",+0.14,35.58,35.90,34.51,712274
+"TRIB",5.29,"5/22/2017","4:00pm",-0.03,5.35,5.54,5.25,34183
+"TRIP",42.97,"5/22/2017","4:00pm",-1.11,44.30,44.56,42.46,4673478
+"TSC",24.40,"5/22/2017","4:00pm",+0.05,24.45,24.50,24.25,68172
+"TBK",21.70,"5/22/2017","4:00pm",+0.45,21.25,21.85,21.10,120478
+"TRVG",18.50,"5/22/2017","4:00pm",-0.51,18.90,19.03,18.13,1629005
+"TRNC",11.15,"5/22/2017","4:00pm",+0.20,10.96,11.22,10.82,119875
+"TROV",0.776,"5/22/2017","4:00pm",-0.025,0.840,0.840,0.760,130172
+"TROVU",1.52,"5/22/2017","3:49pm",-0.18,1.78,1.79,1.52,1133
+"TROVW",0.08,"5/22/2017","3:56pm",-0.02,0.09,0.09,0.06,29760
+"TRUE",17.58,"5/22/2017","4:00pm",+0.07,17.53,17.64,17.34,1850624

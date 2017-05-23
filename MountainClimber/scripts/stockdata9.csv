@@ -1,200 +1,100 @@
-"MAMS","MAM Software Group, Inc.",N/A,N/A
-"TUSK","Mammoth Energy Services, Inc.",N/A,N/A
-"MANH","Manhattan Associates, Inc.",48.58,46.66
-"LOAN","Manhattan Bridge Capital, Inc",N/A,N/A
-"MNTX","Manitex International, Inc.",N/A,N/A
-"MTEX","Mannatech, Incorporated",N/A,N/A
-"MNKD","MannKind Corporation",1.18,1.12
-"MANT","ManTech International Corporati",N/A,N/A
-"MAPI",N/A,N/A,N/A
-"MARA","Marathon Patent Group, Inc.",0.48,0.16
-"MCHX","Marchex, Inc. - Class B",3.80,2.90
-"MARPS","Marine Petroleum Trust - Units ",N/A,N/A
-"MRNS","Marinus Pharmaceuticals, Inc.",1.50,0.88
-"MKTX","MarketAxess Holdings, Inc.",N/A,N/A
-"MRLN","Marlin Business Services Corp.",N/A,N/A
-"MAR","Marriott International",104.99,91.15
-"MBII","Marrone Bio Innovations, Inc.",2.30,1.24
-"MRTN","Marten Transport, Ltd.",N/A,N/A
-"MMLP","Martin Midstream Partners L.P. ",18.75,17.60
-"MRVL","Marvell Technology Group Ltd.",16.95,15.09
-"MASI","Masimo Corporation",87.65,80.22
-"MTCH","Match Group, Inc.",N/A,N/A
-"MTLS","Materialise NV - American Depos",14.50,12.06
-"MPAC","Matlin & Partners Acquisition C",N/A,N/A
-"MPACU","Matlin & Partners Acquisition C",N/A,N/A
-"MPACW","Matlin & Partners Acquisition C",N/A,N/A
-"MTRX","Matrix Service Company",12.45,8.55
-"MAT","Mattel, Inc.",22.84,20.73
-"MATR","Mattersight Corporation",N/A,N/A
-"MATW","Matthews International Corporat",N/A,N/A
-"MXIM","Maxim Integrated Products, Inc.",N/A,N/A
-"MXPT","MaxPoint Interactive, Inc.",7.07,2.15
-"MXWL","Maxwell Technologies, Inc.",5.74,5.11
-"MZOR","Mazor Robotics Ltd. - American ",43.59,42.61
-"MBFI","MB Financial Inc.",N/A,N/A
-"MBFIP","MB Financial Inc. - Perpetual N",N/A,N/A
-"MCFT","MCBC Holdings, Inc.",N/A,N/A
-"MGRC","McGrath RentCorp",N/A,N/A
-"MDCA","MDC Partners Inc. - Class A Sub",N/A,N/A
-"MFIN","Medallion Financial Corp.",2.79,1.91
-"MFINL","Medallion Financial Corp. - 9.0",N/A,N/A
-"MTBC","Medical Transcription Billing, ",2.09,1.65
-"MTBCP","Medical Transcription Billing, ",N/A,N/A
-"MNOV","MediciNova, Inc.",6.75,2.00
-"MDSO","Medidata Solutions, Inc.",N/A,N/A
-"MDGS","Medigus Ltd. - American Deposit",2.25,1.00
-"MDWD","MediWound Ltd. - Ordinary Share",N/A,N/A
-"MDVX","Medovex Corp.",3.77,0.60
-"MDVXW","Medovex Corp. - Class A Warrant",N/A,N/A
-"MEDP","Medpace Holdings, Inc.",N/A,N/A
-"MEIP","MEI Pharma, Inc.",2.27,1.57
-"MLCO","Melco Resorts & Entertainment L",21.31,21.30
-"MLNX","Mellanox Technologies, Ltd. - O",51.05,45.85
-"MELR","Melrose Bancorp, Inc.",N/A,N/A
-"MTSL","MER Telemanagement Solutions Lt",N/A,N/A
-"MELI","MercadoLibre, Inc.",281.98,220.00
-"MBWM","Mercantile Bank Corporation",N/A,N/A
-"MERC","Mercer International Inc.",13.25,7.15
-"MRCY","Mercury Systems Inc",50.00,33.89
-"EBSB","Meridian Bancorp, Inc.",N/A,N/A
-"VIVO","Meridian Bioscience Inc.",20.45,4.85
-"MRDN","Meridian Waste Solutions, Inc",3.44,2.51
-"MRDNW","Meridian Waste Solutions, Inc -",N/A,N/A
-"MMSI","Merit Medical Systems, Inc.",N/A,N/A
-"MACK","Merrimack Pharmaceuticals, Inc.",3.98,3.27
-"MSLI","Merus Labs International Inc.",1.24,0.32
-"MRUS","Merus N.V.",N/A,N/A
-"MLAB","Mesa Laboratories, Inc.",N/A,N/A
-"MESO","Mesoblast Limited - American De",N/A,N/A
-"CASH","Meta Financial Group, Inc.",N/A,N/A
-"MEOH","Methanex Corporation",52.60,40.55
-"MGCD","MGC Diagnostics Corporation",N/A,N/A
-"MGEE","MGE Energy Inc.",N/A,N/A
-"MGPI","MGP Ingredients, Inc.",N/A,N/A
-"MBOT","Microbot Medical Inc.",N/A,N/A
-"MCHP","Microchip Technology Incorporat",N/A,N/A
-"MU","Micron Technology, Inc.",27.75,27.70
-"MICT","Micronet Enertec Technologies, ",1.2500,1.1600
-"MICTW","Micronet Enertec Technologies, ",N/A,N/A
-"MSCC","Microsemi Corporation",N/A,N/A
-"MSFT","Microsoft Corporation",67.66,67.50
-"MSTR","MicroStrategy Incorporated",N/A,N/A
-"MVIS","Microvision, Inc.",2.30,1.11
-"MPB","Mid Penn Bancorp",N/A,N/A
-"MTP","Midatech Pharma PLC - American ",N/A,N/A
-"MCEP","Mid-Con Energy Partners, LP",2.16,1.90
-"MBCN","Middlefield Banc Corp.",N/A,N/A
-"MSEX","Middlesex Water Company",N/A,N/A
-"MSBI","Midland States Bancorp, Inc.",N/A,N/A
-"MOFG","MidWestOne Financial Group, Inc",N/A,N/A
-"MIME","Mimecast Limited - Ordinary Sha",29.99,26.00
-"MDXG","MiMedx Group, Inc",15.55,13.73
-"MNDO","MIND C.T.I. Ltd. - Ordinary Sha",2.53,2.05
-"MB","MINDBODY, Inc.",N/A,N/A
-"NERV","Minerva Neurosciences, Inc",14.00,8.00
-"MGEN","Miragen Therapeutics, Inc.",30.00,10.85
-"MRTX","Mirati Therapeutics, Inc.",4.05,3.25
-"MIRN","Mirna Therapeutics, Inc.",1.99,1.35
-"MSON","MISONIX, Inc.",N/A,N/A
-"MIND","Mitcham Industries, Inc.",5.99,3.50
-"MINDP","Mitcham Industries, Inc. - Seri",N/A,N/A
-"MITK","Mitek Systems, Inc.",9.00,8.55
-"MITL","Mitel Networks Corporation",N/A,N/A
-"MKSI","MKS Instruments, Inc.",N/A,N/A
-"MMAC","MMA Capital Management, LLC",N/A,N/A
-"MINI","Mobile Mini, Inc.",N/A,N/A
-"MOBL","MobileIron, Inc.",N/A,N/A
-"MOCO","MOCON, Inc.",29.95,29.05
-"MMDMU","Modern Media Acquisition Corp. ",N/A,N/A
-"MLNK","ModusLink Global Solutions, Inc",N/A,N/A
-"MBRX","Moleculin Biotech, Inc.",1.38,0.70
-"MNTA","Momenta Pharmaceuticals, Inc.",15.70,14.25
-"MOMO","Momo Inc. - American Depositary",43.86,43.60
-"MCRI","Monarch Casino & Resort, Inc.",N/A,N/A
-"MDLZ","Mondelez International, Inc.",45.71,43.20
-"MGI","Moneygram International, Inc.",17.44,15.62
-"MPWR","Monolithic Power Systems, Inc.",N/A,N/A
-"TYPE","Monotype Imaging Holdings Inc.",N/A,N/A
-"MNRO","Monro Muffler Brake, Inc.",50.40,50.30
-"MRCC","Monroe Capital Corporation",7660.42,12.13
-"MNST","Monster Beverage Corporation",52.37,47.58
-"MSDI","Monster Digital, Inc.",1.1000,0.3200
-"MSDIW","Monster Digital, Inc. - Warrant",N/A,N/A
-"MORN","Morningstar, Inc.",N/A,N/A
-"MOSY","MoSys, Inc.",1.25,0.32
-"MTFB","Motif Bio plc - ADR",199999.9844,5.1500
-"MTFBW","Motif Bio plc - Warrant",N/A,N/A
-"MPAA","Motorcar Parts of America, Inc.",N/A,N/A
-"MPVD","Mountain Province Diamonds Inc.",N/A,N/A
-"MOXC","Moxian, Inc.",3.20,3.19
-"MRIC","MRI INTERVENTIONS",N/A,N/A
-"MRVC","MRV Communications, Inc.",N/A,N/A
-"MSBF","MSB Financial Corp.",N/A,N/A
-"MSG","The Madison Square Garden Compa",N/A,N/A
-"MTGE","MTGE Investment Corp.",27.00,14.75
-"MTGEP","MTGE Investment Corp. - 8.125% ",N/A,N/A
-"MTSC","MTS Systems Corporation",N/A,N/A
-"LABL","Multi-Color Corporation",N/A,N/A
-"MFSF","MutualFirst Financial Inc.",N/A,N/A
-"MYSZ","My Size, Inc.",1.25,1.08
-"MYL","Mylan N.V.",39.60,37.55
-"MYOK","MyoKardia, Inc.",N/A,N/A
-"MYOS","MYOS RENS Technology Inc.",2.80,1.00
-"MYRG","MYR Group, Inc.",32.40,27.20
-"MYGN","Myriad Genetics, Inc.",25.52,15.28
-"NBRV","Nabriva Therapeutics AG - Ameri",7936.91,8.15
-"NAKD","Naked Brand Group Inc.",2.30,2.15
-"NNDM","Nano Dimension Ltd. - American ",N/A,N/A
-"NANO","Nanometrics Incorporated",N/A,N/A
-"NSTG","NanoString Technologies, Inc.",N/A,N/A
-"NH","NantHealth, Inc.",3.86,3.00
-"NK","NantKwest, Inc.",4.70,2.12
-"NSSC","NAPCO Security Technologies, In",N/A,N/A
-"NDAQ","Nasdaq, Inc.",70.88,55.57
-"NTRA","Natera, Inc.",10.55,0.70
-"NATH","Nathan's Famous, Inc.",N/A,N/A
-"NAUH","National American University Ho",N/A,N/A
-"NKSH","National Bankshares, Inc.",N/A,N/A
-"FIZZ","National Beverage Corp.",88.00,75.00
-"NCMI","National CineMedia, Inc.",11.00,7.14
-"NCOM","National Commerce Corporation",N/A,N/A
-"NESRU","National Energy Services Reunit",N/A,N/A
-"NGHC","National General Holdings Corp",N/A,N/A
-"NGHCN","National General Holdings Corp ",N/A,N/A
-"NGHCO","National General Holdings Corp ",26.49,24.02
-"NGHCP","National General Holdings Corp ",N/A,N/A
-"NGHCZ","National General Holdings Corp ",25.99,23.02
-"NHLD","National Holdings Corporation",3.22,0.61
-"NHLDW","National Holdings Corporation -",N/A,N/A
-"NATI","National Instruments Corporatio",N/A,N/A
-"NRCIA","National Research Corporation",N/A,N/A
-"NRCIB","National Research Corporation",N/A,N/A
-"NSEC","National Security Group, Inc.",N/A,N/A
-"NWLI","National Western Life Group, In",N/A,N/A
-"NAII","Natural Alternatives Internatio",10.75,3.35
-"NHTC","Natural Health Trends Corp. - C",29.25,5.12
-"NATR","Nature's Sunshine Products, Inc",12.30,11.00
-"BABY","Natus Medical Incorporated",38.80,23.05
-"ISM","Navient Corporation - Medium Te",N/A,N/A
-"JSM","Navient Corporation - 6% Senior",N/A,N/A
-"NAVI","Navient Corporation",14.39,7.72
-"NBCP",N/A,N/A,N/A
-"NBTB","NBT Bancorp Inc.",N/A,N/A
-"NCIT","NCI, Inc.",N/A,N/A
-"NCSM","NCS Multistage Holdings, Inc.",24.24,19.60
-"NKTR","Nektar Therapeutics",22.80,15.19
-"NEOG","Neogen Corporation",N/A,N/A
-"NEO","NeoGenomics, Inc.",N/A,N/A
-"NEON","Neonode Inc.",1.37,1.10
-"NEOS","Neos Therapeutics, Inc.",10.05,8.30
-"NEOT","Neothetics, Inc.",2.48,2.00
-"NVCN","Neovasc Inc.",1.70,1.30
-"NEPT","Neptune Technologies & Bioresou",1.85,0.32
-"UEPS","Net 1 UEPS Technologies, Inc.",10.99,8.14
-"NETE","Net Element, Inc.",1.03,0.72
-"NTAP","NetApp, Inc.",45.00,35.82
-"NTES","NetEase, Inc. - American Deposi",287.25,282.62
-"NFLX","Netflix, Inc.",156.88,156.80
-"NTGR","NETGEAR, Inc.",N/A,N/A
-"NLST","Netlist, Inc.",2.60,1.20
+"ECYT",2.61,"5/22/2017","4:00pm",+0.00,2.62,2.68,2.56,250553
+"ELGX",4.56,"5/22/2017","4:00pm",+0.12,4.46,4.71,4.31,3406390
+"NDRA",N/A,N/A,N/A,+0.00,N/A,N/A,N/A,0
+"NDRAU",5.10,"5/22/2017","3:21pm",+0.07,5.10,5.22,5.03,6599
+"NDRAW",N/A,N/A,N/A,+0.00,N/A,N/A,N/A,0
+"EIGI",7.55,"5/22/2017","4:00pm",+0.05,7.45,7.60,7.44,247762
+"WATT",16.15,"5/22/2017","4:00pm",+0.97,15.00,16.38,15.00,632939
+"EFOI",3.19,"5/22/2017","4:00pm",+0.01,3.15,3.20,3.15,13211
+"EHR",N/A,N/A,N/A,+0.00,N/A,N/A,N/A,0
+"ERII",7.97,"5/22/2017","4:00pm",+0.07,7.92,8.05,7.85,242017
+"EXXI",26.68,"5/22/2017","4:00pm",-0.02,26.70,26.75,26.29,93221
+"ENOC",5.60,"5/22/2017","4:00pm",+0.05,5.60,5.68,5.50,68443
+"ENG",1.35,"5/22/2017","3:56pm",-0.05,1.39,1.40,1.34,87604
+"ENPH",0.7849,"5/22/2017","4:00pm",+0.0609,0.7390,0.7990,0.7332,2211761
+"ESGR",186.00,"5/22/2017","4:00pm",+1.30,185.80,188.50,184.30,25925
+"ENFC",23.75,"5/22/2017","4:00pm",+0.40,23.70,23.75,23.25,6475
+"ENTG",24.30,"5/22/2017","4:00pm",+0.95,23.90,24.33,23.45,1228045
+"ENTL",12.98,"5/22/2017","4:00pm",+0.00,12.98,13.14,12.91,53565
+"ETRM",4.59,"5/22/2017","4:00pm",+0.02,4.49,4.59,4.31,301989
+"EBTC",29.95,"5/22/2017","4:00pm",+0.03,30.06,30.06,29.51,7460
+"EFSC",40.95,"5/22/2017","4:00pm",+0.10,40.90,41.00,40.40,68951
+"EGT",2.28,"5/22/2017","3:58pm",+0.05,2.23,2.30,2.23,24056
+"ENZY",8.15,"5/22/2017","3:59pm",-0.20,8.35,8.25,8.10,9173
+"EPZM",16.70,"5/22/2017","4:00pm",-1.20,17.85,18.00,16.40,562030
+"PLUS",73.80,"5/22/2017","4:00pm",+0.55,73.55,74.95,73.30,75033
+"EQIX",434.68,"5/22/2017","4:00pm",+7.94,425.31,435.35,425.31,407429
+"EQFN",10.35,"5/19/2017","3:42pm",+0.00,10.60,N/A,N/A,11
+"EQBK",29.92,"5/22/2017","4:00pm",+0.33,29.89,30.34,29.67,11550
+"ERIC",6.67,"5/22/2017","4:00pm",+0.08,6.65,6.69,6.64,2170792
+"ERIE",115.47,"5/22/2017","4:00pm",+0.03,115.58,116.66,114.93,13068
+"ESCA",12.10,"5/22/2017","4:00pm",+0.25,11.85,12.20,11.89,7376
+"ESPR",33.76,"5/22/2017","4:00pm",+0.45,33.80,34.47,32.19,720852
+"ESSA",14.74,"5/22/2017","4:00pm",+0.25,14.52,14.83,14.55,7632
+"EPIX",2.3107,"5/22/2017","3:44pm",+0.0207,2.4500,2.4500,2.1500,6000
+"ESND",16.12,"5/22/2017","4:00pm",-0.05,16.18,16.26,16.07,132345
+"ETSY",13.15,"5/22/2017","4:00pm",-0.16,13.34,13.41,12.95,2012116
+"CLWT",3.25,"5/22/2017","3:57pm",+0.00,3.05,3.25,3.05,1513
+"EEFT",84.42,"5/22/2017","4:00pm",+0.96,83.74,84.54,83.53,170275
+"ESEA",1.302,"5/22/2017","3:52pm",+0.012,1.280,1.330,1.260,19705
+"EVEP",1.255,"5/22/2017","3:58pm",-0.045,1.310,1.340,1.220,235937
+"EVBG",25.13,"5/22/2017","4:00pm",+0.12,25.15,25.23,24.84,117313
+"EVK",2.65,"5/19/2017","3:50pm",+0.00,N/A,N/A,N/A,1
+"MRAM",11.08,"5/22/2017","3:59pm",+1.18,10.14,12.00,10.13,628533
+"EVLV",1.17,"5/22/2017","4:00pm",+0.00,1.17,1.20,1.13,279261
+"EVGN",5.28,"5/22/2017","12:35pm",+0.03,5.76,5.28,5.28,1411
+"EVOK",2.62,"5/22/2017","3:59pm",-0.01,2.63,2.63,2.55,33515
+"EVOL",5.075,"5/22/2017","3:59pm",-0.075,5.050,5.150,5.000,15671
+"EXA",13.06,"5/22/2017","4:00pm",+0.26,12.80,13.16,12.82,22868
+"EXAS",31.80,"5/22/2017","4:00pm",+1.32,30.71,31.83,30.17,1749163
+"EXAC",30.75,"5/22/2017","4:00pm",+0.60,30.35,30.85,30.30,20546
+"EXEL",19.30,"5/22/2017","4:00pm",-0.38,19.73,20.00,19.03,4235300
+"EXFO",4.675,"5/22/2017","3:59pm",+0.025,4.650,4.700,4.650,1564
+"EXLS",51.00,"5/22/2017","4:00pm",+0.89,50.22,51.09,50.22,123317
+"EXPE",142.51,"5/22/2017","4:00pm",+0.92,142.14,143.12,141.48,1579777
+"EXPD",53.05,"5/22/2017","4:00pm",+0.30,52.83,53.12,52.42,1655579
+"EXPO",60.95,"5/22/2017","4:00pm",+0.80,60.20,61.05,60.20,53681
+"ESRX",60.31,"5/22/2017","4:00pm",+0.20,60.05,60.56,59.76,2986719
+"XOG",16.22,"5/22/2017","4:00pm",-0.22,16.54,16.55,15.79,1007420
+"EXTR",9.21,"5/22/2017","4:00pm",+0.32,8.95,9.23,8.92,1152825
+"EYEG",1.88,"5/22/2017","4:00pm",+0.06,2.12,2.43,1.87,2380935
+"EYEGW",0.1401,"5/22/2017","11:46am",-0.0013,0.2523,0.2900,0.1400,6030
+"EZPW",8.50,"5/22/2017","4:00pm",+0.00,8.50,8.60,8.40,223015
+"FFIV",128.55,"5/22/2017","4:00pm",+1.40,127.54,129.22,127.25,662070
+"FB",148.24,"5/22/2017","4:00pm",+0.18,148.08,148.59,147.69,12585512
+"FRP",14.00,"5/22/2017","4:00pm",-0.15,14.15,14.30,13.95,207317
+"FALC",0.26,"5/22/2017","4:00pm",+0.01,0.25,0.26,0.24,14785
+"DAVE",4.00,"5/22/2017","3:59pm",+0.10,3.90,4.05,3.90,32460
+"FANH",8.40,"5/22/2017","4:00pm",-0.47,8.99,9.00,8.40,39583
+"FARM",30.15,"5/22/2017","4:00pm",-0.70,30.90,30.95,29.95,114061
+"FMAO",58.00,"5/22/2017","4:00pm",+0.26,57.48,58.00,55.35,3549
+"FFKT",39.00,"5/22/2017","4:00pm",+0.40,38.75,39.00,38.56,8069
+"FMNB",13.65,"5/22/2017","4:00pm",+0.05,13.65,13.70,13.50,18181
+"FARO",35.20,"5/22/2017","4:00pm",+0.30,35.00,35.25,34.65,61862
+"FAST",44.37,"5/22/2017","4:00pm",+0.79,43.59,44.43,43.52,2194268
+"FATE",3.78,"5/22/2017","4:00pm",-0.19,3.98,4.03,3.77,151065
+"FBSS",18.03,"5/22/2017","3:59pm",+0.03,18.03,18.06,18.00,8550
+"FBRC",16.75,"5/22/2017","4:00pm",+0.10,18.05,18.05,16.50,299958
+"FNHC",15.32,"5/22/2017","4:00pm",+0.30,15.06,15.43,15.07,53431
+"FHCO",1.02,"5/22/2017","3:59pm",-0.03,1.06,1.06,1.01,71221
+"FENX",0.8917,"5/22/2017","4:00pm",+0.1308,0.7547,0.9100,0.7547,156621
+"GSM",10.01,"5/22/2017","4:00pm",+0.80,9.74,10.44,9.72,3113785
+"FCSC",2.43,"5/22/2017","4:00pm",-0.14,2.60,2.65,2.30,42237
+"FGEN",26.60,"5/22/2017","4:00pm",-0.15,26.75,26.80,26.10,318847
+"ONEQ",241.80,"5/22/2017","4:00pm",+1.93,241.31,241.80,240.74,34194
+"LION",21.53,"5/22/2017","4:00pm",+0.23,21.38,21.64,21.24,72159
+"FDUS",17.35,"5/22/2017","4:00pm",+0.54,16.98,17.45,16.88,87756
+"FRGI",23.55,"5/22/2017","4:00pm",+0.35,23.30,23.75,23.30,395490
+"FSAM",4.10,"5/22/2017","4:00pm",+0.15,4.00,4.15,4.00,35537
+"FSC",4.24,"5/22/2017","4:00pm",+0.01,4.19,4.25,4.17,431525
+"FSCFL",25.30,"5/22/2017","3:56pm",+0.12,N/A,25.30,25.20,443
+"FSFR",7.72,"5/22/2017","4:00pm",+0.01,7.73,7.82,7.69,50086
+"FITB",24.39,"5/22/2017","4:00pm",+0.21,24.28,24.57,24.14,5354733
+"FITBI",29.00,"5/22/2017","3:59pm",+0.05,29.07,29.07,28.95,12444
+"FNGN",39.40,"5/22/2017","4:00pm",-0.10,39.70,39.88,39.30,175300
+"FISI",31.30,"5/22/2017","4:00pm",+0.00,31.35,31.55,30.95,53708
+"FNSR",25.99,"5/22/2017","4:00pm",+2.41,24.96,26.13,24.75,5668751
+"FNJN",3.26,"5/22/2017","4:00pm",+0.30,3.02,3.29,3.02,922162
+"FNTE",9.75,"5/16/2017","1:23pm",+0.00,N/A,N/A,N/A,0
+"FNTEU",10.28,"5/22/2017","1:51pm",-0.09,10.32,10.34,10.15,2000
+"FNTEW",1.20,"5/22/2017","3:20pm",-0.05,1.16,1.20,1.20,5115

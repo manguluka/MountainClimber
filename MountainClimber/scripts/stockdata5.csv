@@ -1,200 +1,100 @@
-"FEYE","FireEye, Inc.",14.99,14.84
-"FBNC","First Bancorp",N/A,N/A
-"FNLC","First Bancorp, Inc (ME)",N/A,N/A
-"FRBA","First Bank",12.85,8.65
-"BUSE","First Busey Corporation",N/A,N/A
-"FBIZ","First Business Financial Servic",N/A,N/A
-"FCAP","First Capital, Inc.",N/A,N/A
-"FCFS","First Cash, Inc.",N/A,N/A
-"FCNCA","First Citizens BancShares, Inc.",N/A,N/A
-"FCBC","First Community Bancshares, Inc",N/A,N/A
-"FCCO","First Community Corporation",N/A,N/A
-"FCFP","First Community Financial Partn",N/A,N/A
-"FBNK","First Connecticut Bancorp, Inc.",24.15,22.75
-"FDEF","First Defiance Financial Corp.",N/A,N/A
-"FFBC","First Financial Bancorp.",N/A,N/A
-"FFBCW","First Financial Bancorp. - Warr",N/A,N/A
-"FFIN","First Financial Bankshares, Inc",N/A,N/A
-"THFF","First Financial Corporation Ind",N/A,N/A
-"FFNW","First Financial Northwest, Inc.",N/A,N/A
-"FFWM","First Foundation Inc.",N/A,N/A
-"FGBI","First Guaranty Bancshares, Inc.",N/A,N/A
-"FHB","First Hawaiian, Inc.",35.50,28.20
-"INBK","First Internet Bancorp",N/A,N/A
-"INBKL","First Internet Bancorp - 6.0% F",N/A,N/A
-"FIBK","First Interstate BancSystem, In",N/A,N/A
-"FRME","First Merchants Corporation",N/A,N/A
-"FMBH","First Mid-Illinois Bancshares, ",N/A,N/A
-"FMBI","First Midwest Bancorp, Inc.",N/A,N/A
-"FNWB","First Northwest Bancorp",N/A,N/A
-"FSFG","First Savings Financial Group, ",N/A,N/A
-"FSLR","First Solar, Inc.",36.72,36.06
-"FSBK","First South Bancorp Inc",N/A,N/A
-"FAAR","First Trust Alternative Absolut",N/A,N/A
-"FPA","First Trust Asia Pacific Ex-Jap",N/A,N/A
-"BICK","First Trust Global BICK Index F",N/A,N/A
-"FBZ","First Trust Brazil AlphaDEX Fun",N/A,N/A
-"FCAN","First Trust Canada AlphaDEX Fun",N/A,N/A
-"FTCS","First Trust Capital Strength ET",N/A,N/A
-"FCEF","First Trust CEF Income Opportun",N/A,N/A
-"FCA","First Trust China AlphaDEX Fund",N/A,N/A
-"SKYY","First Trust ISE Cloud Computing",N/A,N/A
-"FDT","First Trust Developed Markets E",N/A,N/A
-"FDTS","First Trust Developed Markets e",N/A,N/A
-"FVC","First Trust Dorsey Wright Dynam",N/A,N/A
-"FV","First Trust Dorsey Wright Focus",N/A,N/A
-"IFV","First Trust Dorsey Wright Inter",N/A,N/A
-"FEM","First Trust Emerging Markets Al",N/A,N/A
-"FEMB","First Trust Emerging Markets Lo",N/A,N/A
-"FEMS","First Trust Emerging Markets Sm",N/A,N/A
-"FTSM","First Trust Enhanced Short Matu",N/A,N/A
-"FEP","First Trust Europe AlphaDEX Fun",N/A,N/A
-"FEUZ","First Trust Eurozone AlphaDEX E",N/A,N/A
-"FGM","First Trust Germany AlphaDEX Fu",43.40,42.08
-"FTGC","First Trust Global Tactical Com",N/A,N/A
-"FTHI","First Trust High Income ETF",N/A,N/A
-"HYLS","First Trust High Yield Long/Sho",51.26,49.00
-"FHK","First Trust Hong Kong AlphaDEX ",N/A,N/A
-"FTAG","First Trust Indxx Global Agricu",N/A,N/A
-"FTRI","First Trust Indxx Global Natura",N/A,N/A
-"FPXI","First Trust International IPO E",N/A,N/A
-"YDIV","International Multi-Asset Diver",N/A,N/A
-"FJP","First Trust Japan AlphaDEX Fund",N/A,N/A
-"FEX","First Trust Large Cap Core Alph",N/A,N/A
-"FTC","First Trust Large Cap Growth Al",57.75,50.35
-"FTA","First Trust Large Cap Value Alp",N/A,43.87
-"FLN","First Trust Latin America Alpha",N/A,N/A
-"FTLB","First Trust Low Beta Income ETF",N/A,N/A
-"LMBS","First Trust Low Duration Mortga",N/A,N/A
-"FMB","First Trust Managed Municipal E",N/A,N/A
-"FMK","First Trust Mega Cap AlphaDEX F",N/A,28.8600
-"FNX","First Trust Mid Cap Core AlphaD",57.85,54.28
-"FNY","First Trust Mid Cap Growth Alph",N/A,30.2500
-"FNK","First Trust Mid Cap Value Alpha",32.66,29.18
-"FAD","First Trust Multi Cap Growth Al",72.8400,56.3100
-"FAB","First Trust Multi Cap Value Alp",51.050,50.420
-"MDIV","Multi-Asset Diversified Income",19.43,19.15
-"MCEF","First Trust Municipal CEF Incom",N/A,N/A
-"QABA","First Trust NASDAQ ABA Communit",54.78,48.15
-"FTXO","First Trust Nasdaq Bank ETF",N/A,N/A
-"QCLN","First Trust NASDAQ Clean Edge G",21.00,16.94
-"GRID","First Trust NASDAQ Clean Edge S",N/A,N/A
-"CIBR","First Trust NASDAQ CEA Cybersec",24.50,20.70
-"FTXG","First Trust Nasdaq Food & Bever",N/A,N/A
-"CARZ","First Trust NASDAQ Global Auto",N/A,N/A
-"FTXN","First Trust Nasdaq Oil & Gas ET",N/A,N/A
-"FTXH","First Trust Nasdaq Pharmaceutic",N/A,N/A
-"FTXD","First Trust Nasdaq Retail ETF",N/A,N/A
-"FTXL","First Trust Nasdaq Semiconducto",N/A,N/A
-"FONE","First Trust NASDAQ OMX CEA Smar",N/A,N/A
-"TDIV","First Trust NASDAQ Technology D",34.85,31.10
-"FTXR","First Trust Nasdaq Transportati",N/A,N/A
-"QQEW","First Trust NASDAQ-100 Equal We",N/A,N/A
-"QQXT","First Trust NASDAQ-100 Ex-Tech",45.48,45.03
-"QTEC","First Trust NASDAQ-100 Technolo",N/A,N/A
-"AIRR","First Trust RBA American Indust",N/A,N/A
-"QINC","First Trust RBA Quality Income",N/A,N/A
-"RDVY","First Trust NASDAQ Rising Divid",26.48,25.99
-"RFAP","First Trust RiverFront Dynamic ",N/A,N/A
-"RFDI","First Trust RiverFront Dynamic ",N/A,N/A
-"RFEM","First Trust RiverFront Dynamic ",N/A,N/A
-"RFEU","First Trust RiverFront Dynamic ",N/A,N/A
-"FTSL","First Trust Senior Loan Fund ET",N/A,N/A
-"FYX","First Trust Small Cap Core Alph",53.62,53.17
-"FYC","First Trust Small Cap Growth Al",N/A,36.30
-"FYT","First Trust Small Cap Value Alp",33.06,32.83
-"FKO","First Trust South Korea AlphaDE",N/A,N/A
-"FCVT","First Trust SSI Strategic Conve",N/A,N/A
-"FDIV","First Trust Strategic Income ET",N/A,N/A
-"FSZ","First Trust Switzerland AlphaDE",N/A,N/A
-"FTW","First Trust Taiwan AlphaDEX Fun",N/A,N/A
-"FIXD","First Trust TCW Opportunistic F",N/A,N/A
-"TUSA","First Trust Total US Market Alp",N/A,N/A
-"FKU","First Trust United Kingdom Alph",N/A,N/A
-"FUNC","First United Corporation",21.50,14.40
-"FUSB","First US Bancshares, Inc.",N/A,N/A
-"SVVC","Firsthand Technology Value Fund",N/A,N/A
-"FSV","FirstService Corporation - Subo",N/A,N/A
-"FISV","Fiserv, Inc.",N/A,N/A
-"FIVE","Five Below, Inc.",54.14,41.57
-"FPRX","Five Prime Therapeutics, Inc.",N/A,N/A
-"FVE","Five Star Senior Living Inc.",2.35,1.60
-"FIVN","Five9, Inc.",21.73,10.12
-"FLEX","Flex Ltd. - Ordinary Shares",22.00,16.41
-"FLKS","Flex Pharma, Inc.",6.30,0.68
-"FLXN","Flexion Therapeutics, Inc.",21.56,15.02
-"SKOR","FlexShares Credit-Scored US Cor",N/A,N/A
-"LKOR","FlexShares Credit-Scored US Lon",N/A,N/A
-"MBSD","FlexShares Disciplined Duration",N/A,N/A
-"ASET","FlexShares Real Assets Allocati",N/A,N/A
-"ESGG","FlexShares STOXX Global ESG Imp",N/A,85.43
-"ESG","FlexShares STOXX US ESG Impact",71.75,0.01
-"QLC","FlexShares US Quality Large Cap",N/A,N/A
-"FPAY","FlexShopper, Inc.",N/A,N/A
-"FLXS","Flexsteel Industries, Inc.",N/A,N/A
-"FLIR","FLIR Systems, Inc.",40.00,33.57
-"FLDM","Fluidigm Corporation",N/A,N/A
-"FFIC","Flushing Financial Corporation",N/A,N/A
-"FNBG","FNB Bancorp",N/A,N/A
-"FOMX","Foamix Pharmaceuticals Ltd. - O",19.39,2.80
-"FOGO","Fogo de Chao, Inc.",N/A,N/A
-"FONR","Fonar Corporation",N/A,N/A
-"FH","FORM Holdings Corp.",3.12,1.45
-"FORM","FormFactor, Inc.",16.60,13.05
-"FORTY","Formula Systems (1985) Ltd. - A",N/A,N/A
-"FORR","Forrester Research, Inc.",N/A,N/A
-"FRTA","Forterra, Inc.",10.78,10.45
-"FTNT","Fortinet, Inc.",43.50,35.28
-"FBIO","Fortress Biotech, Inc.",6.75,3.01
-"FMCI","Forum Merger Corporation",N/A,N/A
-"FMCIR","Forum Merger Corporation - Righ",N/A,N/A
-"FMCIU","Forum Merger Corporation - Unit",10.33,0.01
-"FMCIW","Forum Merger Corporation",N/A,0.25
-"FWRD","Forward Air Corporation",N/A,N/A
-"FORD","Forward Industries, Inc.",1.20,1.05
-"FWP","Forward Pharma A/S - American D",26.95,1.05
-"FOSL","Fossil Group, Inc.",14.94,12.25
-"FMI","Foundation Medicine, Inc.",38.70,28.80
-"FOXF","Fox Factory Holding Corp.",N/A,N/A
-"FRAN","Francesca's Holdings Corporatio",17.53,11.00
-"FELE","Franklin Electric Co., Inc.",N/A,N/A
-"FRED","Fred's, Inc.",15.67,12.17
-"RAIL","Freightcar America, Inc.",29.89,14.90
-"FEIM","Frequency Electronics, Inc.",N/A,N/A
-"FRPT","Freshpet, Inc.",N/A,N/A
-"FTEO","FRONTEO, Inc. - American Deposi",N/A,N/A
-"FTR","Frontier Communications Corpora",1.53,1.44
-"FTRPR","Frontier Communications Corpora",7933.92,31.00
-"FRPH","FRP Holdings, Inc.",45.50,35.75
-"FSBW","FS Bancorp, Inc.",N/A,N/A
-"FSBC","FSB Bancorp, Inc.",N/A,N/A
-"FTD","FTD Companies, Inc.",N/A,N/A
-"FTEK","Fuel Tech, Inc.",N/A,N/A
-"FCEL","FuelCell Energy, Inc.",1.1000,0.8000
-"FLGT","Fulgent Genetics, Inc.",N/A,N/A
-"FORK","Fuling Global Inc. - Ordinary S",N/A,N/A
-"FLL","Full House Resorts, Inc.",2.60,2.22
-"FMAX","Full Spectrum Inc. Common Stock",N/A,N/A
-"FULT","Fulton Financial Corporation",N/A,N/A
-"FNCX","Function(x) Inc.",0.7800,0.3200
-"FSNN","Fusion Telecommunications Inter",2.59,1.45
-"FFHL","Fuwei Films (Holdings) Co., Ltd",3.30,0.01
-"WILC","G. Willi-Food International,  L",6.98,5.40
-"FOANC","Gabelli NextShares Trust - Gabe",N/A,N/A
-"MOGLC","Gabelli NextShares Trust - Gabe",N/A,N/A
-"GAIA","Gaia, Inc.",12.35,10.35
-"GLPG","Galapagos NV - American Deposit",N/A,N/A
-"GALT","Galectin Therapeutics Inc.",3.79,1.35
-"GALE","Galena Biopharma, Inc.",0.8200,0.4150
-"GLMD","Galmed Pharmaceuticals Ltd. - O",5.70,3.15
-"GLPI","Gaming and Leisure Properties, ",N/A,N/A
-"GPIC","Gaming Partners International C",N/A,N/A
-"GRMN","Garmin Ltd.",54.88,50.08
-"GARS","Garrison Capital Inc.",N/A,N/A
-"GDS","GDS Holdings Limited - ADS",8.250,7.010
-"GEMP","Gemphire Therapeutics Inc.",N/A,N/A
-"GENC","Gencor Industries Inc.",N/A,N/A
-"GNCMA","General Communication, Inc.",35.60,34.50
-"GFN","General Finance Corporation",N/A,N/A
-"GFNCP","General Finance Corporation - C",N/A,N/A
-"GFNSL","General Finance Corporation - S",32.5700,25.0000
+"CATB",1.36,"5/22/2017","4:00pm",+0.01,1.35,1.39,1.33,143585
+"CBIO",3.90,"5/22/2017","4:00pm",-0.13,4.00,4.06,3.83,204520
+"CPRX",2.09,"5/22/2017","4:00pm",-0.03,2.13,2.18,2.02,606673
+"CATS",4.02,"5/22/2017","4:00pm",+0.16,3.82,4.25,3.82,29474
+"CATY",36.79,"5/22/2017","4:00pm",+0.29,36.66,36.84,36.12,356384
+"CATYW",19.25,"4/25/2017","2:04pm",+0.00,N/A,N/A,N/A,5
+"CVCO",115.60,"5/22/2017","4:00pm",+3.90,111.65,115.70,110.20,44686
+"CAVM",72.58,"5/22/2017","4:00pm",+1.19,72.51,72.68,71.65,409957
+"CBFV",27.192,"5/22/2017","3:29pm",-0.738,26.900,27.423,26.750,2551
+"CBAK",1.35,"5/22/2017","3:58pm",+0.00,1.35,1.35,1.30,14665
+"CBOE",85.05,"5/22/2017","4:00pm",+0.01,85.00,85.36,84.55,966612
+"CDK",61.48,"5/22/2017","4:00pm",+0.02,61.58,62.06,60.11,985950
+"CDW",57.45,"5/22/2017","4:00pm",+0.36,57.42,57.86,57.16,611959
+"CECE",9.39,"5/22/2017","4:00pm",-0.02,9.42,9.52,9.35,218702
+"CELG",115.71,"5/22/2017","4:00pm",-1.22,116.50,116.69,113.63,5685232
+"CELGZ",1.20,"5/22/2017","3:58pm",+0.00,1.20,1.21,1.20,200
+"CLDX",3.06,"5/22/2017","4:00pm",-0.02,3.10,3.18,3.03,1392504
+"APOP",9.50,"5/22/2017","3:59pm",-0.07,9.50,9.72,9.37,14641
+"APOPW",2.61,"5/22/2017","3:52pm",-0.09,2.61,2.77,2.61,1603
+"CLRB",1.719,"5/22/2017","3:58pm",-0.001,1.740,1.746,1.690,74840
+"CLRBW",0.2261,"5/17/2017","2:18pm",+0.0000,0.2510,N/A,N/A,124
+"CLRBZ",0.62,"5/22/2017","3:58pm",-0.04,0.66,0.66,0.62,2500
+"CLLS",24.25,"5/22/2017","4:00pm",+0.00,24.39,24.51,24.01,44654
+"CBMG",6.05,"5/22/2017","4:00pm",-0.80,6.95,6.98,6.00,38598
+"CLSN",0.2355,"5/22/2017","3:59pm",-0.0126,0.2470,0.2479,0.2325,394306
+"CYAD",40.66,"5/22/2017","3:59pm",+0.08,42.50,41.85,39.00,5452
+"CEMP",3.85,"5/22/2017","4:00pm",+0.05,3.85,3.90,3.70,1221421
+"CETX",3.72,"5/22/2017","4:00pm",-0.10,3.85,4.05,3.65,907006
+"CETXP",6.51,"5/22/2017","3:59pm",+0.56,6.44,6.56,6.25,23600
+"CETXW",0.5002,"5/22/2017","11:55am",+0.0001,0.5100,0.5100,0.5002,420
+"CDEV",16.38,"5/22/2017","4:00pm",-0.35,16.77,16.89,16.32,694866
+"CSFL",24.55,"5/22/2017","4:00pm",+0.11,24.45,24.83,24.24,113108
+"CETV",3.95,"5/22/2017","4:00pm",-0.05,4.00,4.05,3.90,194777
+"CFBK",2.05,"5/22/2017","3:59pm",-0.13,2.25,2.25,2.04,38770
+"CENT",30.97,"5/22/2017","4:00pm",-0.62,31.55,31.63,30.79,196594
+"CENTA",29.26,"5/22/2017","4:00pm",-0.98,30.20,30.75,29.17,191055
+"CVCY",21.17,"5/22/2017","4:00pm",+0.39,21.01,21.72,20.75,21190
+"CFCB",26.74,"5/22/2017","4:00pm",+0.16,26.45,26.74,26.45,3859
+"CENX",14.29,"5/22/2017","4:00pm",+0.41,14.08,14.41,14.05,1092376
+"CNBKA",60.20,"5/22/2017","4:00pm",+0.65,59.60,60.60,58.50,14263
+"CNTY",7.90,"5/22/2017","4:00pm",+0.08,7.90,7.95,7.79,124043
+"CRNT",3.02,"5/22/2017","4:00pm",-0.01,3.09,3.12,2.96,437949
+"CERC",0.589,"5/22/2017","3:59pm",-0.041,0.630,0.633,0.525,235371
+"CERCW",0.05,"5/22/2017","3:56pm",+0.01,0.04,0.06,0.04,12843
+"CERN",64.58,"5/22/2017","4:00pm",+0.48,64.05,64.76,64.00,2814720
+"CERU",0.4007,"5/22/2017","3:59pm",-0.0191,0.4180,0.4200,0.4000,154087
+"CERS",3.00,"5/22/2017","4:00pm",+0.00,3.00,3.04,2.95,668519
+"KOOL",3.06,"5/22/2017","3:50pm",+0.04,3.06,3.14,3.02,24786
+"CEVA",42.80,"5/22/2017","4:00pm",+0.05,42.75,43.00,42.35,102845
+"CFCO",10.07,"5/22/2017","3:58pm",+0.04,10.00,10.07,10.04,8601
+"CFCOU",10.75,"5/22/2017","3:59pm",+0.00,10.54,10.77,10.75,1511
+"CFCOW",1.52,"5/19/2017","12:27pm",+0.00,N/A,N/A,N/A,0
+"CSBR",2.5299,"5/22/2017","3:56pm",+0.0599,2.5000,2.6880,2.4600,28305
+"CYOU",40.18,"5/22/2017","4:00pm",+1.54,40.53,40.89,39.00,1375216
+"HOTR",3.034,"5/22/2017","3:58pm",-0.436,3.440,3.440,3.000,52386
+"HOTRW",0.35,"5/22/2017","3:23pm",-0.55,0.41,0.49,0.22,4430
+"CTHR",0.90,"5/22/2017","3:58pm",+0.01,0.92,0.93,0.90,7674
+"GTLS",35.79,"5/22/2017","4:00pm",+0.88,35.10,35.89,34.97,216597
+"CHTR",316.42,"5/22/2017","4:00pm",+0.64,315.78,318.51,315.52,1841655
+"CHFN",18.43,"5/22/2017","4:00pm",+0.14,18.37,18.47,17.88,33694
+"CHKP",109.57,"5/22/2017","4:00pm",+1.14,108.59,109.85,108.59,695745
+"CHEK",2.0729,"5/22/2017","2:52pm",+0.0029,2.0800,2.0800,2.0700,9858
+"CHEKW",0.68,"5/22/2017","11:40am",+0.03,0.65,0.68,0.68,175
+"CEMI",6.70,"5/22/2017","4:00pm",-0.15,6.75,7.04,6.65,7430
+"CHFC",46.12,"5/22/2017","4:00pm",+0.12,46.18,46.59,45.69,651878
+"CCXI",7.08,"5/22/2017","4:00pm",+0.06,7.01,7.18,6.72,118143
+"CHMG",38.94,"5/22/2017","4:00pm",+0.82,38.03,38.94,38.03,2553
+"CHKE",9.95,"5/22/2017","4:00pm",-0.15,10.25,10.70,9.82,35813
+"CHMA",1.50,"5/22/2017","4:00pm",+0.05,1.50,1.55,1.45,22020
+"PLCE",111.00,"5/22/2017","4:00pm",+5.20,106.75,111.40,105.80,1214485
+"CMRX",4.71,"5/22/2017","4:00pm",+0.03,4.70,4.79,4.65,151959
+"CADC",2.3431,"5/22/2017","3:20pm",+0.0181,2.5000,2.5000,2.3250,5640
+"CALI",2.42,"5/22/2017","4:00pm",+0.05,2.30,2.60,2.30,88619
+"CAAS",5.06,"5/22/2017","3:55pm",+0.01,5.10,5.12,5.05,37879
+"CBPO",112.44,"5/22/2017","4:00pm",+1.44,111.46,112.98,110.25,129708
+"CCCL",1.43,"5/22/2017","3:58pm",+0.05,1.37,1.45,1.37,19127
+"CCCR",2.35,"5/22/2017","4:00pm",-0.48,2.77,2.77,2.31,1195342
+"CCRC",17.50,"5/22/2017","4:00pm",+1.50,16.11,17.70,16.08,305853
+"JRJC",2.09,"5/22/2017","3:56pm",-0.05,2.13,2.20,2.08,95076
+"HGSH",1.56,"5/22/2017","3:59pm",-0.03,1.57,1.62,1.55,19143
+"CNIT",1.08,"5/22/2017","3:59pm",+0.10,1.02,1.11,1.01,698233
+"CJJD",1.75,"5/22/2017","12:37pm",+0.01,1.73,1.76,1.72,1518
+"CLDC",5.12,"5/19/2017","3:55pm",+0.00,5.27,N/A,N/A,169
+"HTHT",75.68,"5/22/2017","4:00pm",-0.27,76.31,77.62,74.64,195772
+"CHNR",2.23,"5/22/2017","3:59pm",-0.09,2.34,2.34,2.23,19561
+"CREG",1.55,"5/22/2017","3:59pm",-0.02,1.51,1.58,1.51,35772
+"CNTF",2.27,"5/22/2017","3:59pm",+0.02,2.28,2.28,2.21,5583
+"CXDC",4.70,"5/22/2017","3:59pm",-0.05,4.70,4.75,4.70,14030
+"CCIH",1.0501,"5/22/2017","3:39pm",-0.0499,1.0900,1.1000,1.0200,54573
+"CNET",1.2681,"5/22/2017","3:59pm",-0.0618,1.3500,1.3800,1.2100,15630
+"IMOS",19.20,"5/22/2017","4:00pm",+0.64,18.87,19.23,18.87,117217
+"CDXC",3.07,"5/22/2017","4:00pm",-0.13,3.16,3.27,3.05,246407
+"CHSCL",28.98,"5/22/2017","3:59pm",+0.08,28.89,28.98,28.81,28347
+"CHSCM",28.017,"5/22/2017","3:54pm",+0.197,28.020,28.020,27.789,6337
+"CHSCN",28.83,"5/22/2017","3:59pm",+0.15,28.85,28.85,28.54,7399
+"CHSCO",29.11,"5/22/2017","3:59pm",+0.11,29.05,29.11,29.04,6584
+"CHSCP",30.71,"5/22/2017","3:37pm",+0.10,30.57,30.84,30.51,7829
+"CHDN",167.40,"5/22/2017","4:00pm",-0.25,168.05,168.70,167.25,89542
+"CHUY",28.50,"5/22/2017","4:00pm",-0.05,28.55,28.60,28.25,71380
+"CDTX",6.75,"5/22/2017","4:00pm",-0.05,6.75,6.78,6.65,67351

@@ -1,200 +1,100 @@
-"ZIOP","ZIOPHARM Oncology Inc",8.50,6.99
-"ZIXI","Zix Corporation",6.00,5.00
-"ZGNX","Zogenix, Inc.",17.10,7.15
-"ZSAN","Zosano Pharma Corporation",2.04,1.26
-"ZUMZ","Zumiez Inc.",14.95,14.50
-"ZYNE","Zynerba Pharmaceuticals, Inc.",18.11,18.01
-"ZNGA","Zynga Inc.",3.50,3.40
-"DDD","3D Systems Corporation",N/A,N/A
-"MMM","3M Company",N/A,N/A
-"WBAI","500.com Limited American Deposi",N/A,N/A
-"WUBA","58.com Inc. American Depositary",N/A,N/A
-"AHC","A.H. Belo Corporation",N/A,N/A
-"ATEN","A10 Networks, Inc.",N/A,N/A
-"AAC","AAC Holdings, Inc.",N/A,N/A
-"AIR","AAR Corp.",N/A,N/A
-"AAN","Aaron's, Inc.",N/A,N/A
-"ABB","ABB Ltd",N/A,N/A
-"ABT","Abbott Laboratories",N/A,N/A
-"ABBV","AbbVie Inc.",N/A,N/A
-"ANF","Abercrombie & Fitch Company",N/A,N/A
-"GCH","Aberdeen Greater China Fund, In",N/A,N/A
-"JEQ","Aberdeen Japan Equity Fund, Inc",N/A,N/A
-"SGF","Aberdeen Singapore Fund, Inc.",N/A,N/A
-"ABM","ABM Industries Incorporated",N/A,N/A
-"AKR","Acadia Realty Trust",N/A,N/A
-"ACN","Accenture plc Class A Ordinary ",N/A,N/A
-"ACCO","Acco Brands Corporation",N/A,N/A
-"ATV","Acorn International, Inc. ADS",N/A,N/A
-"ATU","Actuant Corporation",N/A,N/A
-"AYI","Acuity Brands Inc (Holding Comp",N/A,N/A
-"GOLF","Acushnet Holdings Corp.",N/A,N/A
-"ADX","Adams Diversified Equity Fund I",N/A,N/A
-"PEO","Adams Natural Resources Fund, I",N/A,N/A
-"AGRO","Adecoagro S.A.",N/A,N/A
-"ADNT","Adient plc Ordinary Shares",N/A,N/A
-"AAP","Advance Auto Parts Inc Advance ",N/A,N/A
-"ADSW","Advanced Disposal Services, Inc",N/A,N/A
-"WMS","Advanced Drainage Systems, Inc.",N/A,N/A
-"ASX","Advanced Semiconductor Engineer",N/A,N/A
-"APFH","AdvancePierre Foods Holdings, I",N/A,N/A
-"ASIX","AdvanSix Inc.",N/A,N/A
-"AAV","Advantage Oil & Gas Ltd  Ordina",N/A,N/A
-"AVK","Advent Claymore Convertible Sec",N/A,N/A
-"AGC","Advent Claymore Convertible Sec",N/A,N/A
-"LCM","Advent/Claymore Enhanced Growth",N/A,N/A
-"ACM","AECOM",N/A,N/A
-"ANW","Aegean Marine Petroleum Network",N/A,N/A
-"AEB","AEGON N.V. Perp. Cap. Secs. Flo",N/A,N/A
-"AED","AEGON N.V. Perp. Cap. Securitie",N/A,N/A
-"AEG","AEGON N.V.",N/A,N/A
-"AEH","AEGON N.V. Perp. Cap Secs.",N/A,N/A
-"AEK","Aegon NV 8.00% Non-Cumulative S",N/A,N/A
-"AER","Aercap Holdings N.V. Ordinary S",N/A,N/A
-"HIVE","Aerohive Networks, Inc.",N/A,N/A
-"AJRD","Aerojet Rocketdyne Holdings, In",N/A,N/A
-"AET","Aetna Inc.",N/A,N/A
-"AMG","Affiliated Managers Group, Inc.",N/A,N/A
-"MGR","Affiliated Managers Group, Inc.",N/A,N/A
-"AFL","AFLAC Incorporated",N/A,N/A
-"AFSD","Aflac Incorporated 5.50% Subord",N/A,N/A
-"MITT","AG Mortgage Investment Trust, I",N/A,N/A
-"MITT^A",N/A,N/A,N/A
-"MITT^B",N/A,N/A,N/A
-"AGCO","AGCO Corporation",N/A,N/A
-"A","Agilent Technologies, Inc.",N/A,N/A
-"AEM","Agnico Eagle Mines Limited",N/A,N/A
-"ADC","Agree Realty Corporation",N/A,N/A
-"AGU","Agrium Inc.",N/A,N/A
-"AL","Air Lease Corporation Class A",N/A,N/A
-"APD","Air Products and Chemicals, Inc",N/A,N/A
-"AYR","Aircastle Limited",N/A,N/A
-"AKS","AK Steel Holding Corporation",N/A,N/A
-"ALP^O",N/A,N/A,N/A
-"ALG","Alamo Group, Inc.",N/A,N/A
-"AGI","Alamos Gold Inc. Class A",N/A,N/A
-"ALK","Alaska Air Group, Inc.",N/A,N/A
-"AIN","Albany International Corporatio",N/A,N/A
-"ALB","Albemarle Corporation",N/A,N/A
-"AA","Alcoa Corporation",N/A,N/A
-"ALR","Alere Inc.",N/A,N/A
-"ALR^B",N/A,N/A,N/A
-"ALEX","Alexander & Baldwin, Inc.",N/A,N/A
-"ALX","Alexander's, Inc.",N/A,N/A
-"ARE","Alexandria Real Estate Equities",N/A,N/A
-"ARE^D",N/A,N/A,N/A
-"AQN","Algonquin Power & Utilities Cor",N/A,N/A
-"BABA","Alibaba Group Holding Limited A",N/A,N/A
-"Y","Alleghany Corporation",N/A,N/A
-"ATI","Allegheny Technologies Incorpor",N/A,N/A
-"ALLE","Allegion plc Ordinary Shares",N/A,N/A
-"AGN","Allergan plc Ordinary Shares",N/A,N/A
-"AGN^A",N/A,N/A,N/A
-"ALE","Allete, Inc.",N/A,N/A
-"AKP","Alliance California Municipal I",N/A,N/A
-"ADS","Alliance Data Systems Corporati",N/A,N/A
-"AFB","AllianceBernstein National Muni",N/A,N/A
-"AOI","Alliance One International, Inc",N/A,N/A
-"AWF","Alliancebernstein Global High I",N/A,N/A
-"AB","AllianceBernstein Holding L.P. ",N/A,N/A
-"LNT","Alliant Energy Corporation",N/A,N/A
-"NCV","AllianzGI Convertible & Income ",N/A,N/A
-"NCZ","AllianzGI Convertible & Income ",N/A,N/A
-"ACV","AllianzGI Diversified Income & ",N/A,N/A
-"NIE","AllianzGI Equity & Convertible ",N/A,N/A
-"NFJ","AllianzGI NFJ Dividend, Interes",N/A,N/A
-"AWH","Allied World Assurance Company ",N/A,N/A
-"ALSN","Allison Transmission Holdings, ",N/A,N/A
-"ALL","Allstate Corporation (The)",N/A,N/A
-"ALL^A",N/A,N/A,N/A
-"ALL^B",N/A,N/A,N/A
-"ALL^C",N/A,N/A,N/A
-"ALL^D",N/A,N/A,N/A
-"ALL^E",N/A,N/A,N/A
-"ALL^F",N/A,N/A,N/A
-"ALLY","Ally Financial Inc.",N/A,N/A
-"ALLY^A",N/A,N/A,N/A
-"ALJ","Alon USA Energy, Inc. common st",N/A,N/A
-"ALDW","Alon USA Partners, LP Common Un",N/A,N/A
-"AGD","Alpine Global Dynamic Dividend ",N/A,N/A
-"AWP","Alpine Global Premier Propertie",N/A,N/A
-"AOD","Alpine Total Dynamic Dividend F",N/A,N/A
-"AYX","Alteryx, Inc. Class A",N/A,N/A
-"RESI","Altisource Residential Corporat",N/A,N/A
-"MO","Altria Group, Inc.",N/A,N/A
-"ACH","Aluminum Corporation of China L",N/A,N/A
-"AMBR","Amber Road, Inc.",N/A,N/A
-"ABEV","Ambev S.A. American Depositary ",N/A,N/A
-"AMC","AMC Entertainment Holdings, Inc",N/A,N/A
-"AMFW","AMEC Foster Wheeler plc America",N/A,N/A
-"AEE","Ameren Corporation",N/A,N/A
-"AMRC","Ameresco, Inc. Class A",N/A,N/A
-"AMOV","America Movil, S.A.B. de C.V. C",N/A,N/A
-"AMX","America Movil, S.A.B. de C.V. A",N/A,N/A
-"AAT","American Assets Trust, Inc.",N/A,N/A
-"AXL","American Axle & Manufacturing H",N/A,N/A
-"ACC","American Campus Communities Inc",N/A,N/A
-"AEO","American Eagle Outfitters, Inc.",N/A,N/A
-"AEP","American Electric Power Company",N/A,N/A
-"AEL","American Equity Investment Life",N/A,N/A
-"AXP","American Express Company",N/A,N/A
-"AFA","American Financial Group, Inc. ",N/A,N/A
-"AFG","American Financial Group, Inc.",N/A,N/A
-"AFGE","American Financial Group, Inc. ",N/A,N/A
-"AFGH","American Financial Group, Inc. ",N/A,N/A
-"AFW","American Financial Group, Inc. ",N/A,N/A
-"AMH","American Homes 4 Rent  of Benef",N/A,N/A
-"AMH^A",N/A,N/A,N/A
-"AMH^B",N/A,N/A,N/A
-"AMH^C",N/A,N/A,N/A
-"AMH^D",N/A,N/A,N/A
-"AMH^E",N/A,N/A,N/A
-"AMH^F",N/A,N/A,N/A
-"AIG","American International Group, I",N/A,N/A
-"AIG.WS",N/A,N/A,N/A
-"AMID","American Midstream Partners, LP",N/A,N/A
-"ARL","American Realty Investors, Inc.",N/A,N/A
-"ARA","American Renal Associates Holdi",N/A,N/A
-"AWR","American States Water Company",N/A,N/A
-"AMT","American Tower Corporation (REI",N/A,N/A
-"AMT^B",N/A,N/A,N/A
-"AVD","American Vanguard Corporation  ",N/A,N/A
-"AWK","American Water Works Company, I",N/A,N/A
-"APU","AmeriGas Partners, L.P.",N/A,N/A
-"AMP","Ameriprise Financial, Inc.",N/A,N/A
-"ABC","AmerisourceBergen Corporation",N/A,N/A
-"ANFI","Amira Nature Foods Ltd Ordinary",N/A,N/A
-"AMN","AMN Healthcare Services Inc AMN",N/A,N/A
-"AP","Ampco-Pittsburgh Corporation",N/A,N/A
-"APH","Amphenol Corporation",N/A,N/A
-"BETR","Amplify Snack Brands, Inc.",N/A,N/A
-"AXR","AMREP Corporation",N/A,N/A
-"AME","AMETEK, Inc.",N/A,N/A
-"AFSI^A",N/A,N/A,N/A
-"AFSI^B",N/A,N/A,N/A
-"AFSI^C",N/A,N/A,N/A
-"AFSI^D",N/A,N/A,N/A
-"AFSI^E",N/A,N/A,N/A
-"AFSI^F",N/A,N/A,N/A
-"AFSS","AmTrust Financial Services, Inc",N/A,N/A
-"AFST","AmTrust Financial Services, Inc",N/A,N/A
-"AEUA","Anadarko Petroleum Corporation ",N/A,N/A
-"APC","Anadarko Petroleum Corporation",N/A,N/A
-"AU","AngloGold Ashanti Limited",N/A,N/A
-"BUD","Anheuser-Busch Inbev SA Sponsor",N/A,N/A
-"AXE","Anixter International Inc.",N/A,N/A
-"NLY","Annaly Capital Management Inc",N/A,N/A
-"NLY^A",N/A,N/A,N/A
-"NLY^C",N/A,N/A,N/A
-"NLY^D",N/A,N/A,N/A
-"NLY^E",N/A,N/A,N/A
-"AMGP","Antero Midstream GP LP  of Bene",N/A,N/A
-"AM","Antero Midstream Partners LP Co",N/A,N/A
-"AR","Antero Resources Corporation",N/A,N/A
-"ANTM","Anthem, Inc.",N/A,N/A
-"ANTX","Anthem, Inc. Corporate Units",N/A,N/A
-"ANH","Anworth Mortgage Asset Corporat",N/A,N/A
-"ANH^A",N/A,N/A,N/A
-"ANH^B",N/A,N/A,N/A
-"ANH^C",N/A,N/A,N/A
-"AON","Aon plc Class A Ordinary Shares",N/A,N/A
+"JSML",32.4335,"5/22/2017","2:10pm",+0.1135,32.3000,32.4335,32.4335,267
+"JSMD",33.33,"5/22/2017","3:38pm",+0.04,33.69,33.69,33.29,3475
+"JASN",1.39,"5/22/2017","4:00pm",+0.00,1.40,1.40,1.37,30131
+"JASNW",0.05,"5/22/2017","10:01am",+0.00,0.05,0.05,0.05,1393
+"JAZZ",151.97,"5/22/2017","4:00pm",+2.82,150.20,152.30,149.45,462621
+"JD",41.66,"5/22/2017","4:00pm",+0.60,41.61,41.97,41.20,11472038
+"JSYN",10.28,"5/19/2017","2:59pm",+0.00,N/A,N/A,N/A,0
+"JSYNR",0.31,"5/19/2017","10:28am",+0.00,N/A,N/A,N/A,0
+"JSYNU",10.759,"5/19/2017","2:30pm",+0.000,N/A,N/A,N/A,0
+"JSYNW",0.23,"5/15/2017","11:30am",+0.00,N/A,N/A,N/A,0
+"JBLU",21.57,"5/22/2017","4:00pm",+0.29,21.34,21.73,21.28,3616794
+"JTPY",2.00,"5/22/2017","4:00pm",-0.05,1.95,2.10,1.96,5525
+"JCTCF",11.25,"5/22/2017","3:41pm",-0.20,N/A,11.25,11.25,160
+"JIVE",5.30,"5/22/2017","4:00pm",+0.03,5.25,5.30,5.22,1079905
+"WYIG",9.98,"5/9/2017","1:52pm",+0.00,N/A,N/A,N/A,0
+"WYIGU",10.36,"5/19/2017","3:43pm",+0.00,N/A,N/A,N/A,0
+"WYIGW",0.33,"5/10/2017","12:53pm",+0.00,N/A,N/A,N/A,0
+"JMU",1.61,"5/22/2017","3:56pm",-0.22,1.87,2.17,1.53,57570
+"JBSS",65.06,"5/22/2017","4:00pm",+0.78,64.13,65.27,63.65,108563
+"JOUT",44.22,"5/22/2017","4:00pm",-0.27,44.45,44.89,44.01,67454
+"JNCE",21.97,"5/22/2017","4:00pm",+0.07,22.11,22.44,21.60,178363
+"JNP",4.15,"5/22/2017","4:00pm",+0.10,3.90,4.20,3.90,77128
+"JUNO",24.07,"5/22/2017","4:00pm",+0.43,23.77,24.26,23.55,887182
+"KTWO",22.35,"5/22/2017","4:00pm",+0.28,22.20,22.39,22.07,325159
+"KALU",80.79,"5/22/2017","4:00pm",+0.02,81.23,82.07,80.24,87381
+"KALV",7.09,"5/22/2017","1:54pm",+0.09,7.00,7.25,6.82,6084
+"KMDA",7.10,"5/22/2017","3:59pm",+0.25,6.85,7.15,6.90,16611
+"KNDI",4.20,"5/22/2017","4:00pm",+0.20,4.00,4.20,4.00,135946
+"KPTI",9.78,"5/22/2017","4:00pm",-0.17,9.96,10.04,9.62,178386
+"KAAC",9.70,"5/17/2017","9:57am",+0.00,N/A,N/A,N/A,0
+"KAACU",9.98,"5/22/2017","10:59am",+0.00,N/A,9.98,9.98,200
+"KAACW",0.85,"5/19/2017","3:38pm",+0.00,N/A,N/A,N/A,0
+"KBSF",4.25,"5/22/2017","3:59pm",+0.08,4.29,4.84,3.89,9714
+"KCAP",3.53,"5/22/2017","4:00pm",+0.02,3.54,3.55,3.52,66482
+"KRNY",14.00,"5/22/2017","4:00pm",+0.00,14.00,14.10,13.95,437413
+"KELYA",23.90,"5/22/2017","4:00pm",-0.19,24.26,24.55,23.73,243682
+"KELYB",23.50,"5/22/2017","10:44am",+1.01,23.50,23.50,23.50,300
+"KMPH",4.05,"5/22/2017","3:56pm",+0.00,4.00,4.05,3.95,12164
+"KFFB",9.3791,"5/22/2017","1:26pm",-0.1209,9.5000,9.4160,9.3791,624
+"KERX",6.32,"5/22/2017","4:00pm",+0.04,6.29,6.35,6.14,910001
+"KEQU",22.85,"5/22/2017","3:26pm",+0.05,22.85,22.85,22.84,913
+"KTEC",12.93,"5/22/2017","4:00pm",-0.01,12.80,13.11,12.80,1354
+"KTCC",6.79,"5/22/2017","3:59pm",-0.02,6.87,6.87,6.79,6277
+"KFRC",18.55,"5/22/2017","4:00pm",-0.05,18.65,18.80,18.40,114072
+"KE",16.60,"5/22/2017","4:00pm",+0.35,16.35,16.73,16.20,132721
+"KBAL",16.97,"5/22/2017","4:00pm",-0.09,17.04,17.16,16.78,126982
+"KIN",6.95,"5/22/2017","4:00pm",-0.05,7.00,7.00,6.85,44379
+"KGJI",1.84,"5/22/2017","4:00pm",+0.04,1.80,1.86,1.74,243700
+"KINS",14.85,"5/22/2017","4:00pm",+0.05,14.80,14.95,14.75,31729
+"KONE",3.17,"5/22/2017","3:59pm",-0.33,3.46,3.53,3.17,4383
+"KNSL",35.13,"5/22/2017","4:00pm",+0.73,34.41,35.32,34.41,110012
+"KIRK",10.00,"5/22/2017","4:00pm",+0.30,9.76,10.37,9.69,246041
+"KITE",71.57,"5/22/2017","4:00pm",+0.86,71.07,71.82,69.57,878589
+"KTOV",1.76,"5/22/2017","3:49pm",+0.04,1.72,1.77,1.72,9597
+"KTOVW",0.4252,"5/22/2017","1:11pm",-0.0198,0.4500,0.4700,0.4252,45308
+"KLAC",102.71,"5/22/2017","4:00pm",+0.93,102.20,102.88,101.63,902316
+"KLXI",48.45,"5/22/2017","4:00pm",+0.37,48.38,48.79,48.17,349349
+"KONA",4.10,"5/22/2017","4:00pm",-0.15,4.20,4.25,4.10,96381
+"KOPN",3.77,"5/22/2017","4:00pm",+0.22,3.60,3.78,3.60,501026
+"KRNT",18.85,"5/22/2017","4:00pm",+0.30,18.65,18.95,18.40,362212
+"KOSS",1.70,"5/22/2017","4:00pm",-0.04,1.75,1.75,1.69,4126
+"KWEB",49.98,"5/22/2017","4:00pm",+0.61,49.97,50.19,49.71,804126
+"KTOS",10.31,"5/22/2017","4:00pm",+0.38,10.09,10.33,10.08,1804542
+"KLIC",21.61,"5/22/2017","4:00pm",+0.26,21.51,21.67,21.32,332091
+"KURA",9.35,"5/22/2017","4:00pm",+0.10,9.30,9.45,9.15,39670
+"KVHI",8.95,"5/22/2017","4:00pm",+0.00,8.95,9.10,8.82,26645
+"FSTR",17.50,"5/22/2017","4:00pm",-0.45,18.15,18.30,17.30,29169
+"LJPC",33.70,"5/22/2017","4:00pm",-0.30,30.33,34.00,29.51,1334073
+"LSBK",15.70,"5/19/2017","1:44pm",+0.00,15.66,N/A,N/A,49
+"LBAI",18.85,"5/22/2017","4:00pm",-0.05,18.95,18.95,18.50,137469
+"LKFN",43.27,"5/22/2017","4:00pm",+0.17,43.18,43.78,42.61,43398
+"LAKE",11.45,"5/22/2017","3:58pm",+0.65,10.75,11.65,10.75,42941
+"LRCX",152.91,"5/22/2017","4:00pm",+0.51,152.75,153.38,151.15,1923484
+"LAMR",70.92,"5/22/2017","4:00pm",+0.16,70.64,71.23,70.40,267588
+"LANC",121.31,"5/22/2017","4:00pm",-0.27,121.50,123.10,121.11,98851
+"LCA",9.93,"5/22/2017","3:31pm",+0.01,9.92,9.93,9.90,1700
+"LCAHU",10.80,"5/22/2017","3:36pm",+0.02,10.81,10.81,10.78,400
+"LCAHW",0.90,"5/17/2017","10:19am",+0.00,N/A,N/A,N/A,0
+"LNDC",13.20,"5/22/2017","4:00pm",-0.05,13.40,13.40,13.00,34794
+"LARK",31.00,"5/22/2017","3:20pm",-0.10,31.01,31.25,31.00,3082
+"LMRK",15.80,"5/22/2017","4:00pm",+0.20,15.65,16.00,15.60,121485
+"LMRKO",25.1899,"5/22/2017","3:57pm",-0.0100,25.1250,25.1999,25.0000,6335
+"LMRKP",25.2317,"5/22/2017","3:14pm",+0.0467,25.1850,25.2492,25.1500,3950
+"LE",18.30,"5/22/2017","4:00pm",+0.20,18.15,18.60,17.90,71690
+"LSTR",82.90,"5/22/2017","4:00pm",+1.00,82.15,83.70,81.85,197373
+"LNTH",17.20,"5/22/2017","4:00pm",+0.90,16.35,17.45,16.00,988282
+"LTRX",2.61,"5/22/2017","4:00pm",+0.24,2.35,2.76,2.34,229657
+"LSCC",6.95,"5/22/2017","4:00pm",-0.04,6.98,7.01,6.91,323486
+"LAUR",15.89,"5/22/2017","4:00pm",+0.31,15.70,15.92,15.29,174272
+"LAWS",19.35,"5/22/2017","4:00pm",-0.40,19.75,19.85,19.25,3594
+"LAYN",7.68,"5/22/2017","4:00pm",+0.04,7.64,7.78,7.50,80377
+"LCNB",20.10,"5/22/2017","4:00pm",+0.05,20.05,20.15,19.62,10090
+"LBIX",2.05,"5/22/2017","3:59pm",-0.01,2.00,2.08,1.91,9375
+"LPTX",7.00,"5/22/2017","3:59pm",-0.56,6.65,7.05,6.65,26638
+"LGCY",2.18,"5/22/2017","4:00pm",+0.06,2.15,2.18,2.08,165909
+"LGCYO",8.75,"5/22/2017","3:59pm",+0.51,8.01,8.75,8.01,17233
+"LGCYP",8.59,"5/22/2017","3:57pm",+0.27,8.31,8.59,8.26,8476
+"LTXB",35.63,"5/22/2017","4:00pm",+0.33,35.45,35.74,35.21,173315
+"DDBI",27.62,"5/22/2017","2:34pm",+0.00,N/A,27.62,27.62,308
+"EDBI",29.93,"5/19/2017","2:38pm",+0.00,N/A,N/A,N/A,0
