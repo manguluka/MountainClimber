@@ -12,24 +12,11 @@
 
 
 require 'net/http'
-require 'open-uri'
-require 'openssl'
 require 'csv'
 
 
 output = File.open('output.txt','r')
 outputNew = File.open('outputNew.txt','w')
-
-
-# output.each do |row|
-# 	uri = URI(row)
-# 	http = Net::HTTP.new(uri.host, uri.port)
-# 	http.use_ssl = true
-# 	http.verify_mode = OpenSSL::SSL::VERIFY_NONE
-# 	request = Net::HTTP::Get.new(uri.request_uri)
-# 	response = http.request(request)
-# 	outputNew << response
-# end
 
 url = ""
 counter = 0
@@ -45,12 +32,14 @@ puts
 #Combine All CSVs here
 csv_data = []
 
-#CSV.open('combined_stock_data.csv', 'w') do |csv|
-for i in 0..counter-1
-	csvfile = "stockdata" + i.to_s + ".csv"
-	path = File.join(File.dirname(__FILE__), csvfile)
-	CSV.foreach(path) do |row|
-		puts row
+CSV.open('combined_stock_data.csv', 'w') do |csv|
+	for i in 0..counter-1
+		csvfile = "stockdata" + i.to_s + ".csv"
+		path = File.join(File.dirname(__FILE__), csvfile)
+		CSV.foreach(path) do |row|
+			#for each column of information add here
+			csv << [row[0],row[1],row[2],row[3],row[4],row[5],row[6],row[7]]		
+		end
 	end
 end
 

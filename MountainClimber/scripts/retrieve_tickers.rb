@@ -3,6 +3,8 @@
 # Description: Some basic data parsing to new file from public NASDAQ DB
 # Will probably only need to run this once a week to keep an update list of all tickers on the stock exchanges
 
+# Helpful yahoo api link: http://wern-ancheta.com/blog/2015/04/05/getting-started-with-the-yahoo-finance-api/
+
 # TODO: Implement way for HTML parsing / download of the files used to gather data. Implementation might not be in this script
 
 
@@ -34,10 +36,10 @@ yql_query = "http://download.finance.yahoo.com/d/quotes.csv?s="
 until size <= 0
 	for j in 0..99
 		if j == 99
-			yql_query << col_data[counter].to_s + "&f=sl1d1t1c1ohgv&e=.csv&columns='symbol,price,date,time,change,col1,high,low,col2"
+			yql_query << col_data[counter].to_s + "&f=sl1pok2c8t8j1&e=.csv"
 			counter = counter + 1
 		elsif counter == col_data.size-1
-			yql_query << col_data[counter].to_s + "&f=sl1d1t1c1ohgv&e=.csv&columns='symbol,price,date,time,change,col1,high,low,col2"
+			yql_query << col_data[counter].to_s + "&f=sl1pok2c8t8j1&e=.csv"
 			break
 		else
 			yql_query << col_data[counter].to_s + ","
@@ -49,7 +51,7 @@ until size <= 0
 	yql_query = "http://finance.yahoo.com/d/quotes.csv?s="	
 end
 
-puts "Download of Files..Complete!"
+puts "Queries Generated"
 
 
 
