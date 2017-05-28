@@ -38,7 +38,8 @@ CSV.open('combined_stock_data.csv', 'w') do |csv|
 		path = File.join(File.dirname(__FILE__), csvfile)
 		CSV.foreach(path) do |row|
 			#for each column of information add here
-			csv << [row[0],row[1],row[2],row[3],row[4],row[5],row[6],row[7]]		
+			csv << [row[0],row[1],row[2],row[3],row[4],row[5],row[6],row[7]]
+			puts "Printing " + row[0] + " stock information."		
 		end
 	end
 end
