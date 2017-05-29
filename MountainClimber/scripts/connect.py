@@ -9,20 +9,14 @@ def connect_to_database():
 
         print "Database Connected!"
 
-        cur = db.cursor()
-        cur.execute("SELECT * FROM test")
+        
+        return db
 
-        for row in cur.fetchall():
-            print row[0]
-
-        db.close()
 
         
     except:
         print "***ERROR: Database cannot connect***\n"
 
-    finally:
-        print "Session Closed."
 
 
 
