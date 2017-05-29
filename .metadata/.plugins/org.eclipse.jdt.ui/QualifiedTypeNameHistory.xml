@@ -27,4 +27,5 @@
 <fullyQualifiedTypeName name="java.lang.Exception"/>
 <fullyQualifiedTypeName name="mountainClimber.MountainClimber_main"/>
 <fullyQualifiedTypeName name="javafx.stage.Stage"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
 </qualifiedTypeNameHistroy>

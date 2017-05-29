@@ -203,6 +203,7 @@ public class MountainClimber_main extends Application {
 
 	public void sqlConnect(String username, String password, Stage stage)
 	{
+		boolean loginSuccessful = false;
 		//#ECF0F1
 		username = username.trim();
 		password = password.trim();
@@ -220,16 +221,35 @@ public class MountainClimber_main extends Application {
 		
 		String url = "jdbc:mysql://localhost/javabase";
 		
-		try (Connection connection = DriverManager.getConnection(url, username, password)) {
+		try (Connection connection = DriverManager.getConnection(url, "root", "")) {
+			//TODO: NEEDS CHANGED TO MORE SECURE OPTION
+			
 		    System.out.println("Database connected!");
-		    //stage.hide();
+		    
+		    Statement login = connection.createStatement();
+		    String query = "SELECT * FROM mountain_users WHERE (passwords=SHA(\'" + password + "\') AND email=\'" + username + "\');";
+		    System.out.println(query);
+		    ResultSet rs = login.executeQuery(query);
+		    rs.next();
+		    if (rs.getString("email").equals(username))
+		    {
+		    	loginSuccessful = true;
+		    }
+		    
+		    else
+		    {
+		    	loginSuccessful = false;
+		    }
+		    
 		    //MainPage mp1 = new MainPage(stage);
 		    
 		} catch (SQLException e) {
 		    pane.getChildren().clear();
 		    displaySignInPage(stage);
-		}
-		
+		    
+		    loginSuccessful = false;
+		    
+		}	
 		
 		
 	}
