@@ -34,14 +34,17 @@ import java.util.regex.*;
 import javax.naming.InitialContext;
 
 import com.mysql.jdbc.jdbc2.optional.MysqlDataSource;
+import com.sun.glass.events.KeyEvent;
 
 import javafx.scene.web.WebEngine;
 import javafx.scene.web.WebView;
 
 public class MountainClimber_main extends Application {
-	String username, password;
+	String USERNAME, PASSWORD;
 	Pane pane = new Pane();
 	Scene scene = new Scene(pane, 325, 400);
+	
+	boolean signInDisplayed = false;
 
 	public static void main(String[] args) {
 		launch(args);
@@ -55,7 +58,8 @@ public class MountainClimber_main extends Application {
 	
 	public void displaySignInPage(Stage stage)
 	{
-		System.out.println("testing that stage is called");
+		signInDisplayed = true;
+		
 		stage.setTitle("mountainclimber Sign In");
 		stage.setScene(scene); // Place the scene in the stage
 	    stage.show(); // Display the stage
@@ -113,25 +117,25 @@ public class MountainClimber_main extends Application {
 	    
 	    signIn.setOnMouseClicked(evt ->
 	    {
-	    	username = userInputField.getText();
-			if (username.isEmpty())
+	    	USERNAME = userInputField.getText();
+			if (USERNAME.isEmpty())
 			{
 				userInputField.requestFocus();
 				userInputField.setStyle("-fx-focus-color: red");
 			}
 
-			password = passwordInputField.getText();
-			if (password.isEmpty())
+			PASSWORD = passwordInputField.getText();
+			if (PASSWORD.isEmpty())
 			{
 				passwordInputField.requestFocus();
 				passwordInputField.setStyle("-fx-focus-color: red");
 
 			}
 
-			if (!username.isEmpty() && !password.isEmpty() && usernameRegexChecker(username) && passwordRegexChecker(password))
+			if (!USERNAME.isEmpty() && !PASSWORD.isEmpty() && usernameRegexChecker(USERNAME) && passwordRegexChecker(PASSWORD))
 	    	{
 	    		pane.getChildren().clear();
-	    		sqlConnect(username,password,stage);
+	    		sqlConnect(USERNAME,PASSWORD,stage);
 	    	}
 			else {
 				//TODO: DO SOMETHING HERE
@@ -146,33 +150,35 @@ public class MountainClimber_main extends Application {
 				e.printStackTrace();
 			}
 	    });
-
-	    scene.setOnKeyPressed(evt ->
-	    {
-	    	if (evt.getCode().equals(KeyCode.ENTER))
-	            {
-	    			username = userInputField.getText();
-	    			if (username.isEmpty())
-	    			{
-	    				userInputField.requestFocus();
-	    				userInputField.setStyle("-fx-focus-color: red");
-	    			}
-
-	    			password = passwordInputField.getText();
-	    			if (password.isEmpty())
-	    			{
-	    				passwordInputField.requestFocus();
-	    				passwordInputField.setStyle("-fx-focus-color: red");
-
-	    			}
-
-	    			if (!username.isEmpty() && !password.isEmpty() && usernameRegexChecker(username) && passwordRegexChecker(password))
-	    	    	{
-	    	    		pane.getChildren().clear();
-	    	    		sqlConnect(username, password, stage);
-	    	    	}
-	            }
-	    });
+	    
+	    	scene.setOnKeyPressed(evt ->
+		    {
+		    	if (evt.getCode().equals(KeyCode.ENTER))
+		            {
+		    			USERNAME = userInputField.getText();
+		    			if (USERNAME.isEmpty())
+		    			{
+		    				userInputField.requestFocus();
+		    				userInputField.setStyle("-fx-focus-color: red");
+		    			}
+	
+		    			PASSWORD = passwordInputField.getText();
+		    			if (PASSWORD.isEmpty())
+		    			{
+		    				passwordInputField.requestFocus();
+		    				passwordInputField.setStyle("-fx-focus-color: red");
+	
+		    			}
+	
+		    			if (!USERNAME.isEmpty() && !PASSWORD.isEmpty() && usernameRegexChecker(USERNAME) && passwordRegexChecker(PASSWORD) && signInDisplayed)
+		    	    	{
+		    	    		pane.getChildren().clear();
+		    	    		sqlConnect(USERNAME, PASSWORD, stage);
+		    	    		System.out.println("Hey retard you're still calling me");
+		    	    		
+		    	    	}
+		            }
+		    });
 	    
 	    pane.setStyle("-fx-background-color: #ecf0f1");
 	    pane.getChildren().add(signIn);
@@ -234,14 +240,22 @@ public class MountainClimber_main extends Application {
 		    if (rs.getString("email").equals(username))
 		    {
 		    	loginSuccessful = true;
-		    }
-		    
+		    }		    
 		    else
 		    {
 		    	loginSuccessful = false;
 		    }
 		    
-		    //MainPage mp1 = new MainPage(stage);
+		    
+		    if (loginSuccessful)
+		    {
+		    	signInDisplayed = false;
+		    	displayMainPage(stage);
+		    }		    
+		    else
+		    {
+		    	System.exit(0);
+		    }
 		    
 		} catch (SQLException e) {
 		    pane.getChildren().clear();
@@ -252,6 +266,50 @@ public class MountainClimber_main extends Application {
 		}	
 		
 		
+	}
+	
+	public void displayMainPage(Stage stage)
+	{
+		stage.setMaximized(true);
+		stage.setResizable(true);
+		stage.setTitle("mountainclimber terminal | " + USERNAME);
+		pane.getChildren().clear();
+		
+		TextField stockSearch = new TextField();
+		stockSearch.setPromptText("Enter ticker here: (ex: AAPL, GOOG, MSFT");
+		stockSearch.setStyle("-fx-background-color: -fx-text-box-border, -fx-control-inner-background;");
+		stockSearch.setMinHeight(40);
+		stockSearch.setFont(Font.font ("Arial", 16));
+		pane.getChildren().add(stockSearch);
+		
+		
+		stockSearch.setOnKeyPressed(e -> {
+			if (e.getCode().isLetterKey() || e.getCode().isDigitKey())
+			{
+				String input = e.getCode().getName();
+				if (input.contains("Numpad"))
+				{
+					input = input.replaceAll("Numpad ", "");
+				}				
+				String currentTextField = stockSearch.getText();				
+				currentTextField = currentTextField + input;
+				input = "";
+				currentTextField = currentTextField.toUpperCase();
+				System.out.println(currentTextField);
+				
+			}
+			
+		});
+		
+		
+		
+	}
+	
+	public String removeLastChar(String str) {
+	    if (str != null && str.length() > 0 && str.charAt(str.length()-1)=='x') {
+	      str = str.substring(0, str.length()-1);
+	    }
+	    return str;
 	}
 
 	
