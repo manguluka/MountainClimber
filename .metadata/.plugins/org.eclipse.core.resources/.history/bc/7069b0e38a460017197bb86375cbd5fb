@@ -34,6 +34,7 @@ import java.util.regex.*;
 import javax.naming.InitialContext;
 
 import com.mysql.jdbc.jdbc2.optional.MysqlDataSource;
+import com.sun.glass.events.KeyEvent;
 
 import javafx.scene.web.WebEngine;
 import javafx.scene.web.WebView;
@@ -281,15 +282,34 @@ public class MountainClimber_main extends Application {
 		stockSearch.setFont(Font.font ("Arial", 16));
 		pane.getChildren().add(stockSearch);
 		
-		String alphabet = "abcdefghijklmnopqrstuvwxyz";
-		
 		
 		stockSearch.setOnKeyPressed(e -> {
-			System.out.println(e.getText());			
+			if (e.getCode().isLetterKey() || e.getCode().isDigitKey())
+			{
+				String input = e.getCode().getName();
+				if (input.contains("Numpad"))
+				{
+					input = input.replaceAll("Numpad ", "");
+				}				
+				String currentTextField = stockSearch.getText();				
+				currentTextField = currentTextField + input;
+				input = "";
+				currentTextField = currentTextField.toUpperCase();
+				System.out.println(currentTextField);
+				
+			}
+			
 		});
 		
 		
 		
+	}
+	
+	public String removeLastChar(String str) {
+	    if (str != null && str.length() > 0 && str.charAt(str.length()-1)=='x') {
+	      str = str.substring(0, str.length()-1);
+	    }
+	    return str;
 	}
 
 	

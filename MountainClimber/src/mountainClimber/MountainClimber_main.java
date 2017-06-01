@@ -283,7 +283,7 @@ public class MountainClimber_main extends Application {
 		pane.getChildren().add(stockSearch);
 		
 		
-		stockSearch.setOnKeyPressed(e -> {
+		stockSearch.setOnKeyPressed(e -> {				
 			if (e.getCode().isLetterKey() || e.getCode().isDigitKey())
 			{
 				String input = e.getCode().getName();
@@ -297,6 +297,22 @@ public class MountainClimber_main extends Application {
 				currentTextField = currentTextField.toUpperCase();
 				System.out.println(currentTextField);
 				
+				
+				// String query = "SELECT ticker, price FROM stock_list WHERE ticker LIKE \'" + currentTextField + "%\' LIMIT 25;";
+				
+				
+				
+			}
+			
+			if (e.getCode() == KeyCode.BACK_SPACE)
+			{
+				//USE currentTextField for MySQL Queries! 
+				
+				String currentTextField = "";
+				currentTextField = stockSearch.getText();
+				currentTextField = removeLastChar(currentTextField);
+				System.out.println(currentTextField);						
+				
 			}
 			
 		});
@@ -306,7 +322,7 @@ public class MountainClimber_main extends Application {
 	}
 	
 	public String removeLastChar(String str) {
-	    if (str != null && str.length() > 0 && str.charAt(str.length()-1)=='x') {
+	    if (str != null && str.length() > 0) {
 	      str = str.substring(0, str.length()-1);
 	    }
 	    return str;
